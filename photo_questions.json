@@ -10,6 +10,13 @@
    "Ουίλιαμ Σαίξπηρ",
    "Λόπε ντε Βέγα",
    "Πιερ Κορνέιγ"
+  ],
+  "opts_en": [
+   "Ben Jonson",
+   "John Donne",
+   "William Shakespeare",
+   "Lope de Vega",
+   "Pierre Corneille"
   ]
  },
  {
@@ -23,6 +30,13 @@
    "Τζον Μίλτον",
    "Μιγκέλ ντε Θερβάντες",
    "Λόπε ντε Βέγα"
+  ],
+  "opts_en": [
+   "Christopher Marlowe",
+   "Ben Jonson",
+   "John Milton",
+   "Miguel de Cervantes",
+   "Lope de Vega"
   ]
  },
  {
@@ -36,6 +50,13 @@
    "Τζον Μπάνυαν",
    "Μολιέρος",
    "Πιερ Κορνέιγ"
+  ],
+  "opts_en": [
+   "John Donne",
+   "Andrew Marvell",
+   "John Bunyan",
+   "Molière",
+   "Pierre Corneille"
   ]
  },
  {
@@ -49,6 +70,13 @@
    "Λόρενς Στερν",
    "Βολταίρος",
    "Τζόναθαν Σουίφτ"
+  ],
+  "opts_en": [
+   "Henry Fielding",
+   "Samuel Richardson",
+   "Laurence Sterne",
+   "Voltaire",
+   "Jonathan Swift"
   ]
  },
  {
@@ -62,6 +90,13 @@
    "Σάμιουελ Ρίτσαρντσον",
    "Βολταίρος",
    "Ντενί Ντιντερό"
+  ],
+  "opts_en": [
+   "Henry Fielding",
+   "Daniel Defoe",
+   "Samuel Richardson",
+   "Voltaire",
+   "Denis Diderot"
   ]
  },
  {
@@ -75,6 +110,13 @@
    "Τζορτζ Έλιοτ",
    "Λουίζα Μέυ Άλκοτ",
    "Γεωργία Σάνδη"
+  ],
+  "opts_en": [
+   "Mary Shelley",
+   "Charlotte Brontë",
+   "George Eliot",
+   "Louisa May Alcott",
+   "George Sand"
   ]
  },
  {
@@ -88,6 +130,13 @@
    "Πέρσι Σέλλεϋ",
    "Νοβάλις",
    "Φρίντριχ Χέλντερλιν"
+  ],
+  "opts_en": [
+   "William Wordsworth",
+   "John Keats",
+   "Percy Shelley",
+   "Novalis",
+   "Friedrich Hölderlin"
   ]
  },
  {
@@ -101,6 +150,13 @@
    "Σάμιουελ Τέιλορ Κόουλριτζ",
    "Αλέξανδρος Πούσκιν",
    "Ούγκο Φόσκολο"
+  ],
+  "opts_en": [
+   "Percy Shelley",
+   "George Gordon Byron",
+   "Samuel Taylor Coleridge",
+   "Alexander Pushkin",
+   "Ugo Foscolo"
   ]
  },
  {
@@ -114,6 +170,13 @@
    "Ουίλιαμ Γουόρντσγουορθ",
    "Χάινριχ Χάινε",
    "Αλέξανδρος Πούσκιν"
+  ],
+  "opts_en": [
+   "John Keats",
+   "George Gordon Byron",
+   "William Wordsworth",
+   "Heinrich Heine",
+   "Alexander Pushkin"
   ]
  },
  {
@@ -127,6 +190,13 @@
    "Σάμιουελ Τέιλορ Κόουλριτζ",
    "Αλέξανδρος Πούσκιν",
    "Διονύσιος Σολωμός"
+  ],
+  "opts_en": [
+   "Percy Shelley",
+   "John Keats",
+   "Samuel Taylor Coleridge",
+   "Alexander Pushkin",
+   "Dionysios Solomos"
   ]
  },
  {
@@ -140,6 +210,13 @@
    "Έμιλι Μπροντέ",
    "Γεωργία Σάνδη",
    "Λουίζα Μέυ Άλκοτ"
+  ],
+  "opts_en": [
+   "Jane Austen",
+   "Charlotte Brontë",
+   "Emily Brontë",
+   "George Sand",
+   "Louisa May Alcott"
   ]
  },
  {
@@ -153,6 +230,13 @@
    "Άντονι Τρόλοπ",
    "Ονορέ ντε Μπαλζάκ",
    "Βίκτωρ Ουγκό"
+  ],
+  "opts_en": [
+   "William Thackeray",
+   "Thomas Hardy",
+   "Anthony Trollope",
+   "Honoré de Balzac",
+   "Victor Hugo"
   ]
  },
  {
@@ -166,6 +250,13 @@
    "Ουίλιαμ Θάκερεϊ",
    "Εμίλ Ζολά",
    "Λέων Τολστόι"
+  ],
+  "opts_en": [
+   "Charles Dickens",
+   "George Meredith",
+   "William Thackeray",
+   "Émile Zola",
+   "Leo Tolstoy"
   ]
  },
  {
@@ -179,6 +270,13 @@
    "Ντόρις Λέσινγκ",
    "Κολέτ",
    "Γερτρούδη Στάιν"
+  ],
+  "opts_en": [
+   "Agatha Christie",
+   "Vita Sackville-West",
+   "Doris Lessing",
+   "Colette",
+   "Gertrude Stein"
   ]
  },
  {
@@ -192,6 +290,13 @@
    "Τζον Κητς",
    "Νοβάλις",
    "Γιόχαν Βόλφγκανγκ φον Γκαίτε"
+  ],
+  "opts_en": [
+   "Samuel Taylor Coleridge",
+   "William Wordsworth",
+   "John Keats",
+   "Novalis",
+   "Johann Wolfgang von Goethe"
   ]
  },
  {
@@ -205,6 +310,13 @@
    "Τζον Κητς",
    "Ουώλτ Ουίτμαν",
    "Βίκτωρ Ουγκό"
+  ],
+  "opts_en": [
+   "Robert Browning",
+   "Matthew Arnold",
+   "John Keats",
+   "Walt Whitman",
+   "Victor Hugo"
   ]
  },
  {
@@ -218,6 +330,13 @@
    "Ράντγιαρντ Κίπλινγκ",
    "Τζέιμς Μάθιου Μπάρι",
    "Ιούλιος Βερν"
+  ],
+  "opts_en": [
+   "Edward Lear",
+   "Kenneth Grahame",
+   "Rudyard Kipling",
+   "James Matthew Barrie",
+   "Jules Verne"
   ]
  },
  {
@@ -231,6 +350,13 @@
    "Λιούις Κάρολ",
    "Ρόμπερτ Λούις Στίβενσον",
    "Τζακ Λόντον"
+  ],
+  "opts_en": [
+   "Herbert George Wells",
+   "Thomas Hardy",
+   "Lewis Carroll",
+   "Robert Louis Stevenson",
+   "Jack London"
   ]
  },
  {
@@ -244,6 +370,13 @@
    "Άλντους Χάξλεϊ",
    "Ιούλιος Βερν",
    "Άρθουρ Κόναν Ντόυλ"
+  ],
+  "opts_en": [
+   "Rudyard Kipling",
+   "George Orwell",
+   "Aldous Huxley",
+   "Jules Verne",
+   "Arthur Conan Doyle"
   ]
  },
  {
@@ -257,6 +390,13 @@
    "Γκράχαμ Γκρην",
    "Τόμας Μαν",
    "Αντρέ Ζιντ"
+  ],
+  "opts_en": [
+   "David Herbert Lawrence",
+   "Evelyn Waugh",
+   "Graham Greene",
+   "Thomas Mann",
+   "André Gide"
   ]
  },
  {
@@ -270,6 +410,13 @@
    "Τζορτζ Όργουελ",
    "Τζέιμς Τζόυς",
    "Τόμας Μαν"
+  ],
+  "opts_en": [
+   "Edward Morgan Forster",
+   "Thomas Hardy",
+   "George Orwell",
+   "James Joyce",
+   "Thomas Mann"
   ]
  },
  {
@@ -283,6 +430,13 @@
    "Ίβελιν Γουώ",
    "Γιεβγκένι Ζαμιάτιν",
    "Ρέι Μπράντμπερι"
+  ],
+  "opts_en": [
+   "Aldous Huxley",
+   "Graham Greene",
+   "Evelyn Waugh",
+   "Yevgeny Zamyatin",
+   "Ray Bradbury"
   ]
  },
  {
@@ -296,6 +450,13 @@
    "Ουίλιαμ Γκόλντινγκ",
    "Ζορζ Σιμενόν",
    "Αλμπέρ Καμί"
+  ],
+  "opts_en": [
+   "Evelyn Waugh",
+   "George Orwell",
+   "William Golding",
+   "Georges Simenon",
+   "Albert Camus"
   ]
  },
  {
@@ -309,6 +470,13 @@
    "Έντουαρντ Μόργκαν Φόρστερ",
    "Φράνσις Σκοτ Φιτζέραλντ",
    "Ζαν Κοκτώ"
+  ],
+  "opts_en": [
+   "Graham Greene",
+   "George Orwell",
+   "Edward Morgan Forster",
+   "Francis Scott Fitzgerald",
+   "Jean Cocteau"
   ]
  },
  {
@@ -322,6 +490,13 @@
    "Τζορτζ Όργουελ",
    "Αλμπέρ Καμί",
    "Γκύντερ Γκρας"
+  ],
+  "opts_en": [
+   "Graham Greene",
+   "Ian McEwan",
+   "George Orwell",
+   "Albert Camus",
+   "Günter Grass"
   ]
  },
  {
@@ -335,6 +510,13 @@
    "Μπερναρντίν Εβαρίστο",
    "Ναντίν Γκόρντιμερ",
    "Μαργκερίτ Ντυράς"
+  ],
+  "opts_en": [
+   "Virginia Woolf",
+   "Iris Murdoch",
+   "Bernardine Evaristo",
+   "Nadine Gordimer",
+   "Marguerite Duras"
   ]
  },
  {
@@ -348,6 +530,13 @@
    "Ραμπιντρανάθ Ταγκόρ",
    "Ορχάν Παμούκ",
    "Καζούο Ισιγκούρο"
+  ],
+  "opts_en": [
+   "Amitav Ghosh",
+   "Vikram Seth",
+   "Rabindranath Tagore",
+   "Orhan Pamuk",
+   "Kazuo Ishiguro"
   ]
  },
  {
@@ -361,6 +550,13 @@
    "Μάρτιν Έιμις",
    "Χαρούκι Μουρακάμι",
    "Πολ Όστερ"
+  ],
+  "opts_en": [
+   "Ian McEwan",
+   "Julian Barnes",
+   "Martin Amis",
+   "Haruki Murakami",
+   "Paul Auster"
   ]
  },
  {
@@ -374,6 +570,13 @@
    "Μάρτιν Έιμις",
    "Μισέλ Ουελμπέκ",
    "Πολ Όστερ"
+  ],
+  "opts_en": [
+   "Ian McEwan",
+   "Kazuo Ishiguro",
+   "Martin Amis",
+   "Michel Houellebecq",
+   "Paul Auster"
   ]
  },
  {
@@ -387,6 +590,13 @@
    "Μάρτιν Έιμις",
    "Φίλιπ Ροθ",
    "Πολ Όστερ"
+  ],
+  "opts_en": [
+   "Julian Barnes",
+   "Kazuo Ishiguro",
+   "Martin Amis",
+   "Philip Roth",
+   "Paul Auster"
   ]
  },
  {
@@ -400,6 +610,13 @@
    "Αλάα αλ-Ασουάνι",
    "Τζουμπράν Χαλίλ Τζουμπράν",
    "Ορχάν Παμούκ"
+  ],
+  "opts_en": [
+   "Tawfiq al-Hakim",
+   "Taha Hussein",
+   "Alaa Al Aswany",
+   "Kahlil Gibran",
+   "Orhan Pamuk"
   ]
  },
  {
@@ -413,6 +630,13 @@
    "Γκιέργκ Φίστα",
    "Ορχάν Παμούκ",
    "Ίβο Άντριτς"
+  ],
+  "opts_en": [
+   "Dritëro Agolli",
+   "Fatos Kongoli",
+   "Gjergj Fishta",
+   "Orhan Pamuk",
+   "Ivo Andrić"
   ]
  },
  {
@@ -426,6 +650,13 @@
    "Αδόλφο Μπιόι Κασάρες",
    "Οκτάβιο Παζ",
    "Ίταλο Καλβίνο"
+  ],
+  "opts_en": [
+   "Julio Cortázar",
+   "Ernesto Sabato",
+   "Adolfo Bioy Casares",
+   "Octavio Paz",
+   "Italo Calvino"
   ]
  },
  {
@@ -439,6 +670,13 @@
    "Αδόλφο Μπιόι Κασάρες",
    "Γκαμπριέλ Γκαρσία Μάρκες",
    "Κάρλος Φουέντες"
+  ],
+  "opts_en": [
+   "Jorge Luis Borges",
+   "Ernesto Sabato",
+   "Adolfo Bioy Casares",
+   "Gabriel García Márquez",
+   "Carlos Fuentes"
   ]
  },
  {
@@ -452,6 +690,13 @@
    "Αδόλφο Μπιόι Κασάρες",
    "Χουάν Ρούλφο",
    "Αλμπέρ Καμί"
+  ],
+  "opts_en": [
+   "Jorge Luis Borges",
+   "Julio Cortázar",
+   "Adolfo Bioy Casares",
+   "Juan Rulfo",
+   "Albert Camus"
   ]
  },
  {
@@ -465,6 +710,13 @@
    "Τιμ Ουίντον",
    "Τζον Μάξγουελ Κουτσί",
    "Ουίλιαμ Φώκνερ"
+  ],
+  "opts_en": [
+   "Peter Carey",
+   "Thomas Keneally",
+   "Tim Winton",
+   "J. M. Coetzee",
+   "William Faulkner"
   ]
  },
  {
@@ -478,6 +730,13 @@
    "Άρτουρ Σνίτσλερ",
    "Τόμας Μαν",
    "Χέρμαν Έσσε"
+  ],
+  "opts_en": [
+   "Joseph Roth",
+   "Robert Musil",
+   "Arthur Schnitzler",
+   "Thomas Mann",
+   "Hermann Hesse"
   ]
  },
  {
@@ -491,6 +750,13 @@
    "Γιόζεφ Ροτ",
    "Τόμας Μαν",
    "Φραντς Κάφκα"
+  ],
+  "opts_en": [
+   "Hermann Broch",
+   "Stefan Zweig",
+   "Joseph Roth",
+   "Thomas Mann",
+   "Franz Kafka"
   ]
  },
  {
@@ -504,6 +770,13 @@
    "Γιόζεφ Ροτ",
    "Τόμας Μαν",
    "Άλφρεντ Ντέμπλιν"
+  ],
+  "opts_en": [
+   "Robert Musil",
+   "Stefan Zweig",
+   "Joseph Roth",
+   "Thomas Mann",
+   "Alfred Döblin"
   ]
  },
  {
@@ -517,6 +790,13 @@
    "Χέρμαν Μπροχ",
    "Χανς Φάλαντα",
    "Έριχ Μαρία Ρεμάρκ"
+  ],
+  "opts_en": [
+   "Stefan Zweig",
+   "Robert Musil",
+   "Hermann Broch",
+   "Hans Fallada",
+   "Erich Maria Remarque"
   ]
  },
  {
@@ -530,6 +810,13 @@
    "Ρόμπερτ Μούζιλ",
    "Γκύντερ Γκρας",
    "Πατρίκ Μοντιανό"
+  ],
+  "opts_en": [
+   "Thomas Bernhard",
+   "Stefan Zweig",
+   "Robert Musil",
+   "Günter Grass",
+   "Patrick Modiano"
   ]
  },
  {
@@ -543,6 +830,13 @@
    "Ίλσε Άιχινγκερ",
    "Χέρτα Μίλερ",
    "Ανί Ερνό"
+  ],
+  "opts_en": [
+   "Ingeborg Bachmann",
+   "Bertha von Suttner",
+   "Ilse Aichinger",
+   "Herta Müller",
+   "Annie Ernaux"
   ]
  },
  {
@@ -556,6 +850,13 @@
    "Ανρί Μισό",
    "Άρθουρ Κόναν Ντόυλ",
    "Αντρέα Καμιλλέρι"
+  ],
+  "opts_en": [
+   "Maurice Maeterlinck",
+   "Émile Verhaeren",
+   "Henri Michaux",
+   "Arthur Conan Doyle",
+   "Andrea Camilleri"
   ]
  },
  {
@@ -569,6 +870,13 @@
    "Αλέκο Κωνσταντίνοφ",
    "Ορχάν Παμούκ",
    "Μίλαν Κούντερα"
+  ],
+  "opts_en": [
+   "Ivan Vazov",
+   "Elias Canetti",
+   "Aleko Konstantinov",
+   "Orhan Pamuk",
+   "Milan Kundera"
   ]
  },
  {
@@ -582,6 +890,13 @@
    "Πάουλο Κοέλιο",
    "Ζοζέ Σαραμάγκου",
    "Έσα ντε Κεϊρός"
+  ],
+  "opts_en": [
+   "Jorge Amado",
+   "João Guimarães Rosa",
+   "Paulo Coelho",
+   "José Saramago",
+   "Eça de Queirós"
   ]
  },
  {
@@ -595,6 +910,13 @@
    "Ζοάο Γκιμαράες Ρόζα",
    "Γκαμπριέλ Γκαρσία Μάρκες",
    "Μάριο Βάργκας Λιόσα"
+  ],
+  "opts_en": [
+   "Machado de Assis",
+   "Paulo Coelho",
+   "João Guimarães Rosa",
+   "Gabriel García Márquez",
+   "Mario Vargas Llosa"
   ]
  },
  {
@@ -608,6 +930,13 @@
    "Λίζια Φαγκούντες Τέλες",
    "Γκαμπριέλα Μιστράλ",
    "Μαργκερίτ Ντυράς"
+  ],
+  "opts_en": [
+   "Cecília Meireles",
+   "Rachel de Queiroz",
+   "Lygia Fagundes Telles",
+   "Gabriela Mistral",
+   "Marguerite Duras"
   ]
  },
  {
@@ -621,6 +950,13 @@
    "Ζοάο Γκιμαράες Ρόζα",
    "Τζουμπράν Χαλίλ Τζουμπράν",
    "Ζοζέ Σαραμάγκου"
+  ],
+  "opts_en": [
+   "Jorge Amado",
+   "Machado de Assis",
+   "João Guimarães Rosa",
+   "Kahlil Gibran",
+   "José Saramago"
   ]
  },
  {
@@ -634,6 +970,13 @@
    "Βολταίρος",
    "Λόπε ντε Βέγα",
    "Ουίλιαμ Σαίξπηρ"
+  ],
+  "opts_en": [
+   "Jean Racine",
+   "Pierre Corneille",
+   "Voltaire",
+   "Lope de Vega",
+   "William Shakespeare"
   ]
  },
  {
@@ -647,6 +990,13 @@
    "Μοντεσκιέ",
    "Λόρενς Στερν",
    "Γκότχολντ Εφραίμ Λέσινγκ"
+  ],
+  "opts_en": [
+   "Jean-Jacques Rousseau",
+   "Denis Diderot",
+   "Montesquieu",
+   "Laurence Sterne",
+   "Gotthold Ephraim Lessing"
   ]
  },
  {
@@ -660,6 +1010,13 @@
    "Σταντάλ",
    "Γιόχαν Βόλφγκανγκ φον Γκαίτε",
    "Λόρδος Βύρων"
+  ],
+  "opts_en": [
+   "Victor Hugo",
+   "Alphonse de Lamartine",
+   "Stendhal",
+   "Johann Wolfgang von Goethe",
+   "George Gordon Byron"
   ]
  },
  {
@@ -673,6 +1030,13 @@
    "Γκυστάβ Φλωμπέρ",
    "Τσαρλς Ντίκενς",
    "Λέων Τολστόι"
+  ],
+  "opts_en": [
+   "Honoré de Balzac",
+   "Alexandre Dumas",
+   "Gustave Flaubert",
+   "Charles Dickens",
+   "Leo Tolstoy"
   ]
  },
  {
@@ -686,6 +1050,13 @@
    "Γκυστάβ Φλωμπέρ",
    "Τσαρλς Ντίκενς",
    "Νικολάι Γκόγκολ"
+  ],
+  "opts_en": [
+   "Victor Hugo",
+   "Stendhal",
+   "Gustave Flaubert",
+   "Charles Dickens",
+   "Nikolai Gogol"
   ]
  },
  {
@@ -699,6 +1070,13 @@
    "Γκυ ντε Μωπασσάν",
    "Λέων Τολστόι",
    "Ιβάν Τουργκένιεφ"
+  ],
+  "opts_en": [
+   "Honoré de Balzac",
+   "Émile Zola",
+   "Guy de Maupassant",
+   "Leo Tolstoy",
+   "Ivan Turgenev"
   ]
  },
  {
@@ -712,6 +1090,13 @@
    "Αλφόνς Ντοντέ",
    "Τόμας Χάρντι",
    "Φιοντόρ Ντοστογιέφσκι"
+  ],
+  "opts_en": [
+   "Gustave Flaubert",
+   "Guy de Maupassant",
+   "Alphonse Daudet",
+   "Thomas Hardy",
+   "Fyodor Dostoevsky"
   ]
  },
  {
@@ -725,6 +1110,13 @@
    "Στεφάν Μαλαρμέ",
    "Έντγκαρ Άλαν Πόε",
    "Ουώλτ Ουίτμαν"
+  ],
+  "opts_en": [
+   "Paul Verlaine",
+   "Arthur Rimbaud",
+   "Stéphane Mallarmé",
+   "Edgar Allan Poe",
+   "Walt Whitman"
   ]
  },
  {
@@ -738,6 +1130,13 @@
    "Στεφάν Μαλαρμέ",
    "Ουώλτ Ουίτμαν",
    "Άλφρεντ Τέννυσον"
+  ],
+  "opts_en": [
+   "Arthur Rimbaud",
+   "Charles Baudelaire",
+   "Stéphane Mallarmé",
+   "Walt Whitman",
+   "Alfred Tennyson"
   ]
  },
  {
@@ -751,6 +1150,13 @@
    "Στεφάν Μαλαρμέ",
    "Έντγκαρ Άλαν Πόε",
    "Ουώλτ Ουίτμαν"
+  ],
+  "opts_en": [
+   "Paul Verlaine",
+   "Charles Baudelaire",
+   "Stéphane Mallarmé",
+   "Edgar Allan Poe",
+   "Walt Whitman"
   ]
  },
  {
@@ -764,6 +1170,13 @@
    "Ονορέ ντε Μπαλζάκ",
    "Γουόλτερ Σκοτ",
    "Τσαρλς Ντίκενς"
+  ],
+  "opts_en": [
+   "Victor Hugo",
+   "Jules Verne",
+   "Honoré de Balzac",
+   "Walter Scott",
+   "Charles Dickens"
   ]
  },
  {
@@ -777,6 +1190,13 @@
    "Μαργκερίτ Γιουρσενάρ",
    "Τζέιν Όστεν",
    "Μαίρη Σέλλεϋ"
+  ],
+  "opts_en": [
+   "Colette",
+   "Madame de Staël",
+   "Marguerite Yourcenar",
+   "Jane Austen",
+   "Mary Shelley"
   ]
  },
  {
@@ -790,6 +1210,13 @@
    "Αλφόνς Ντοντέ",
    "Αντόν Τσέχωφ",
    "Έντγκαρ Άλαν Πόε"
+  ],
+  "opts_en": [
+   "Gustave Flaubert",
+   "Émile Zola",
+   "Alphonse Daudet",
+   "Anton Chekhov",
+   "Edgar Allan Poe"
   ]
  },
  {
@@ -803,6 +1230,13 @@
    "Πιέρ Λοτί",
    "Χέρμπερτ Τζορτζ Ουέλς",
    "Ρόμπερτ Λούις Στίβενσον"
+  ],
+  "opts_en": [
+   "Alexandre Dumas",
+   "Victor Hugo",
+   "Pierre Loti",
+   "Herbert George Wells",
+   "Robert Louis Stevenson"
   ]
  },
  {
@@ -816,6 +1250,13 @@
    "Αρθούρος Ρεμπώ",
    "Έντγκαρ Άλαν Πόε",
    "Κωστής Παλαμάς"
+  ],
+  "opts_en": [
+   "Charles Baudelaire",
+   "Paul Verlaine",
+   "Arthur Rimbaud",
+   "Edgar Allan Poe",
+   "Kostis Palamas"
   ]
  },
  {
@@ -829,6 +1270,13 @@
    "Ζαν Κοκτώ",
    "Τζέιμς Τζόυς",
    "Τόμας Μαν"
+  ],
+  "opts_en": [
+   "André Gide",
+   "Anatole France",
+   "Jean Cocteau",
+   "James Joyce",
+   "Thomas Mann"
   ]
  },
  {
@@ -842,6 +1290,13 @@
    "Ζαν Κοκτώ",
    "Τόμας Μαν",
    "Όσκαρ Ουάιλντ"
+  ],
+  "opts_en": [
+   "Marcel Proust",
+   "Paul Valéry",
+   "Jean Cocteau",
+   "Thomas Mann",
+   "Oscar Wilde"
   ]
  },
  {
@@ -855,6 +1310,13 @@
    "Αντρέ Μαλρό",
    "Φραντς Κάφκα",
    "Ερνέστο Σάμπατο"
+  ],
+  "opts_en": [
+   "Jean-Paul Sartre",
+   "Antoine de Saint-Exupéry",
+   "André Malraux",
+   "Franz Kafka",
+   "Ernesto Sabato"
   ]
  },
  {
@@ -868,6 +1330,13 @@
    "Λουί Αραγκόν",
    "Σάμιουελ Μπέκετ",
    "Μπέρτολτ Μπρεχτ"
+  ],
+  "opts_en": [
+   "Albert Camus",
+   "André Malraux",
+   "Louis Aragon",
+   "Samuel Beckett",
+   "Bertolt Brecht"
   ]
  },
  {
@@ -881,6 +1350,13 @@
    "Κολέτ",
    "Ντόρις Λέσινγκ",
    "Βιρτζίνια Γουλφ"
+  ],
+  "opts_en": [
+   "Simone de Beauvoir",
+   "Françoise Sagan",
+   "Colette",
+   "Doris Lessing",
+   "Virginia Woolf"
   ]
  },
  {
@@ -894,6 +1370,13 @@
    "Πωλ Βαλερί",
    "Βλαντίμιρ Μαγιακόφσκι",
    "Φιλίππο Τομμάζο Μαρινέτι"
+  ],
+  "opts_en": [
+   "Jean Cocteau",
+   "Louis Aragon",
+   "Paul Valéry",
+   "Vladimir Mayakovsky",
+   "Filippo Tommaso Marinetti"
   ]
  },
  {
@@ -907,6 +1390,13 @@
    "Λουί Αραγκόν",
    "Φεντερίκο Γκαρθία Λόρκα",
    "Λουίτζι Πιραντέλλο"
+  ],
+  "opts_en": [
+   "Guillaume Apollinaire",
+   "André Gide",
+   "Louis Aragon",
+   "Federico García Lorca",
+   "Luigi Pirandello"
   ]
  },
  {
@@ -920,6 +1410,13 @@
    "Φρανσουάζ Σαγκάν",
    "Βιρτζίνια Γουλφ",
    "Σίγκριντ Ούντσετ"
+  ],
+  "opts_en": [
+   "George Sand",
+   "Marguerite Duras",
+   "Françoise Sagan",
+   "Virginia Woolf",
+   "Sigrid Undset"
   ]
  },
  {
@@ -933,6 +1430,13 @@
    "Ζαν-Πολ Σαρτρ",
    "Χένρι Μίλερ",
    "Έριχ Μαρία Ρεμάρκ"
+  ],
+  "opts_en": [
+   "André Malraux",
+   "Albert Camus",
+   "Jean-Paul Sartre",
+   "Henry Miller",
+   "Erich Maria Remarque"
   ]
  },
  {
@@ -946,6 +1450,13 @@
    "Ζαν Κοκτώ",
    "Έρνεστ Χέμινγουεϊ",
    "Έριχ Κέστνερ"
+  ],
+  "opts_en": [
+   "Albert Camus",
+   "André Malraux",
+   "Jean Cocteau",
+   "Ernest Hemingway",
+   "Erich Kästner"
   ]
  },
  {
@@ -959,6 +1470,13 @@
    "Σιμόν ντε Μπωβουάρ",
    "Σύλβια Πλαθ",
    "Ντόρις Λέσινγκ"
+  ],
+  "opts_en": [
+   "Marguerite Duras",
+   "Colette",
+   "Simone de Beauvoir",
+   "Sylvia Plath",
+   "Doris Lessing"
   ]
  },
  {
@@ -972,6 +1490,13 @@
    "Ζαν-Μαρί Γκυστάβ Λε Κλεζιό",
    "Ίταλο Καλβίνο",
    "Χούλιο Κορτάσαρ"
+  ],
+  "opts_en": [
+   "Raymond Queneau",
+   "Patrick Modiano",
+   "Jean Marie Gustave Le Clézio",
+   "Italo Calvino",
+   "Julio Cortázar"
   ]
  },
  {
@@ -985,6 +1510,13 @@
    "Μισέλ Τουρνιέ",
    "Ζοζέ Σαραμάγκου",
    "Γκύντερ Γκρας"
+  ],
+  "opts_en": [
+   "Patrick Modiano",
+   "Georges Perec",
+   "Michel Tournier",
+   "José Saramago",
+   "Günter Grass"
   ]
  },
  {
@@ -998,6 +1530,13 @@
    "Πατρίκ Μοντιανό",
    "Μπρετ Ίστον Έλλις",
    "Ίαν ΜακΓιούαν"
+  ],
+  "opts_en": [
+   "Frédéric Beigbeder",
+   "Emmanuel Carrère",
+   "Patrick Modiano",
+   "Bret Easton Ellis",
+   "Ian McEwan"
   ]
  },
  {
@@ -1011,6 +1550,13 @@
    "Σιμόν ντε Μπωβουάρ",
    "Άλις Μάνρο",
    "Έλφριντε Γέλινεκ"
+  ],
+  "opts_en": [
+   "Marguerite Duras",
+   "Françoise Sagan",
+   "Simone de Beauvoir",
+   "Alice Munro",
+   "Elfriede Jelinek"
   ]
  },
  {
@@ -1024,6 +1570,13 @@
    "Ζωρζ Περέκ",
    "Πέτερ Χάντκε",
    "Καζούο Ισιγκούρο"
+  ],
+  "opts_en": [
+   "Jean Marie Gustave Le Clézio",
+   "Michel Houellebecq",
+   "Georges Perec",
+   "Peter Handke",
+   "Kazuo Ishiguro"
   ]
  },
  {
@@ -1037,6 +1590,13 @@
    "Γκιγιώμ Απολλιναίρ",
    "Πάμπλο Νερούδα",
    "Ναζίμ Χικμέτ"
+  ],
+  "opts_en": [
+   "Paul Éluard",
+   "André Breton",
+   "Guillaume Apollinaire",
+   "Pablo Neruda",
+   "Nâzım Hikmet"
   ]
  },
  {
@@ -1050,6 +1610,13 @@
    "Φρεντερίκ Μπεγκμπεντέ",
    "Ντάγκλας Στιούαρτ",
    "Καρλ Όβε Κνάουσγκορντ"
+  ],
+  "opts_en": [
+   "Michel Houellebecq",
+   "Emmanuel Carrère",
+   "Frédéric Beigbeder",
+   "Douglas Stuart",
+   "Karl Ove Knausgård"
   ]
  },
  {
@@ -1063,6 +1630,13 @@
    "Ανατόλ Φρανς",
    "Λευκάδιος Χερν",
    "Ρόμπερτ Λούις Στίβενσον"
+  ],
+  "opts_en": [
+   "Jules Verne",
+   "Guy de Maupassant",
+   "Anatole France",
+   "Lafcadio Hearn",
+   "Robert Louis Stevenson"
   ]
  },
  {
@@ -1076,6 +1650,13 @@
    "Μισέλ Ουελμπέκ",
    "Μίλαν Κούντερα",
    "Βασίλι Γκρόσμαν"
+  ],
+  "opts_en": [
+   "Patrick Modiano",
+   "Jean Marie Gustave Le Clézio",
+   "Michel Houellebecq",
+   "Milan Kundera",
+   "Vasily Grossman"
   ]
  },
  {
@@ -1089,6 +1670,13 @@
    "Κρίστοφ Μάρτιν Βίλαντ",
    "Βολταίρος",
    "Ντενί Ντιντερό"
+  ],
+  "opts_en": [
+   "Johann Wolfgang von Goethe",
+   "Friedrich Schiller",
+   "Christoph Martin Wieland",
+   "Voltaire",
+   "Denis Diderot"
   ]
  },
  {
@@ -1102,6 +1690,13 @@
    "Φρίντριχ Χέλντερλιν",
    "Λόρδος Βύρων",
    "Ουίλιαμ Μπλέικ"
+  ],
+  "opts_en": [
+   "Friedrich Schiller",
+   "Gotthold Ephraim Lessing",
+   "Friedrich Hölderlin",
+   "George Gordon Byron",
+   "William Blake"
   ]
  },
  {
@@ -1115,6 +1710,13 @@
    "Φρίντριχ Χέλντερλιν",
    "Ούγκο Φόσκολο",
    "Σάμιουελ Τέιλορ Κόουλριτζ"
+  ],
+  "opts_en": [
+   "Johann Wolfgang von Goethe",
+   "Gotthold Ephraim Lessing",
+   "Friedrich Hölderlin",
+   "Ugo Foscolo",
+   "Samuel Taylor Coleridge"
   ]
  },
  {
@@ -1128,6 +1730,13 @@
    "Χάινριχ Χάινε",
    "Τζον Κητς",
    "Ούγκο Φόσκολο"
+  ],
+  "opts_en": [
+   "Novalis",
+   "Friedrich Schiller",
+   "Heinrich Heine",
+   "John Keats",
+   "Ugo Foscolo"
   ]
  },
  {
@@ -1141,6 +1750,13 @@
    "Λούντβιχ Τικ",
    "Ουίλιαμ Γουόρντσγουορθ",
    "Σάμιουελ Τέιλορ Κόουλριτζ"
+  ],
+  "opts_en": [
+   "Friedrich Hölderlin",
+   "Ernst Theodor Wilhelm Hoffmann",
+   "Ludwig Tieck",
+   "William Wordsworth",
+   "Samuel Taylor Coleridge"
   ]
  },
  {
@@ -1154,6 +1770,13 @@
    "Γιόχαν Βόλφγκανγκ φον Γκαίτε",
    "Λόρδος Βύρων",
    "Αλέξανδρος Πούσκιν"
+  ],
+  "opts_en": [
+   "Friedrich Hölderlin",
+   "Novalis",
+   "Johann Wolfgang von Goethe",
+   "George Gordon Byron",
+   "Alexander Pushkin"
   ]
  },
  {
@@ -1167,6 +1790,13 @@
    "Κλέμενς Μπρεντάνο",
    "Χανς Κρίστιαν Άντερσεν",
    "Σαρλ Περώ"
+  ],
+  "opts_en": [
+   "Wilhelm Hauff",
+   "Ernst Theodor Wilhelm Hoffmann",
+   "Clemens Brentano",
+   "Hans Christian Andersen",
+   "Charles Perrault"
   ]
  },
  {
@@ -1180,6 +1810,13 @@
    "Χάινριχ φον Κλάιστ",
    "Έντγκαρ Άλαν Πόε",
    "Νικολάι Γκόγκολ"
+  ],
+  "opts_en": [
+   "Novalis",
+   "Wilhelm Hauff",
+   "Heinrich von Kleist",
+   "Edgar Allan Poe",
+   "Nikolai Gogol"
   ]
  },
  {
@@ -1193,6 +1830,13 @@
    "Άλφρεντ Ντέμπλιν",
    "Ρόμπερτ Μούζιλ",
    "Μαρσέλ Προυστ"
+  ],
+  "opts_en": [
+   "Heinrich Mann",
+   "Hermann Hesse",
+   "Alfred Döblin",
+   "Robert Musil",
+   "Marcel Proust"
   ]
  },
  {
@@ -1206,6 +1850,13 @@
    "Λίον Φόιχτβανγκερ",
    "Στέφαν Τσβάιχ",
    "Γιόζεφ Ροτ"
+  ],
+  "opts_en": [
+   "Thomas Mann",
+   "Hermann Hesse",
+   "Lion Feuchtwanger",
+   "Stefan Zweig",
+   "Joseph Roth"
   ]
  },
  {
@@ -1219,6 +1870,13 @@
    "Έριχ Μαρία Ρεμάρκ",
    "Στέφαν Τσβάιχ",
    "Ραμπιντρανάθ Ταγκόρ"
+  ],
+  "opts_en": [
+   "Thomas Mann",
+   "Heinrich Mann",
+   "Erich Maria Remarque",
+   "Stefan Zweig",
+   "Rabindranath Tagore"
   ]
  },
  {
@@ -1232,6 +1890,13 @@
    "Γκέοργκ Μπύχνερ",
    "Λουίτζι Πιραντέλλο",
    "Ευγένιος Ιονέσκο"
+  ],
+  "opts_en": [
+   "Thomas Mann",
+   "Kurt Tucholsky",
+   "Georg Büchner",
+   "Luigi Pirandello",
+   "Eugène Ionesco"
   ]
  },
  {
@@ -1245,6 +1910,13 @@
    "Χάινριχ Μπελ",
    "Έρνεστ Χέμινγουεϊ",
    "Γιόζεφ Ροτ"
+  ],
+  "opts_en": [
+   "Hans Fallada",
+   "Ernst Jünger",
+   "Heinrich Böll",
+   "Ernest Hemingway",
+   "Joseph Roth"
   ]
  },
  {
@@ -1258,6 +1930,13 @@
    "Κουρτ Τουχόλσκυ",
    "Γιόζεφ Ροτ",
    "Τζον Στάινμπεκ"
+  ],
+  "opts_en": [
+   "Erich Maria Remarque",
+   "Alfred Döblin",
+   "Kurt Tucholsky",
+   "Joseph Roth",
+   "John Steinbeck"
   ]
  },
  {
@@ -1271,6 +1950,13 @@
    "Χάινριχ Μαν",
    "Στέφαν Τσβάιχ",
    "Άρτουρ Σνίτσλερ"
+  ],
+  "opts_en": [
+   "Thomas Mann",
+   "Lion Feuchtwanger",
+   "Heinrich Mann",
+   "Stefan Zweig",
+   "Arthur Schnitzler"
   ]
  },
  {
@@ -1284,6 +1970,13 @@
    "Μάρτιν Βάλζερ",
    "Πέτερ Χάντκε",
    "Ζοζέ Σαραμάγκου"
+  ],
+  "opts_en": [
+   "Heinrich Böll",
+   "Siegfried Lenz",
+   "Martin Walser",
+   "Peter Handke",
+   "José Saramago"
   ]
  },
  {
@@ -1297,6 +1990,13 @@
    "Έριχ Μαρία Ρεμάρκ",
    "Τόμας Μπέρνχαρντ",
    "Ίταλο Καλβίνο"
+  ],
+  "opts_en": [
+   "Günter Grass",
+   "Siegfried Lenz",
+   "Erich Maria Remarque",
+   "Thomas Bernhard",
+   "Italo Calvino"
   ]
  },
  {
@@ -1310,6 +2010,13 @@
    "Χανς Φάλαντα",
    "Καρλ Κράους",
    "Γιόζεφ Ροτ"
+  ],
+  "opts_en": [
+   "Erich Kästner",
+   "Bertolt Brecht",
+   "Hans Fallada",
+   "Karl Kraus",
+   "Joseph Roth"
   ]
  },
  {
@@ -1323,6 +2030,13 @@
    "Γενς Πέτερ Γιάκομπσεν",
    "Γιάκομπ και Βίλχελμ Γκριμ",
    "Σαρλ Περώ"
+  ],
+  "opts_en": [
+   "Henrik Pontoppidan",
+   "Søren Kierkegaard",
+   "Jens Peter Jacobsen",
+   "Jacob and Wilhelm Grimm",
+   "Charles Perrault"
   ]
  },
  {
@@ -1336,6 +2050,13 @@
    "Γιοχάνες Β. Γένσεν",
    "Κνουτ Χάμσουν",
    "Αύγουστος Στρίντμπεργκ"
+  ],
+  "opts_en": [
+   "Hans Christian Andersen",
+   "Jens Peter Jacobsen",
+   "Johannes V. Jensen",
+   "Knut Hamsun",
+   "August Strindberg"
   ]
  },
  {
@@ -1661,6 +2382,13 @@
    "Ουάσινγκτον Ίρβινγκ",
    "Σαρλ Μπωντλαίρ",
    "Ερνστ Τέοντορ Βίλχελμ Χόφμαν"
+  ],
+  "opts_en": [
+   "Nathaniel Hawthorne",
+   "Herman Melville",
+   "Washington Irving",
+   "Charles Baudelaire",
+   "Ernst Theodor Wilhelm Hoffmann"
   ]
  },
  {
@@ -1674,6 +2402,13 @@
    "Ραλφ Γουάλντο Έμερσον",
    "Τσαρλς Ντίκενς",
    "Γουόλτερ Σκοτ"
+  ],
+  "opts_en": [
+   "Edgar Allan Poe",
+   "Herman Melville",
+   "Ralph Waldo Emerson",
+   "Charles Dickens",
+   "Walter Scott"
   ]
  },
  {
@@ -1687,6 +2422,13 @@
    "Ουώλτ Ουίτμαν",
    "Ιούλιος Βερν",
    "Ρόμπερτ Λούις Στίβενσον"
+  ],
+  "opts_en": [
+   "Nathaniel Hawthorne",
+   "Edgar Allan Poe",
+   "Walt Whitman",
+   "Jules Verne",
+   "Robert Louis Stevenson"
   ]
  },
  {
@@ -1700,6 +2442,13 @@
    "Χένρι Γουάντσγουορθ Λονγκφέλοου",
    "Άλφρεντ Τέννυσον",
    "Σαρλ Μπωντλαίρ"
+  ],
+  "opts_en": [
+   "Ralph Waldo Emerson",
+   "Henry David Thoreau",
+   "Henry Wadsworth Longfellow",
+   "Alfred Tennyson",
+   "Charles Baudelaire"
   ]
  },
  {
@@ -1713,6 +2462,13 @@
    "Χάριετ Μπίτσερ Στόου",
    "Έμιλι Μπροντέ",
    "Κριστίνα Ροσέτι"
+  ],
+  "opts_en": [
+   "Louisa May Alcott",
+   "Sylvia Plath",
+   "Harriet Beecher Stowe",
+   "Emily Brontë",
+   "Christina Rossetti"
   ]
  },
  {
@@ -1726,6 +2482,13 @@
    "Τζακ Λόντον",
    "Ρόμπερτ Λούις Στίβενσον",
    "Τσαρλς Ντίκενς"
+  ],
+  "opts_en": [
+   "Bret Harte",
+   "Henry James",
+   "Jack London",
+   "Robert Louis Stevenson",
+   "Charles Dickens"
   ]
  },
  {
@@ -1739,6 +2502,13 @@
    "Ουίλιαμ Ντιν Χάουελς",
    "Γκυστάβ Φλωμπέρ",
    "Ιβάν Τουργκένιεφ"
+  ],
+  "opts_en": [
+   "Mark Twain",
+   "Nathaniel Hawthorne",
+   "William Dean Howells",
+   "Gustave Flaubert",
+   "Ivan Turgenev"
   ]
  },
  {
@@ -1752,6 +2522,13 @@
    "Τζον Ντος Πάσος",
    "Ίβελιν Γουώ",
    "Έριχ Μαρία Ρεμάρκ"
+  ],
+  "opts_en": [
+   "Ernest Hemingway",
+   "William Faulkner",
+   "John Dos Passos",
+   "Evelyn Waugh",
+   "Erich Maria Remarque"
   ]
  },
  {
@@ -1765,6 +2542,13 @@
    "Τζον Στάινμπεκ",
    "Έριχ Μαρία Ρεμάρκ",
    "Αντουάν ντε Σαιντ-Εξυπερύ"
+  ],
+  "opts_en": [
+   "Francis Scott Fitzgerald",
+   "William Faulkner",
+   "John Steinbeck",
+   "Erich Maria Remarque",
+   "Antoine de Saint-Exupéry"
   ]
  },
  {
@@ -1778,6 +2562,13 @@
    "Φράνσις Σκοτ Φιτζέραλντ",
    "Τζέιμς Τζόυς",
    "Γκαμπριέλ Γκαρσία Μάρκες"
+  ],
+  "opts_en": [
+   "Ernest Hemingway",
+   "John Steinbeck",
+   "Francis Scott Fitzgerald",
+   "James Joyce",
+   "Gabriel García Márquez"
   ]
  },
  {
@@ -1791,6 +2582,13 @@
    "Τζον Ντος Πάσος",
    "Χανς Φάλαντα",
    "Μαξίμ Γκόρκι"
+  ],
+  "opts_en": [
+   "Ernest Hemingway",
+   "William Faulkner",
+   "John Dos Passos",
+   "Hans Fallada",
+   "Maxim Gorky"
   ]
  },
  {
@@ -1804,6 +2602,13 @@
    "Σίνκλερ Λιούις",
    "Άλφρεντ Ντέμπλιν",
    "Λουί-Φερντινάν Σελίν"
+  ],
+  "opts_en": [
+   "John Steinbeck",
+   "Ernest Hemingway",
+   "Sinclair Lewis",
+   "Alfred Döblin",
+   "Louis-Ferdinand Céline"
   ]
  },
  {
@@ -1817,6 +2622,13 @@
    "Ευγένιος Ο'Νιλ",
    "Λουίτζι Πιραντέλλο",
    "Τζορτζ Μπέρναρντ Σω"
+  ],
+  "opts_en": [
+   "Tennessee Williams",
+   "Arthur Miller",
+   "Eugene O'Neill",
+   "Luigi Pirandello",
+   "George Bernard Shaw"
   ]
  },
  {
@@ -1830,6 +2642,13 @@
    "Θόρντον Ουάιλντερ",
    "Σάμιουελ Μπέκετ",
    "Ευγένιος Ιονέσκο"
+  ],
+  "opts_en": [
+   "Arthur Miller",
+   "Eugene O'Neill",
+   "Thornton Wilder",
+   "Samuel Beckett",
+   "Eugène Ionesco"
   ]
  },
  {
@@ -1843,6 +2662,13 @@
    "Έντουαρντ Άλμπι",
    "Σάμιουελ Μπέκετ",
    "Μπέρτολτ Μπρεχτ"
+  ],
+  "opts_en": [
+   "Tennessee Williams",
+   "Eugene O'Neill",
+   "Edward Albee",
+   "Samuel Beckett",
+   "Bertolt Brecht"
   ]
  },
  {
@@ -1856,6 +2682,13 @@
    "Κερτ Βόνεγκατ",
    "Ουίλιαμ Γκόλντινγκ",
    "Αλμπέρ Καμί"
+  ],
+  "opts_en": [
+   "Jack Kerouac",
+   "John Updike",
+   "Kurt Vonnegut",
+   "William Golding",
+   "Albert Camus"
   ]
  },
  {
@@ -1869,6 +2702,13 @@
    "Τζερόμ Ντέιβιντ Σάλιντζερ",
    "Ζαν-Πολ Σαρτρ",
    "Ζαν Ζενέ"
+  ],
+  "opts_en": [
+   "Allen Ginsberg",
+   "William Burroughs",
+   "Jerome David Salinger",
+   "Jean-Paul Sartre",
+   "Jean Genet"
   ]
  },
  {
@@ -1882,6 +2722,13 @@
    "Λόρενς Φερλινγκέτι",
    "Ναζίμ Χικμέτ",
    "Πάμπλο Νερούδα"
+  ],
+  "opts_en": [
+   "Jack Kerouac",
+   "William Burroughs",
+   "Lawrence Ferlinghetti",
+   "Nâzım Hikmet",
+   "Pablo Neruda"
   ]
  },
  {
@@ -1895,6 +2742,13 @@
    "Τόνι Μόρισον",
    "Άννα Αχμάτοβα",
    "Ίνγκεμποργκ Μπάχμαν"
+  ],
+  "opts_en": [
+   "Emily Dickinson",
+   "Anne Sexton",
+   "Toni Morrison",
+   "Anna Akhmatova",
+   "Ingeborg Bachmann"
   ]
  },
  {
@@ -1908,6 +2762,13 @@
    "Ντον ΝτεΛίλλο",
    "Ίαν ΜακΓιούαν",
    "Άμος Οζ"
+  ],
+  "opts_en": [
+   "Saul Bellow",
+   "John Updike",
+   "Don DeLillo",
+   "Ian McEwan",
+   "Amos Oz"
   ]
  },
  {
@@ -1921,6 +2782,13 @@
    "Τόμας Πύντσον",
    "Στανίσουαφ Λεμ",
    "Άλντους Χάξλεϊ"
+  ],
+  "opts_en": [
+   "Joseph Heller",
+   "Ray Bradbury",
+   "Thomas Pynchon",
+   "Stanisław Lem",
+   "Aldous Huxley"
   ]
  },
  {
@@ -1934,6 +2802,13 @@
    "Τζον Τσίβερ",
    "Ίαν ΜακΓιούαν",
    "Τζούλιαν Μπαρνς"
+  ],
+  "opts_en": [
+   "Philip Roth",
+   "Saul Bellow",
+   "John Cheever",
+   "Ian McEwan",
+   "Julian Barnes"
   ]
  },
  {
@@ -1947,6 +2822,13 @@
    "Σύλβια Πλαθ",
    "Ναντίν Γκόρντιμερ",
    "Μπερναρντίν Εβαρίστο"
+  ],
+  "opts_en": [
+   "Maya Angelou",
+   "Alice Walker",
+   "Sylvia Plath",
+   "Nadine Gordimer",
+   "Bernardine Evaristo"
   ]
  },
  {
@@ -1960,6 +2842,13 @@
    "Κερτ Βόνεγκατ",
    "Ουμπέρτο Έκο",
    "Ίταλο Καλβίνο"
+  ],
+  "opts_en": [
+   "Don DeLillo",
+   "David Foster Wallace",
+   "Kurt Vonnegut",
+   "Umberto Eco",
+   "Italo Calvino"
   ]
  },
  {
@@ -1973,6 +2862,13 @@
    "Ρέι Μπράντμπερι",
    "Κλάιβ Μπάρκερ",
    "Σεμπάστιαν Φίτζεκ"
+  ],
+  "opts_en": [
+   "Howard Phillips Lovecraft",
+   "Dean Koontz",
+   "Ray Bradbury",
+   "Clive Barker",
+   "Sebastian Fitzek"
   ]
  },
  {
@@ -1986,6 +2882,13 @@
    "Στίβεν Κινγκ",
    "Κεν Φόλετ",
    "Κάρλος Ρουίθ Θαφόν"
+  ],
+  "opts_en": [
+   "John Grisham",
+   "Michael Crichton",
+   "Stephen King",
+   "Ken Follett",
+   "Carlos Ruiz Zafón"
   ]
  },
  {
@@ -1999,6 +2902,13 @@
    "Ρόμπερτ Τζόρνταν",
    "Τζ. Ρ. Ρ. Τόλκιν",
    "Αντρέι Σαπκόφσκι"
+  ],
+  "opts_en": [
+   "Stephen King",
+   "Ray Bradbury",
+   "Robert Jordan",
+   "J. R. R. Tolkien",
+   "Andrzej Sapkowski"
   ]
  },
  {
@@ -2012,6 +2922,13 @@
    "Ούρσουλα Λε Γκεν",
    "Τζ. Κ. Ρόουλινγκ",
    "Μάργκαρετ Άτγουντ"
+  ],
+  "opts_en": [
+   "Stephenie Meyer",
+   "Veronica Roth",
+   "Ursula Le Guin",
+   "J. K. Rowling",
+   "Margaret Atwood"
   ]
  },
  {
@@ -2025,6 +2942,13 @@
    "Χέρμαν Μέλβιλ",
    "Γουόλτερ Σκοτ",
    "Αλέξανδρος Δουμάς"
+  ],
+  "opts_en": [
+   "Washington Irving",
+   "Nathaniel Hawthorne",
+   "Herman Melville",
+   "Walter Scott",
+   "Alexandre Dumas"
   ]
  },
  {
@@ -2038,6 +2962,13 @@
    "Τζον Ντος Πάσος",
    "Τόμας Μαν",
    "Τζον Γκόλσγουορθι"
+  ],
+  "opts_en": [
+   "Theodore Dreiser",
+   "Upton Sinclair",
+   "John Dos Passos",
+   "Thomas Mann",
+   "John Galsworthy"
   ]
  },
  {
@@ -2051,6 +2982,13 @@
    "Μάργκαρετ Μίτσελ",
    "Σίγκριντ Ούντσετ",
    "Σέλμα Λάγκερλεφ"
+  ],
+  "opts_en": [
+   "Edith Wharton",
+   "Willa Cather",
+   "Margaret Mitchell",
+   "Sigrid Undset",
+   "Selma Lagerlöf"
   ]
  },
  {
@@ -2064,6 +3002,13 @@
    "Τζερόμ Ντέιβιντ Σάλιντζερ",
    "Γιαροσλάβ Χάσεκ",
    "Έριχ Μαρία Ρεμάρκ"
+  ],
+  "opts_en": [
+   "Kurt Vonnegut",
+   "Norman Mailer",
+   "Jerome David Salinger",
+   "Jaroslav Hašek",
+   "Erich Maria Remarque"
   ]
  },
  {
@@ -2077,6 +3022,13 @@
    "Μπέρναρντ Μάλαμουντ",
    "Άμος Οζ",
    "Γκύντερ Γκρας"
+  ],
+  "opts_en": [
+   "Philip Roth",
+   "John Updike",
+   "Bernard Malamud",
+   "Amos Oz",
+   "Günter Grass"
   ]
  },
  {
@@ -2090,6 +3042,13 @@
    "Φίλιπ Ροθ",
    "Μισέλ Ουελμπέκ",
    "Ίαν ΜακΓιούαν"
+  ],
+  "opts_en": [
+   "Thomas Pynchon",
+   "Paul Auster",
+   "Philip Roth",
+   "Michel Houellebecq",
+   "Ian McEwan"
   ]
  },
  {
@@ -2103,6 +3062,13 @@
    "Ντον ΝτεΛίλλο",
    "Τζον Μάξγουελ Κουτσί",
    "Ρομπέρτο Μπολάνιο"
+  ],
+  "opts_en": [
+   "William Faulkner",
+   "Philip Roth",
+   "Don DeLillo",
+   "J. M. Coetzee",
+   "Roberto Bolaño"
   ]
  },
  {
@@ -2116,6 +3082,13 @@
    "Τόμας Πύντσον",
    "Πατρίκ Μοντιανό",
    "Χαρούκι Μουρακάμι"
+  ],
+  "opts_en": [
+   "Don DeLillo",
+   "Philip Roth",
+   "Thomas Pynchon",
+   "Patrick Modiano",
+   "Haruki Murakami"
   ]
  },
  {
@@ -2129,6 +3102,13 @@
    "Τζόναθαν Φράνζεν",
    "Ρομπέρτο Μπολάνιο",
    "Μισέλ Ουελμπέκ"
+  ],
+  "opts_en": [
+   "Thomas Pynchon",
+   "Don DeLillo",
+   "Jonathan Franzen",
+   "Roberto Bolaño",
+   "Michel Houellebecq"
   ]
  },
  {
@@ -2142,6 +3122,13 @@
    "Ρέι Μπράντμπερι",
    "Άρθουρ Μάχεν",
    "Άλτζερνον Μπλάκγουντ"
+  ],
+  "opts_en": [
+   "Edgar Allan Poe",
+   "Stephen King",
+   "Ray Bradbury",
+   "Arthur Machen",
+   "Algernon Blackwood"
   ]
  },
  {
@@ -2155,6 +3142,13 @@
    "Νάθανιελ Χόθορν",
    "Λέων Τολστόι",
    "Τζον Ράσκιν"
+  ],
+  "opts_en": [
+   "Ralph Waldo Emerson",
+   "Walt Whitman",
+   "Nathaniel Hawthorne",
+   "Leo Tolstoy",
+   "John Ruskin"
   ]
  },
  {
@@ -2168,6 +3162,13 @@
    "Νάθανιελ Χόθορν",
    "Τόμας Κάρλαϊλ",
    "Σάμιουελ Τέιλορ Κόουλριτζ"
+  ],
+  "opts_en": [
+   "Henry David Thoreau",
+   "Walt Whitman",
+   "Nathaniel Hawthorne",
+   "Thomas Carlyle",
+   "Samuel Taylor Coleridge"
   ]
  },
  {
@@ -2181,6 +3182,13 @@
    "Ρέι Μπράντμπερι",
    "Στανίσουαφ Λεμ",
    "Άρθουρ Κλαρκ"
+  ],
+  "opts_en": [
+   "Philip K. Dick",
+   "Neal Stephenson",
+   "Ray Bradbury",
+   "Stanisław Lem",
+   "Arthur C. Clarke"
   ]
  },
  {
@@ -2194,6 +3202,13 @@
    "Τζόις Κάρολ Όουτς",
    "Μάργκαρετ Άτγουντ",
    "Ντόρις Λέσινγκ"
+  ],
+  "opts_en": [
+   "Octavia Butler",
+   "Suzanne Collins",
+   "Joyce Carol Oates",
+   "Margaret Atwood",
+   "Doris Lessing"
   ]
  },
  {
@@ -2207,6 +3222,13 @@
    "Κερτ Βόνεγκατ",
    "Άλντους Χάξλεϊ",
    "Στανίσουαφ Λεμ"
+  ],
+  "opts_en": [
+   "Isaac Asimov",
+   "Philip K. Dick",
+   "Kurt Vonnegut",
+   "Aldous Huxley",
+   "Stanisław Lem"
   ]
  },
  {
@@ -2220,6 +3242,13 @@
    "Οσάμου Νταζάι",
    "Αλμπέρτο Μοράβια",
    "Λου Σουν"
+  ],
+  "opts_en": [
+   "Yasunari Kawabata",
+   "Yukio Mishima",
+   "Osamu Dazai",
+   "Alberto Moravia",
+   "Lu Xun"
   ]
  },
  {
@@ -2233,6 +3262,13 @@
    "Τζουνιτσίρο Τανιζάκι",
    "Πιέρ Λοτί",
    "Ρόμπερτ Λούις Στίβενσον"
+  ],
+  "opts_en": [
+   "Natsume Sōseki",
+   "Ryūnosuke Akutagawa",
+   "Jun'ichirō Tanizaki",
+   "Pierre Loti",
+   "Robert Louis Stevenson"
   ]
  },
  {
@@ -2246,6 +3282,13 @@
    "Κενζαμπούρο Όε",
    "Ραμπιντρανάθ Ταγκόρ",
    "Χέρμαν Έσσε"
+  ],
+  "opts_en": [
+   "Jun'ichirō Tanizaki",
+   "Yukio Mishima",
+   "Kenzaburō Ōe",
+   "Rabindranath Tagore",
+   "Hermann Hesse"
   ]
  },
  {
@@ -2259,6 +3302,13 @@
    "Οσάμου Νταζάι",
    "Ζαν Ζενέ",
    "Αλμπέρ Καμί"
+  ],
+  "opts_en": [
+   "Yasunari Kawabata",
+   "Kenzaburō Ōe",
+   "Osamu Dazai",
+   "Jean Genet",
+   "Albert Camus"
   ]
  },
  {
@@ -2272,6 +3322,13 @@
    "Τζουνιτσίρο Τανιζάκι",
    "Κώστας Καρυωτάκης",
    "Φραντς Κάφκα"
+  ],
+  "opts_en": [
+   "Ryūnosuke Akutagawa",
+   "Yukio Mishima",
+   "Jun'ichirō Tanizaki",
+   "Kostas Karyotakis",
+   "Franz Kafka"
   ]
  },
  {
@@ -2285,6 +3342,13 @@
    "Γιουκίο Μισίμα",
    "Γκύντερ Γκρας",
    "Ζοζέ Σαραμάγκου"
+  ],
+  "opts_en": [
+   "Haruki Murakami",
+   "Yasunari Kawabata",
+   "Yukio Mishima",
+   "Günter Grass",
+   "José Saramago"
   ]
  },
  {
@@ -2298,6 +3362,13 @@
    "Γιουκίο Μισίμα",
    "Καζούο Ισιγκούρο",
    "Πολ Όστερ"
+  ],
+  "opts_en": [
+   "Kenzaburō Ōe",
+   "Ryū Murakami",
+   "Yukio Mishima",
+   "Kazuo Ishiguro",
+   "Paul Auster"
   ]
  },
  {
@@ -2311,6 +3382,13 @@
    "Πρεμτσάντ",
    "Τζουμπράν Χαλίλ Τζουμπράν",
    "Γιασουνάρι Καβαμπάτα"
+  ],
+  "opts_en": [
+   "Salman Rushdie",
+   "R. K. Narayan",
+   "Premchand",
+   "Kahlil Gibran",
+   "Yasunari Kawabata"
   ]
  },
  {
@@ -2324,6 +3402,13 @@
    "Σαμάντ Μπεχρανγκί",
    "Φραντς Κάφκα",
    "Ναγκίμπ Μαχφούζ"
+  ],
+  "opts_en": [
+   "Omar Khayyam",
+   "Hafez",
+   "Samad Behrangi",
+   "Franz Kafka",
+   "Naguib Mahfouz"
   ]
  },
  {
@@ -2337,6 +3422,13 @@
    "Μπραμ Στόκερ",
    "Ρόμπερτ Λούις Στίβενσον",
    "Αντρέ Ζιντ"
+  ],
+  "opts_en": [
+   "George Bernard Shaw",
+   "William Butler Yeats",
+   "Bram Stoker",
+   "Robert Louis Stevenson",
+   "André Gide"
   ]
  },
  {
@@ -2350,6 +3442,13 @@
    "Τζον Μίλινγκτον Σινγκ",
    "Χένρικ Ίψεν",
    "Αντόν Τσέχωφ"
+  ],
+  "opts_en": [
+   "Oscar Wilde",
+   "Seán O'Casey",
+   "John Millington Synge",
+   "Henrik Ibsen",
+   "Anton Chekhov"
   ]
  },
  {
@@ -2363,6 +3462,13 @@
    "Τζον Μίλινγκτον Σινγκ",
    "Ραμπιντρανάθ Ταγκόρ",
    "Τ. Σ. Έλιοτ"
+  ],
+  "opts_en": [
+   "Seamus Heaney",
+   "Oscar Wilde",
+   "John Millington Synge",
+   "Rabindranath Tagore",
+   "T. S. Eliot"
   ]
  },
  {
@@ -2376,6 +3482,13 @@
    "Φλαν Ο'Μπράιαν",
    "Μαρσέλ Προυστ",
    "Ίταλο Σβέβο"
+  ],
+  "opts_en": [
+   "Samuel Beckett",
+   "William Butler Yeats",
+   "Flann O'Brien",
+   "Marcel Proust",
+   "Italo Svevo"
   ]
  },
  {
@@ -2389,6 +3502,13 @@
    "Μπρένταν Μπήαν",
    "Ευγένιος Ιονέσκο",
    "Ζαν Ζενέ"
+  ],
+  "opts_en": [
+   "James Joyce",
+   "George Bernard Shaw",
+   "Brendan Behan",
+   "Eugène Ionesco",
+   "Jean Genet"
   ]
  },
  {
@@ -2402,6 +3522,13 @@
    "Λούις ΜακΝίς",
    "Τεντ Χιουζ",
    "Ντέρεκ Γουόλκοτ"
+  ],
+  "opts_en": [
+   "William Butler Yeats",
+   "Patrick Kavanagh",
+   "Louis MacNeice",
+   "Ted Hughes",
+   "Derek Walcott"
   ]
  },
  {
@@ -2415,6 +3542,13 @@
    "Πέδρο Καλδερόν ντε λα Μπάρκα",
    "Ουίλιαμ Σαίξπηρ",
    "Φρανσουά Ραμπελαί"
+  ],
+  "opts_en": [
+   "Lope de Vega",
+   "Francisco de Quevedo",
+   "Pedro Calderón de la Barca",
+   "William Shakespeare",
+   "François Rabelais"
   ]
  },
  {
@@ -2428,6 +3562,13 @@
    "Τίρσο ντε Μολίνα",
    "Ουίλιαμ Σαίξπηρ",
    "Κρίστοφερ Μάρλοου"
+  ],
+  "opts_en": [
+   "Miguel de Cervantes",
+   "Pedro Calderón de la Barca",
+   "Tirso de Molina",
+   "William Shakespeare",
+   "Christopher Marlowe"
   ]
  },
  {
@@ -2441,6 +3582,13 @@
    "Χουάν Ραμόν Χιμένεθ",
    "Πάμπλο Νερούδα",
    "Νίκος Γκάτσος"
+  ],
+  "opts_en": [
+   "Antonio Machado",
+   "Rafael Alberti",
+   "Juan Ramón Jiménez",
+   "Pablo Neruda",
+   "Nikos Gatsos"
   ]
  },
  {
@@ -2454,6 +3602,13 @@
    "Αρτούρο Πέρες-Ρεβέρτε",
    "Νταν Μπράουν",
    "Ουμπέρτο Έκο"
+  ],
+  "opts_en": [
+   "Javier Marías",
+   "Javier Cercas",
+   "Arturo Pérez-Reverte",
+   "Dan Brown",
+   "Umberto Eco"
   ]
  },
  {
@@ -2467,6 +3622,13 @@
    "Ενρίκε Βίλα-Μάτας",
    "Ρομπέρτο Μπολάνιο",
    "Πολ Όστερ"
+  ],
+  "opts_en": [
+   "Javier Cercas",
+   "Carlos Ruiz Zafón",
+   "Enrique Vila-Matas",
+   "Roberto Bolaño",
+   "Paul Auster"
   ]
  },
  {
@@ -2480,6 +3642,13 @@
    "Φερνάντο Αραμπούρου",
    "Εμανουέλ Καρέρ",
    "Ρομπέρτο Μπολάνιο"
+  ],
+  "opts_en": [
+   "Javier Marías",
+   "Carlos Ruiz Zafón",
+   "Fernando Aramburu",
+   "Emmanuel Carrère",
+   "Roberto Bolaño"
   ]
  },
  {
@@ -2493,6 +3662,13 @@
    "Άαρον Άπελφελντ",
    "Ορχάν Παμούκ",
    "Φίλιπ Ροθ"
+  ],
+  "opts_en": [
+   "David Grossman",
+   "A. B. Yehoshua",
+   "Aharon Appelfeld",
+   "Orhan Pamuk",
+   "Philip Roth"
   ]
  },
  {
@@ -2506,6 +3682,13 @@
    "Έτγκαρ Κέρετ",
    "Ορχάν Παμούκ",
    "Πολ Όστερ"
+  ],
+  "opts_en": [
+   "Amos Oz",
+   "A. B. Yehoshua",
+   "Etgar Keret",
+   "Orhan Pamuk",
+   "Paul Auster"
   ]
  },
  {
@@ -2519,6 +3702,13 @@
    "Λουντοβίκο Αριόστο",
    "Τζέφρι Τσώσερ",
    "Φρανσουά Βιγιόν"
+  ],
+  "opts_en": [
+   "Francesco Petrarca",
+   "Giovanni Boccaccio",
+   "Ludovico Ariosto",
+   "Geoffrey Chaucer",
+   "François Villon"
   ]
  },
  {
@@ -2532,6 +3722,13 @@
    "Τζοβάνι Βέργκα",
    "Μπέρτολτ Μπρεχτ",
    "Τζορτζ Μπέρναρντ Σω"
+  ],
+  "opts_en": [
+   "Italo Svevo",
+   "Gabriele D'Annunzio",
+   "Giovanni Verga",
+   "Bertolt Brecht",
+   "George Bernard Shaw"
   ]
  },
  {
@@ -2545,6 +3742,13 @@
    "Γκαμπριέλε Ντ’ Ανούντσιο",
    "Τζέιμς Τζόυς",
    "Ρόμπερτ Μούζιλ"
+  ],
+  "opts_en": [
+   "Luigi Pirandello",
+   "Alberto Moravia",
+   "Gabriele D'Annunzio",
+   "James Joyce",
+   "Robert Musil"
   ]
  },
  {
@@ -2558,6 +3762,13 @@
    "Ντίνο Μπουζάτι",
    "Αλμπέρ Καμί",
    "Γκράχαμ Γκρην"
+  ],
+  "opts_en": [
+   "Italo Calvino",
+   "Cesare Pavese",
+   "Dino Buzzati",
+   "Albert Camus",
+   "Graham Greene"
   ]
  },
  {
@@ -2571,6 +3782,13 @@
    "Ντίνο Μπουζάτι",
    "Χόρχε Λουίς Μπόρχες",
    "Ζωρζ Περέκ"
+  ],
+  "opts_en": [
+   "Umberto Eco",
+   "Alberto Moravia",
+   "Dino Buzzati",
+   "Jorge Luis Borges",
+   "Georges Perec"
   ]
  },
  {
@@ -2584,6 +3802,13 @@
    "Αλμπέρτο Μοράβια",
    "Χόρχε Λουίς Μπόρχες",
    "Κάρλος Ρουίθ Θαφόν"
+  ],
+  "opts_en": [
+   "Italo Calvino",
+   "Andrea Camilleri",
+   "Alberto Moravia",
+   "Jorge Luis Borges",
+   "Carlos Ruiz Zafón"
   ]
  },
  {
@@ -2597,6 +3822,13 @@
    "Τσέζαρε Παβέζε",
    "Φραντς Κάφκα",
    "Ζιλιέν Γκρακ"
+  ],
+  "opts_en": [
+   "Italo Calvino",
+   "Alberto Moravia",
+   "Cesare Pavese",
+   "Franz Kafka",
+   "Julien Gracq"
   ]
  },
  {
@@ -2610,6 +3842,13 @@
    "Βιτόριο Αλφιέρι",
    "Διονύσιος Σολωμός",
    "Ανδρέας Κάλβος"
+  ],
+  "opts_en": [
+   "Giacomo Leopardi",
+   "Alessandro Manzoni",
+   "Vittorio Alfieri",
+   "Dionysios Solomos",
+   "Andreas Kalvos"
   ]
  },
  {
@@ -2623,6 +3862,13 @@
    "Τσέζαρε Παβέζε",
    "Γιώργος Σεφέρης",
    "Φεντερίκο Γκαρθία Λόρκα"
+  ],
+  "opts_en": [
+   "Eugenio Montale",
+   "Giuseppe Ungaretti",
+   "Cesare Pavese",
+   "George Seferis",
+   "Federico García Lorca"
   ]
  },
  {
@@ -2636,6 +3882,13 @@
    "Ουμπέρτο Σάμπα",
    "Γιώργος Σεφέρης",
    "Τ. Σ. Έλιοτ"
+  ],
+  "opts_en": [
+   "Salvatore Quasimodo",
+   "Giuseppe Ungaretti",
+   "Umberto Saba",
+   "George Seferis",
+   "T. S. Eliot"
   ]
  },
  {
@@ -2649,6 +3902,13 @@
    "Αλμπέρτο Μοράβια",
    "Ίμρε Κέρτες",
    "Έλι Βίζελ"
+  ],
+  "opts_en": [
+   "Italo Calvino",
+   "Cesare Pavese",
+   "Alberto Moravia",
+   "Imre Kertész",
+   "Elie Wiesel"
   ]
  },
  {
@@ -2662,6 +3922,13 @@
    "Έρρι Ντε Λούκα",
    "Ζορζ Σιμενόν",
    "Γιο Νέσμπε"
+  ],
+  "opts_en": [
+   "Umberto Eco",
+   "Leonardo Sciascia",
+   "Erri De Luca",
+   "Georges Simenon",
+   "Jo Nesbø"
   ]
  },
  {
@@ -2675,6 +3942,13 @@
    "Λούσι Μοντ Μοντγκόμερι",
    "Ανί Ερνό",
    "Ντόρις Λέσινγκ"
+  ],
+  "opts_en": [
+   "Margaret Atwood",
+   "Carol Shields",
+   "Lucy Maud Montgomery",
+   "Annie Ernaux",
+   "Doris Lessing"
   ]
  },
  {
@@ -2688,6 +3962,13 @@
    "Λούσι Μοντ Μοντγκόμερι",
    "Ούρσουλα Λε Γκεν",
    "Ντόρις Λέσινγκ"
+  ],
+  "opts_en": [
+   "Alice Munro",
+   "Carol Shields",
+   "Lucy Maud Montgomery",
+   "Ursula Le Guin",
+   "Doris Lessing"
   ]
  },
  {
@@ -2701,6 +3982,13 @@
    "Έκτορ Αμπάντ Φασιολίνσε",
    "Μάριο Βάργκας Λιόσα",
    "Χούλιο Κορτάσαρ"
+  ],
+  "opts_en": [
+   "Álvaro Mutis",
+   "Jorge Isaacs",
+   "Héctor Abad Faciolince",
+   "Mario Vargas Llosa",
+   "Julio Cortázar"
   ]
  },
  {
@@ -2714,6 +4002,13 @@
    "Εουντοκία Λος",
    "Άννα Πολιτκόφσκαγια",
    "Χέρτα Μίλερ"
+  ],
+  "opts_en": [
+   "Valzhyna Mort",
+   "Larisa Geniush",
+   "Eudocia Ros",
+   "Anna Politkovskaya",
+   "Herta Müller"
   ]
  },
  {
@@ -2727,6 +4022,13 @@
    "Ελίας Χούρι",
    "Ραμπιντρανάθ Ταγκόρ",
    "Ναγκίμπ Μαχφούζ"
+  ],
+  "opts_en": [
+   "Amin Maalouf",
+   "Mikhail Naimy",
+   "Elias Khoury",
+   "Rabindranath Tagore",
+   "Naguib Mahfouz"
   ]
  },
  {
@@ -2740,6 +4042,13 @@
    "Χουάν Χοσέ Αρεόλα",
    "Γκαμπριέλ Γκαρσία Μάρκες",
    "Χούλιο Κορτάσαρ"
+  ],
+  "opts_en": [
+   "Carlos Fuentes",
+   "Octavio Paz",
+   "Juan José Arreola",
+   "Gabriel García Márquez",
+   "Julio Cortázar"
   ]
  },
  {
@@ -2753,6 +4062,13 @@
    "Χουάν Χοσέ Αρεόλα",
    "Μάριο Βάργκας Λιόσα",
    "Γκαμπριέλ Γκαρσία Μάρκες"
+  ],
+  "opts_en": [
+   "Juan Rulfo",
+   "Octavio Paz",
+   "Juan José Arreola",
+   "Mario Vargas Llosa",
+   "Gabriel García Márquez"
   ]
  },
  {
@@ -2766,6 +4082,13 @@
    "Αλφόνσο Ρέγιες",
    "Πάμπλο Νερούδα",
    "Σέσαρ Βαγιέχο"
+  ],
+  "opts_en": [
+   "Carlos Fuentes",
+   "Juan Rulfo",
+   "Alfonso Reyes",
+   "Pablo Neruda",
+   "César Vallejo"
   ]
  },
  {
@@ -2779,6 +4102,13 @@
    "Άμος Τουτουόλα",
    "Τζον Μάξγουελ Κουτσί",
    "Ναγκίμπ Μαχφούζ"
+  ],
+  "opts_en": [
+   "Chinua Achebe",
+   "Ben Okri",
+   "Amos Tutuola",
+   "J. M. Coetzee",
+   "Naguib Mahfouz"
   ]
  },
  {
@@ -2792,6 +4122,13 @@
    "Αλεξάντερ Κίελαν",
    "Αύγουστος Στρίντμπεργκ",
    "Αντόν Τσέχωφ"
+  ],
+  "opts_en": [
+   "Bjørnstjerne Bjørnson",
+   "Knut Hamsun",
+   "Alexander Kielland",
+   "August Strindberg",
+   "Anton Chekhov"
   ]
  },
  {
@@ -2805,6 +4142,13 @@
    "Αλεξάντερ Κίελαν",
    "Αύγουστος Στρίντμπεργκ",
    "Χένρικ Ποντόππινταν"
+  ],
+  "opts_en": [
+   "Henrik Ibsen",
+   "Knut Hamsun",
+   "Alexander Kielland",
+   "August Strindberg",
+   "Henrik Pontoppidan"
   ]
  },
  {
@@ -2818,6 +4162,13 @@
    "Γιόχαν Μπόγιερ",
    "Αύγουστος Στρίντμπεργκ",
    "Φιοντόρ Ντοστογιέφσκι"
+  ],
+  "opts_en": [
+   "Henrik Ibsen",
+   "Bjørnstjerne Bjørnson",
+   "Johan Bojer",
+   "August Strindberg",
+   "Fyodor Dostoevsky"
   ]
  },
  {
@@ -2831,6 +4182,13 @@
    "Κόρα Σάντελ",
    "Σέλμα Λάγκερλεφ",
    "Περλ Μπακ"
+  ],
+  "opts_en": [
+   "Camilla Collett",
+   "Amalie Skram",
+   "Cora Sandel",
+   "Selma Lagerlöf",
+   "Pearl S. Buck"
   ]
  },
  {
@@ -2844,6 +4202,13 @@
    "Ερλέντ Λου",
    "Στιγκ Λάρσον",
    "Χένινγκ Μάνκελ"
+  ],
+  "opts_en": [
+   "Jørn Lier Horst",
+   "Karl Ove Knausgård",
+   "Erlend Loe",
+   "Stieg Larsson",
+   "Henning Mankell"
   ]
  },
  {
@@ -2857,6 +4222,13 @@
    "Μάρλεν φαν Νίκερκ",
    "Ντόρις Λέσινγκ",
    "Τόνι Μόρισον"
+  ],
+  "opts_en": [
+   "Olive Schreiner",
+   "Antjie Krog",
+   "Marlene van Niekerk",
+   "Doris Lessing",
+   "Toni Morrison"
   ]
  },
  {
@@ -2870,6 +4242,13 @@
    "Ντέιμον Γκάλγκατ",
    "Πάτρικ Ουάιτ",
    "Κόρμακ ΜακΚάρθι"
+  ],
+  "opts_en": [
+   "André Brink",
+   "Alan Paton",
+   "Damon Galgut",
+   "Patrick White",
+   "Cormac McCarthy"
   ]
  },
  {
@@ -2883,6 +4262,13 @@
    "Σάντορ Μάραϊ",
    "Πρίμο Λέβι",
    "Έλι Βίζελ"
+  ],
+  "opts_en": [
+   "Péter Esterházy",
+   "László Krasznahorkai",
+   "Sándor Márai",
+   "Primo Levi",
+   "Elie Wiesel"
   ]
  },
  {
@@ -2896,6 +4282,13 @@
    "Σάντορ Μάραϊ",
    "Μίλαν Κούντερα",
    "Μπόχουμιλ Χράμπαλ"
+  ],
+  "opts_en": [
+   "Imre Kertész",
+   "László Krasznahorkai",
+   "Sándor Márai",
+   "Milan Kundera",
+   "Bohumil Hrabal"
   ]
  },
  {
@@ -2909,6 +4302,13 @@
    "Σάντορ Μάραϊ",
    "Τόμας Μπέρνχαρντ",
    "Β. Γκ. Ζέμπαλντ"
+  ],
+  "opts_en": [
+   "Imre Kertész",
+   "Péter Esterházy",
+   "Sándor Márai",
+   "Thomas Bernhard",
+   "W. G. Sebald"
   ]
  },
  {
@@ -2922,6 +4322,13 @@
    "Ταουφίκ Ζαγιάντ",
    "Νιζάρ Καμπάνι",
    "Ναζίμ Χικμέτ"
+  ],
+  "opts_en": [
+   "Samih al-Qasim",
+   "Ghassan Kanafani",
+   "Tawfiq Zayyad",
+   "Nizar Qabbani",
+   "Nâzım Hikmet"
   ]
  },
  {
@@ -2935,6 +4342,13 @@
    "Σίρο Αλεγρία",
    "Πάμπλο Νερούδα",
    "Οκτάβιο Παζ"
+  ],
+  "opts_en": [
+   "Mario Vargas Llosa",
+   "José María Arguedas",
+   "Ciro Alegría",
+   "Pablo Neruda",
+   "Octavio Paz"
   ]
  },
  {
@@ -2948,6 +4362,13 @@
    "Αλφρέδο Μπράις Ετσενίκε",
    "Γκαμπριέλ Γκαρσία Μάρκες",
    "Κάρλος Φουέντες"
+  ],
+  "opts_en": [
+   "César Vallejo",
+   "José María Arguedas",
+   "Alfredo Bryce Echenique",
+   "Gabriel García Márquez",
+   "Carlos Fuentes"
   ]
  },
  {
@@ -2961,6 +4382,13 @@
    "Έσα ντε Κεϊρός",
    "Κωνσταντίνος Π. Καβάφης",
    "Χόρχε Λουίς Μπόρχες"
+  ],
+  "opts_en": [
+   "José Saramago",
+   "Luís de Camões",
+   "Eça de Queirós",
+   "Constantine P. Cavafy",
+   "Jorge Luis Borges"
   ]
  },
  {
@@ -2974,6 +4402,13 @@
    "Έσα ντε Κεϊρός",
    "Γκαμπριέλ Γκαρσία Μάρκες",
    "Ζόρζε Αμάντου"
+  ],
+  "opts_en": [
+   "Fernando Pessoa",
+   "António Lobo Antunes",
+   "Eça de Queirós",
+   "Gabriel García Márquez",
+   "Jorge Amado"
   ]
  },
  {
@@ -2987,6 +4422,13 @@
    "Μιχάι Εμινέσκου",
    "Σάμιουελ Μπέκετ",
    "Ζαν Ζενέ"
+  ],
+  "opts_en": [
+   "Emil Cioran",
+   "Mircea Eliade",
+   "Mihai Eminescu",
+   "Samuel Beckett",
+   "Jean Genet"
   ]
  },
  {
@@ -3000,6 +4442,13 @@
    "Ιβάν Τουργκένιεφ",
    "Λόρδος Βύρων",
    "Άνταμ Μιτσκιέβιτς"
+  ],
+  "opts_en": [
+   "Mikhail Lermontov",
+   "Nikolai Gogol",
+   "Ivan Turgenev",
+   "George Gordon Byron",
+   "Adam Mickiewicz"
   ]
  },
  {
@@ -3013,6 +4462,13 @@
    "Μιχαήλ Λέρμοντοφ",
    "Ερνστ Τέοντορ Βίλχελμ Χόφμαν",
    "Τσαρλς Ντίκενς"
+  ],
+  "opts_en": [
+   "Alexander Pushkin",
+   "Ivan Turgenev",
+   "Mikhail Lermontov",
+   "Ernst Theodor Wilhelm Hoffmann",
+   "Charles Dickens"
   ]
  },
  {
@@ -3026,6 +4482,13 @@
    "Ιβάν Γκοντσάροφ",
    "Γκυστάβ Φλωμπέρ",
    "Χένρι Τζέιμς"
+  ],
+  "opts_en": [
+   "Leo Tolstoy",
+   "Fyodor Dostoevsky",
+   "Ivan Goncharov",
+   "Gustave Flaubert",
+   "Henry James"
   ]
  },
  {
@@ -3039,6 +4502,13 @@
    "Αντόν Τσέχωφ",
    "Βίκτωρ Ουγκό",
    "Τσαρλς Ντίκενς"
+  ],
+  "opts_en": [
+   "Fyodor Dostoevsky",
+   "Ivan Turgenev",
+   "Anton Chekhov",
+   "Victor Hugo",
+   "Charles Dickens"
   ]
  },
  {
@@ -3052,6 +4522,13 @@
    "Νικολάι Γκόγκολ",
    "Ονορέ ντε Μπαλζάκ",
    "Τσαρλς Ντίκενς"
+  ],
+  "opts_en": [
+   "Leo Tolstoy",
+   "Ivan Turgenev",
+   "Nikolai Gogol",
+   "Honoré de Balzac",
+   "Charles Dickens"
   ]
  },
  {
@@ -3065,6 +4542,13 @@
    "Λέων Τολστόι",
    "Χένρικ Ίψεν",
    "Γκυ ντε Μωπασσάν"
+  ],
+  "opts_en": [
+   "Maxim Gorky",
+   "Ivan Bunin",
+   "Leo Tolstoy",
+   "Henrik Ibsen",
+   "Guy de Maupassant"
   ]
  },
  {
@@ -3078,6 +4562,13 @@
    "Μιχαήλ Σολόχοφ",
    "Τζακ Λόντον",
    "Εμίλ Ζολά"
+  ],
+  "opts_en": [
+   "Anton Chekhov",
+   "Leonid Andreyev",
+   "Mikhail Sholokhov",
+   "Jack London",
+   "Émile Zola"
   ]
  },
  {
@@ -3091,6 +4582,13 @@
    "Μπέλα Αχμαντουλίνα",
    "Σύλβια Πλαθ",
    "Γκαμπριέλα Μιστράλ"
+  ],
+  "opts_en": [
+   "Marina Tsvetaeva",
+   "Zinaida Gippius",
+   "Bella Akhmadulina",
+   "Sylvia Plath",
+   "Gabriela Mistral"
   ]
  },
  {
@@ -3104,6 +4602,13 @@
    "Όσιπ Μαντελστάμ",
    "Γκιγιώμ Απολλιναίρ",
    "Κώστας Βάρναλης"
+  ],
+  "opts_en": [
+   "Sergei Yesenin",
+   "Boris Pasternak",
+   "Osip Mandelstam",
+   "Guillaume Apollinaire",
+   "Kostas Varnalis"
   ]
  },
  {
@@ -3117,6 +4622,13 @@
    "Μιχαήλ Μπουλγκάκοφ",
    "Ναζίμ Χικμέτ",
    "Τσέσουαφ Μίλος"
+  ],
+  "opts_en": [
+   "Osip Mandelstam",
+   "Vladimir Mayakovsky",
+   "Mikhail Bulgakov",
+   "Nâzım Hikmet",
+   "Czesław Miłosz"
   ]
  },
  {
@@ -3130,6 +4642,13 @@
    "Βασίλι Γκρόσμαν",
    "Ίβο Άντριτς",
    "Έριχ Μαρία Ρεμάρκ"
+  ],
+  "opts_en": [
+   "Maxim Gorky",
+   "Mikhail Bulgakov",
+   "Vasily Grossman",
+   "Ivo Andrić",
+   "Erich Maria Remarque"
   ]
  },
  {
@@ -3143,6 +4662,13 @@
    "Ισαάκ Μπάμπελ",
    "Άλντους Χάξλεϊ",
    "Κάρελ Τσάπεκ"
+  ],
+  "opts_en": [
+   "Mikhail Bulgakov",
+   "Andrei Platonov",
+   "Isaac Babel",
+   "Aldous Huxley",
+   "Karel Čapek"
   ]
  },
  {
@@ -3156,6 +4682,13 @@
    "Μεσά Σελίμοβιτς",
    "Ισμαήλ Κανταρέ",
    "Ορχάν Παμούκ"
+  ],
+  "opts_en": [
+   "Milorad Pavić",
+   "Danilo Kiš",
+   "Meša Selimović",
+   "Ismail Kadare",
+   "Orhan Pamuk"
   ]
  },
  {
@@ -3169,6 +4702,13 @@
    "Μεσά Σελίμοβιτς",
    "Ίταλο Καλβίνο",
    "Χόρχε Λουίς Μπόρχες"
+  ],
+  "opts_en": [
+   "Ivo Andrić",
+   "Danilo Kiš",
+   "Meša Selimović",
+   "Italo Calvino",
+   "Jorge Luis Borges"
   ]
  },
  {
@@ -3182,6 +4722,13 @@
    "Τζέιμς Μάθιου Μπάρι",
    "Ιούλιος Βερν",
    "Μαρκ Τουέιν"
+  ],
+  "opts_en": [
+   "Arthur Conan Doyle",
+   "Walter Scott",
+   "James Matthew Barrie",
+   "Jules Verne",
+   "Mark Twain"
   ]
  },
  {
@@ -3195,6 +4742,13 @@
    "Τζέιμς Μάθιου Μπάρι",
    "Χέρμπερτ Τζορτζ Ουέλς",
    "Ζορζ Σιμενόν"
+  ],
+  "opts_en": [
+   "Robert Louis Stevenson",
+   "Walter Scott",
+   "James Matthew Barrie",
+   "Herbert George Wells",
+   "Georges Simenon"
   ]
  },
  {
@@ -3208,6 +4762,13 @@
    "Περ Λάγκερκβιστ",
    "Χένρικ Ίψεν",
    "Αντόν Τσέχωφ"
+  ],
+  "opts_en": [
+   "Hjalmar Söderberg",
+   "Verner von Heidenstam",
+   "Pär Lagerkvist",
+   "Henrik Ibsen",
+   "Anton Chekhov"
   ]
  },
  {
@@ -3221,6 +4782,13 @@
    "Βικτόρια Μπένεντικτσον",
    "Σίγκριντ Ούντσετ",
    "Γκρατσία Ντελέντα"
+  ],
+  "opts_en": [
+   "Karin Boye",
+   "Astrid Lindgren",
+   "Victoria Benedictsson",
+   "Sigrid Undset",
+   "Grazia Deledda"
   ]
  },
  {
@@ -3234,6 +4802,13 @@
    "Γιάλμαρ Μπέργκμαν",
    "Χένρικ Ποντόππινταν",
    "Κνουτ Χάμσουν"
+  ],
+  "opts_en": [
+   "August Strindberg",
+   "Pär Lagerkvist",
+   "Hjalmar Bergman",
+   "Henrik Pontoppidan",
+   "Knut Hamsun"
   ]
  },
  {
@@ -3247,6 +4822,13 @@
    "Χένινγκ Μάνκελ",
    "Γιο Νέσμπε",
    "Τζον Μπόιν"
+  ],
+  "opts_en": [
+   "Jonas Jonasson",
+   "Stieg Larsson",
+   "Henning Mankell",
+   "Jo Nesbø",
+   "John Boyne"
   ]
  },
  {
@@ -3260,6 +4842,13 @@
    "Αζίζ Νεσίν",
    "Γιάννης Ρίτσος",
    "Πάμπλο Νερούδα"
+  ],
+  "opts_en": [
+   "Orhan Pamuk",
+   "Yaşar Kemal",
+   "Aziz Nesin",
+   "Yannis Ritsos",
+   "Pablo Neruda"
   ]
  },
  {
@@ -3273,6 +4862,13 @@
    "Αχμέτ Χαμντί Τανπινάρ",
    "Ισμαήλ Κανταρέ",
    "Ναγκίμπ Μαχφούζ"
+  ],
+  "opts_en": [
+   "Nâzım Hikmet",
+   "Yaşar Kemal",
+   "Ahmet Hamdi Tanpınar",
+   "Ismail Kadare",
+   "Naguib Mahfouz"
   ]
  },
  {
@@ -3286,6 +4882,13 @@
    "Γιαροσλάβ Χάσεκ",
    "Ρόμπερτ Μούζιλ",
    "Στέφαν Τσβάιχ"
+  ],
+  "opts_en": [
+   "Milan Kundera",
+   "Karel Čapek",
+   "Jaroslav Hašek",
+   "Robert Musil",
+   "Stefan Zweig"
   ]
  },
  {
@@ -3299,6 +4902,13 @@
    "Μπόχουμιλ Χράμπαλ",
    "Γιεβγκένι Ζαμιάτιν",
    "Χέρμπερτ Τζορτζ Ουέλς"
+  ],
+  "opts_en": [
+   "Jaroslav Hašek",
+   "Franz Kafka",
+   "Bohumil Hrabal",
+   "Yevgeny Zamyatin",
+   "Herbert George Wells"
   ]
  },
  {
@@ -3312,6 +4922,13 @@
    "Φραντς Κάφκα",
    "Ίμρε Κέρτες",
    "Φίλιπ Ροθ"
+  ],
+  "opts_en": [
+   "Bohumil Hrabal",
+   "Václav Havel",
+   "Franz Kafka",
+   "Imre Kertész",
+   "Philip Roth"
   ]
  },
  {
@@ -3325,6 +4942,13 @@
    "Γιόζεφ Σκβορέτσκι",
    "Πέτερ Έστερχαζι",
    "Ίμρε Κέρτες"
+  ],
+  "opts_en": [
+   "Milan Kundera",
+   "Jaroslav Hašek",
+   "Josef Škvorecký",
+   "Péter Esterházy",
+   "Imre Kertész"
   ]
  },
  {
@@ -3338,6 +4962,13 @@
    "Βλαντιμίρ Χόλαν",
    "Τσέσουαφ Μίλος",
    "Ζμπίγκνιεφ Χέρμπερτ"
+  ],
+  "opts_en": [
+   "František Hrubín",
+   "Vítězslav Nezval",
+   "Vladimír Holan",
+   "Czesław Miłosz",
+   "Zbigniew Herbert"
   ]
  },
  {
@@ -3351,6 +4982,13 @@
    "Βλαντιμίρ Χόλαν",
    "Τσέσουαφ Μίλος",
    "Ζμπίγκνιεφ Χέρμπερτ"
+  ],
+  "opts_en": [
+   "Jaroslav Seifert",
+   "Vítězslav Nezval",
+   "Vladimír Holan",
+   "Czesław Miłosz",
+   "Zbigniew Herbert"
   ]
  },
  {
@@ -3364,6 +5002,13 @@
    "Βάινο Λίννα",
    "Κνουτ Χάμσουν",
    "Χένρικ Ποντόππινταν"
+  ],
+  "opts_en": [
+   "Aleksis Kivi",
+   "Mika Waltari",
+   "Väinö Linna",
+   "Knut Hamsun",
+   "Henrik Pontoppidan"
   ]
  },
  {
@@ -3377,6 +5022,13 @@
    "Ρομπέρτο Μπολάνιο",
    "Φεντερίκο Γκαρθία Λόρκα",
    "Οκτάβιο Παζ"
+  ],
+  "opts_en": [
+   "Vicente Huidobro",
+   "Nicanor Parra",
+   "Roberto Bolaño",
+   "Federico García Lorca",
+   "Octavio Paz"
   ]
  },
  {
@@ -3390,6 +5042,13 @@
    "Βιολέτα Πάρα",
    "Αλφονσίνα Στόρνι",
    "Χουάνα ντε Ιμπαρμπουρού"
+  ],
+  "opts_en": [
+   "Isabel Allende",
+   "María Luisa Bombal",
+   "Violeta Parra",
+   "Alfonsina Storni",
+   "Juana de Ibarbourou"
   ]
  },
  {
@@ -3403,6 +5062,13 @@
    "Μαρθέλα Πας",
    "Λάουρα Εσκίβελ",
    "Κλαρίσε Λισπέκτορ"
+  ],
+  "opts_en": [
+   "Gabriela Mistral",
+   "María Luisa Bombal",
+   "Marcela Paz",
+   "Laura Esquivel",
+   "Clarice Lispector"
   ]
  },
  {
@@ -3416,6 +5082,13 @@
    "Νικανόρ Πάρα",
    "Χούλιο Κορτάσαρ",
    "Χαβιέρ Μαρίας"
+  ],
+  "opts_en": [
+   "Luis Sepúlveda",
+   "Pablo Neruda",
+   "Nicanor Parra",
+   "Julio Cortázar",
+   "Javier Marías"
   ]
  },
  {
@@ -3429,6 +5102,13 @@
    "Χοσέ Ντονόσο",
    "Πάουλο Κοέλιο",
    "Έρρι Ντε Λούκα"
+  ],
+  "opts_en": [
+   "Roberto Bolaño",
+   "Antonio Skármeta",
+   "José Donoso",
+   "Paulo Coelho",
+   "Erri De Luca"
   ]
  },
  {
@@ -3442,6 +5122,13 @@
    "Τζέιμς Χογκ",
    "Τζέιμς Φένιμορ Κούπερ",
    "Αλέξανδρος Δουμάς"
+  ],
+  "opts_en": [
+   "Robert Louis Stevenson",
+   "Robert Burns",
+   "James Hogg",
+   "James Fenimore Cooper",
+   "Alexandre Dumas"
   ]
  },
  {
@@ -3455,6 +5142,13 @@
    "Κένεθ Γκρέιαμ",
    "Λιούις Κάρολ",
    "Όσκαρ Ουάιλντ"
+  ],
+  "opts_en": [
+   "Robert Louis Stevenson",
+   "Arthur Conan Doyle",
+   "Kenneth Grahame",
+   "Lewis Carroll",
+   "Oscar Wilde"
   ]
  },
  {
@@ -3468,6 +5162,13 @@
    "Κόμπτον ΜακΚένζι",
    "Σόμερσετ Μομ",
    "Σίνκλερ Λιούις"
+  ],
+  "opts_en": [
+   "Arthur Conan Doyle",
+   "James Matthew Barrie",
+   "Compton Mackenzie",
+   "W. Somerset Maugham",
+   "Sinclair Lewis"
   ]
  },
  {
@@ -3481,6 +5182,13 @@
    "Έντιθ Γουόρτον",
    "Τζέιν Όστεν",
    "Σαρλότ Μπροντέ"
+  ],
+  "opts_en": [
+   "Harriet Beecher Stowe",
+   "Emily Dickinson",
+   "Edith Wharton",
+   "Jane Austen",
+   "Charlotte Brontë"
   ]
  },
  {
@@ -3520,6 +5228,13 @@
    "Ντάνιελ Κέλμαν",
    "Γιο Νέσμπε",
    "Στίβεν Κινγκ"
+  ],
+  "opts_en": [
+   "Bernhard Schlink",
+   "Patrick Süskind",
+   "Daniel Kehlmann",
+   "Jo Nesbø",
+   "Stephen King"
   ]
  },
  {
@@ -3533,6 +5248,13 @@
    "Ουμπέρτο Έκο",
    "Λουίς Σεπούλβεδα",
    "Άμος Οζ"
+  ],
+  "opts_en": [
+   "Andrea Camilleri",
+   "Alessandro Baricco",
+   "Umberto Eco",
+   "Luis Sepúlveda",
+   "Amos Oz"
   ]
  },
  {
@@ -3572,6 +5294,13 @@
    "Φρανκ Νόρις",
    "Ρόμπερτ Λούις Στίβενσον",
    "Μαξίμ Γκόρκι"
+  ],
+  "opts_en": [
+   "Mark Twain",
+   "Upton Sinclair",
+   "Frank Norris",
+   "Robert Louis Stevenson",
+   "Maxim Gorky"
   ]
  },
  {
@@ -3585,6 +5314,13 @@
    "Αρτούρο Πέρες-Ρεβέρτε",
    "Εμανουέλ Καρέρ",
    "Έρρι Ντε Λούκα"
+  ],
+  "opts_en": [
+   "Javier Cercas",
+   "Javier Marías",
+   "Arturo Pérez-Reverte",
+   "Emmanuel Carrère",
+   "Erri De Luca"
   ]
  },
  {
@@ -3598,6 +5334,13 @@
    "Ρόντι Ντόιλ",
    "Ίαν ΜακΓιούαν",
    "Ντάγκλας Στιούαρτ"
+  ],
+  "opts_en": [
+   "Colm Tóibín",
+   "John Banville",
+   "Roddy Doyle",
+   "Ian McEwan",
+   "Douglas Stuart"
   ]
  },
  {
@@ -3611,6 +5354,13 @@
    "Μπόρις Πάστερνακ",
    "Φραντς Κάφκα",
    "Κάρελ Τσάπεκ"
+  ],
+  "opts_en": [
+   "Mikhail Sholokhov",
+   "Yevgeny Zamyatin",
+   "Boris Pasternak",
+   "Franz Kafka",
+   "Karel Čapek"
   ]
  }
 ]
