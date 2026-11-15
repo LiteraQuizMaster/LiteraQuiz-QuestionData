@@ -1,0 +1,4759 @@
+[
+ {
+  "id": "romantismos-ekprosopoi",
+  "title": "10 poets of Romanticism",
+  "type": "movement",
+  "category": null,
+  "items": [
+   {
+    "text": "Lord Byron",
+    "points": 1
+   },
+   {
+    "text": "Percy Bysshe Shelley",
+    "points": 2
+   },
+   {
+    "text": "John Keats",
+    "points": 2
+   },
+   {
+    "text": "Alexander Pushkin",
+    "points": 2
+   },
+   {
+    "text": "Edgar Allan Poe",
+    "points": 3
+   },
+   {
+    "text": "William Wordsworth",
+    "points": 3
+   },
+   {
+    "text": "Samuel Taylor Coleridge",
+    "points": 3
+   },
+   {
+    "text": "Heinrich Heine",
+    "points": 4
+   },
+   {
+    "text": "Alphonse de Lamartine",
+    "points": 4
+   },
+   {
+    "text": "Novalis",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "dostoevsky-iroes",
+  "title": "10 characters by Dostoevsky",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Raskolnikov",
+    "points": 1
+   },
+   {
+    "text": "Sonya Marmeladova",
+    "points": 2
+   },
+   {
+    "text": "Prince Myshkin",
+    "points": 2
+   },
+   {
+    "text": "Alyosha Karamazov",
+    "points": 2
+   },
+   {
+    "text": "Ivan Karamazov",
+    "points": 2
+   },
+   {
+    "text": "Dmitri Karamazov",
+    "points": 3
+   },
+   {
+    "text": "Porfiry Petrovich",
+    "points": 3
+   },
+   {
+    "text": "Rogozhin",
+    "points": 4
+   },
+   {
+    "text": "Nastasya Filippovna",
+    "points": 4
+   },
+   {
+    "text": "Stavrogin",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "dostoevsky-lexeis",
+  "title": "10 words about Dostoevsky",
+  "type": "words",
+  "category": null,
+  "items": [
+   {
+    "text": "Russia",
+    "points": 1
+   },
+   {
+    "text": "Epilepsy",
+    "points": 2
+   },
+   {
+    "text": "Siberia",
+    "points": 2
+   },
+   {
+    "text": "Saint Petersburg",
+    "points": 2
+   },
+   {
+    "text": "Realism",
+    "points": 2
+   },
+   {
+    "text": "Mock execution",
+    "points": 3
+   },
+   {
+    "text": "Gambling",
+    "points": 3
+   },
+   {
+    "text": "Orthodoxy",
+    "points": 3
+   },
+   {
+    "text": "Existentialism",
+    "points": 4
+   },
+   {
+    "text": "Polyphony",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "mxrojbdv89352gz03e6p",
+  "title": "10 words about Kafka's The Castle",
+  "type": "words",
+  "category": null,
+  "items": [
+   {
+    "text": "K.",
+    "points": 1
+   },
+   {
+    "text": "Land surveyor",
+    "points": 1
+   },
+   {
+    "text": "Village",
+    "points": 2
+   },
+   {
+    "text": "Bureaucracy",
+    "points": 2
+   },
+   {
+    "text": "Klamm",
+    "points": 3
+   },
+   {
+    "text": "Frieda",
+    "points": 3
+   },
+   {
+    "text": "Unfinished",
+    "points": 3
+   },
+   {
+    "text": "Assistants",
+    "points": 4
+   },
+   {
+    "text": "Max Brod",
+    "points": 4
+   },
+   {
+    "text": "Amalia",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "pz8p303qj23k06n6dn9c",
+  "title": "The 10 countries with the most Nobel Prizes in Literature",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "France",
+    "points": 1
+   },
+   {
+    "text": "USA",
+    "points": 1
+   },
+   {
+    "text": "United Kingdom",
+    "points": 2
+   },
+   {
+    "text": "Germany",
+    "points": 2
+   },
+   {
+    "text": "Sweden",
+    "points": 3
+   },
+   {
+    "text": "Italy",
+    "points": 3
+   },
+   {
+    "text": "Spain",
+    "points": 4
+   },
+   {
+    "text": "Poland",
+    "points": 4
+   },
+   {
+    "text": "Russia",
+    "points": 5
+   },
+   {
+    "text": "Ireland/Norway",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "w5dsvxcww5nwpg9a2ydg",
+  "title": "10 characters by Henrik Ibsen",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Nora",
+    "points": 1
+   },
+   {
+    "text": "Peer Gynt",
+    "points": 1
+   },
+   {
+    "text": "Hedda Gabler",
+    "points": 2
+   },
+   {
+    "text": "Solveig",
+    "points": 3
+   },
+   {
+    "text": "Torvald Helmer",
+    "points": 3
+   },
+   {
+    "text": "Doctor Stockmann",
+    "points": 3
+   },
+   {
+    "text": "Hjalmar Ekdal",
+    "points": 4
+   },
+   {
+    "text": "Osvald Alving",
+    "points": 4
+   },
+   {
+    "text": "Halvard Solness",
+    "points": 4
+   },
+   {
+    "text": "Brand",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "2imo0f7sgtjd2gv4qq1t",
+  "title": "10 characters by Charles Dickens",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Oliver Twist",
+    "points": 1
+   },
+   {
+    "text": "Ebenezer Scrooge",
+    "points": 1
+   },
+   {
+    "text": "David Copperfield",
+    "points": 1
+   },
+   {
+    "text": "Fagin",
+    "points": 2
+   },
+   {
+    "text": "Pip",
+    "points": 2
+   },
+   {
+    "text": "Miss Havisham",
+    "points": 3
+   },
+   {
+    "text": "Bill Sikes",
+    "points": 3
+   },
+   {
+    "text": "Uriah Heep",
+    "points": 4
+   },
+   {
+    "text": "Sydney Carton",
+    "points": 4
+   },
+   {
+    "text": "Samuel Pickwick",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "s8l8g6brak3lqliizgn0",
+  "title": "The 10 best-selling novels (of the 20th century)",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "The Little Prince",
+    "points": 1
+   },
+   {
+    "text": "The Alchemist",
+    "points": 1
+   },
+   {
+    "text": "Harry Potter and the Philosopher's Stone",
+    "points": 2
+   },
+   {
+    "text": "And Then There Were None",
+    "points": 2
+   },
+   {
+    "text": "The Hobbit",
+    "points": 3
+   },
+   {
+    "text": "Harry Potter and the Chamber of Secrets",
+    "points": 3
+   },
+   {
+    "text": "The Catcher in the Rye",
+    "points": 4
+   },
+   {
+    "text": "Sophie's World",
+    "points": 4
+   },
+   {
+    "text": "The Bridges of Madison County",
+    "points": 5
+   },
+   {
+    "text": "One Hundred Years of Solitude",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "romantismos-ellines",
+  "title": "10 Greek representatives of Romanticism",
+  "type": "movement",
+  "category": null,
+  "items": [
+   {
+    "text": "Dionysios Solomos",
+    "points": 1
+   },
+   {
+    "text": "Andreas Kalvos",
+    "points": 2
+   },
+   {
+    "text": "Aristotelis Valaoritis",
+    "points": 2
+   },
+   {
+    "text": "Alexandros Soutsos",
+    "points": 3
+   },
+   {
+    "text": "Panagiotis Soutsos",
+    "points": 3
+   },
+   {
+    "text": "Alexandros Rizos Rangavis",
+    "points": 3
+   },
+   {
+    "text": "Achilleas Paraschos",
+    "points": 4
+   },
+   {
+    "text": "Georgios Zalokostas",
+    "points": 4
+   },
+   {
+    "text": "Ioannis Karasoutsas",
+    "points": 5
+   },
+   {
+    "text": "Dimitrios Paparrigopoulos",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "1m95vu1n4g28xs10rtpd",
+  "title": "10 Greek writers who were NOT born in Greece",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Constantine Cavafy",
+    "points": 1
+   },
+   {
+    "text": "George Seferis",
+    "points": 1
+   },
+   {
+    "text": "Petros Markaris",
+    "points": 2
+   },
+   {
+    "text": "Penelope Delta",
+    "points": 2
+   },
+   {
+    "text": "Georgios Vizyinos",
+    "points": 3
+   },
+   {
+    "text": "Nikos Kavvadias",
+    "points": 3
+   },
+   {
+    "text": "Dido Sotiriou",
+    "points": 3
+   },
+   {
+    "text": "Ilias Venezis",
+    "points": 4
+   },
+   {
+    "text": "Kostas Varnalis",
+    "points": 4
+   },
+   {
+    "text": "Stratis Tsirkas",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "zrq9t0jrn5rg313gkwuq",
+  "title": "10 writers born in France in the 19th century",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Victor Hugo",
+    "points": 1
+   },
+   {
+    "text": "Alexandre Dumas",
+    "points": 1
+   },
+   {
+    "text": "Jules Verne",
+    "points": 2
+   },
+   {
+    "text": "Gustave Flaubert",
+    "points": 2
+   },
+   {
+    "text": "Émile Zola",
+    "points": 3
+   },
+   {
+    "text": "Charles Baudelaire",
+    "points": 3
+   },
+   {
+    "text": "Guy de Maupassant",
+    "points": 3
+   },
+   {
+    "text": "Marcel Proust",
+    "points": 4
+   },
+   {
+    "text": "Arthur Rimbaud",
+    "points": 4
+   },
+   {
+    "text": "George Sand",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "eksk5cqdjl0vcywdbi0o",
+  "title": "10 writers born in France in the 20th century",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Jean-Paul Sartre",
+    "points": 1
+   },
+   {
+    "text": "Simone de Beauvoir",
+    "points": 2
+   },
+   {
+    "text": "Françoise Sagan",
+    "points": 2
+   },
+   {
+    "text": "Patrick Modiano",
+    "points": 3
+   },
+   {
+    "text": "Annie Ernaux",
+    "points": 3
+   },
+   {
+    "text": "Boris Vian",
+    "points": 3
+   },
+   {
+    "text": "J. M. G. Le Clézio",
+    "points": 4
+   },
+   {
+    "text": "Georges Perec",
+    "points": 4
+   },
+   {
+    "text": "Jean Genet",
+    "points": 4
+   },
+   {
+    "text": "Raymond Queneau",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "276rm495fp130ftqffit",
+  "title": "10 writers born in Germany in the 19th century",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Thomas Mann",
+    "points": 1
+   },
+   {
+    "text": "Hermann Hesse",
+    "points": 1
+   },
+   {
+    "text": "Erich Maria Remarque",
+    "points": 2
+   },
+   {
+    "text": "Friedrich Nietzsche",
+    "points": 2
+   },
+   {
+    "text": "Bertolt Brecht",
+    "points": 3
+   },
+   {
+    "text": "Erich Kästner",
+    "points": 3
+   },
+   {
+    "text": "Heinrich Mann",
+    "points": 3
+   },
+   {
+    "text": "Theodor Fontane",
+    "points": 4
+   },
+   {
+    "text": "Georg Büchner",
+    "points": 4
+   },
+   {
+    "text": "Theodor Storm",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "ld3g392wvdyntwv5paej",
+  "title": "10 writers born in Germany in the 20th century",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Heinrich Böll",
+    "points": 1
+   },
+   {
+    "text": "Patrick Süskind",
+    "points": 1
+   },
+   {
+    "text": "Michael Ende",
+    "points": 2
+   },
+   {
+    "text": "Bernhard Schlink",
+    "points": 2
+   },
+   {
+    "text": "Cornelia Funke",
+    "points": 3
+   },
+   {
+    "text": "Sebastian Fitzek",
+    "points": 3
+   },
+   {
+    "text": "Daniel Kehlmann",
+    "points": 3
+   },
+   {
+    "text": "W. G. Sebald",
+    "points": 4
+   },
+   {
+    "text": "Wolfgang Borchert",
+    "points": 4
+   },
+   {
+    "text": "Hans Magnus Enzensberger",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "0jsbb7clkmj1zuhrbpj1",
+  "title": "10 characters from Moby-Dick",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Ishmael",
+    "points": 1
+   },
+   {
+    "text": "Captain Ahab",
+    "points": 1
+   },
+   {
+    "text": "Queequeg",
+    "points": 2
+   },
+   {
+    "text": "Starbuck",
+    "points": 2
+   },
+   {
+    "text": "Stubb",
+    "points": 3
+   },
+   {
+    "text": "Flask",
+    "points": 3
+   },
+   {
+    "text": "Pip",
+    "points": 4
+   },
+   {
+    "text": "Tashtego",
+    "points": 4
+   },
+   {
+    "text": "Fedallah",
+    "points": 5
+   },
+   {
+    "text": "Daggoo",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "vw00053c07um11c7t939",
+  "title": "10 great writers who were NEVER awarded the Nobel Prize in Literature",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Leo Tolstoy",
+    "points": 1
+   },
+   {
+    "text": "Nikos Kazantzakis",
+    "points": 1
+   },
+   {
+    "text": "Franz Kafka",
+    "points": 2
+   },
+   {
+    "text": "Jorge Luis Borges",
+    "points": 2
+   },
+   {
+    "text": "James Joyce",
+    "points": 2
+   },
+   {
+    "text": "Vladimir Nabokov",
+    "points": 3
+   },
+   {
+    "text": "Anton Chekhov",
+    "points": 3
+   },
+   {
+    "text": "Marcel Proust",
+    "points": 3
+   },
+   {
+    "text": "Virginia Woolf",
+    "points": 4
+   },
+   {
+    "text": "Philip Roth",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "aofsvsyi8qee59cmonc0",
+  "title": "10 words related to Ernest Hemingway",
+  "type": "words",
+  "category": null,
+  "items": [
+   {
+    "text": "Cuba",
+    "points": 1
+   },
+   {
+    "text": "Bullfighting",
+    "points": 1
+   },
+   {
+    "text": "Nobel",
+    "points": 2
+   },
+   {
+    "text": "Spanish Civil War",
+    "points": 2
+   },
+   {
+    "text": "Safari",
+    "points": 3
+   },
+   {
+    "text": "Lost Generation",
+    "points": 3
+   },
+   {
+    "text": "Pulitzer",
+    "points": 3
+   },
+   {
+    "text": "Martha Gellhorn",
+    "points": 4
+   },
+   {
+    "text": "Key West",
+    "points": 4
+   },
+   {
+    "text": "Iceberg theory",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "sqr63sce9jiooewnxtcp",
+  "title": "10 dystopian novels that became films",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "1984",
+    "points": 1
+   },
+   {
+    "text": "Fahrenheit 451",
+    "points": 1
+   },
+   {
+    "text": "A Clockwork Orange",
+    "points": 1
+   },
+   {
+    "text": "The Hunger Games",
+    "points": 2
+   },
+   {
+    "text": "The Handmaid's Tale",
+    "points": 2
+   },
+   {
+    "text": "Planet of the Apes",
+    "points": 3
+   },
+   {
+    "text": "Never Let Me Go",
+    "points": 3
+   },
+   {
+    "text": "The Road",
+    "points": 4
+   },
+   {
+    "text": "Do Androids Dream of Electric Sheep?",
+    "points": 4
+   },
+   {
+    "text": "Children of Men",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "2b18vsw24j9rpu0a9v9y",
+  "title": "10 great actors who played iconic characters from novels (in films before 1990)",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Anthony Quinn – Alexis Zorba",
+    "points": 1
+   },
+   {
+    "text": "Gregory Peck – Atticus Finch",
+    "points": 1
+   },
+   {
+    "text": "Vivien Leigh – Scarlett O'Hara",
+    "points": 1
+   },
+   {
+    "text": "Robert Redford – Jay Gatsby",
+    "points": 2
+   },
+   {
+    "text": "Gregory Peck – Captain Ahab",
+    "points": 2
+   },
+   {
+    "text": "Omar Sharif – Yuri Zhivago",
+    "points": 2
+   },
+   {
+    "text": "Charles Laughton – Quasimodo",
+    "points": 3
+   },
+   {
+    "text": "Jean Gabin – Jean Valjean",
+    "points": 3
+   },
+   {
+    "text": "Greta Garbo – Anna Karenina",
+    "points": 4
+   },
+   {
+    "text": "Laurence Olivier – Heathcliff",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "ua0uyr5v5ay0itc1309o",
+  "title": "10 Greek writers who were nominated for the Nobel Prize in Literature",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Nikos Kazantzakis",
+    "points": 1
+   },
+   {
+    "text": "Yannis Ritsos",
+    "points": 1
+   },
+   {
+    "text": "Kostis Palamas",
+    "points": 2
+   },
+   {
+    "text": "Angelos Sikelianos",
+    "points": 2
+   },
+   {
+    "text": "Stratis Myrivilis",
+    "points": 3
+   },
+   {
+    "text": "Grigorios Xenopoulos",
+    "points": 3
+   },
+   {
+    "text": "Ilias Venezis",
+    "points": 3
+   },
+   {
+    "text": "Giorgos Theotokas",
+    "points": 4
+   },
+   {
+    "text": "Georgios Souris",
+    "points": 4
+   },
+   {
+    "text": "Pantelis Prevelakis",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "r22p8341nko8gaunw9qb",
+  "title": "10 poems by Elytis that were set to music",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Tis dikaiosynis ilie noite",
+    "points": 1
+   },
+   {
+    "text": "Ena to chelidoni",
+    "points": 1
+   },
+   {
+    "text": "Tis agapis aimata",
+    "points": 2
+   },
+   {
+    "text": "To trelovaporo",
+    "points": 2
+   },
+   {
+    "text": "I treli rodia",
+    "points": 2
+   },
+   {
+    "text": "To parapono",
+    "points": 3
+   },
+   {
+    "text": "Tou mikrou voria",
+    "points": 3
+   },
+   {
+    "text": "Me to lychno tou astrou",
+    "points": 4
+   },
+   {
+    "text": "To thalassino trifylli",
+    "points": 4
+   },
+   {
+    "text": "Marina",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "hq8bmk1kjwwo5qmpol3f",
+  "title": "10 poems by Seferis that were set to music",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Arnisi (Sto perigiali to krifo)",
+    "points": 1
+   },
+   {
+    "text": "Erotikos logos",
+    "points": 2
+   },
+   {
+    "text": "Pes tis to m' ena gioukalili",
+    "points": 2
+   },
+   {
+    "text": "Einai palio to limani",
+    "points": 2
+   },
+   {
+    "text": "Afigisi",
+    "points": 3
+   },
+   {
+    "text": "O topos mas einai kleistos",
+    "points": 3
+   },
+   {
+    "text": "Emeis pou xekinisame",
+    "points": 3
+   },
+   {
+    "text": "Mesa stis thalassines spilies",
+    "points": 4
+   },
+   {
+    "text": "Ki an o ageras fysa",
+    "points": 4
+   },
+   {
+    "text": "Gynaika tis psychis mou",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "romantismos-mythistoriografoi",
+  "title": "10 novelists of Romanticism",
+  "type": "movement",
+  "category": null,
+  "items": [
+   {
+    "text": "Victor Hugo",
+    "points": 1
+   },
+   {
+    "text": "Alexandre Dumas",
+    "points": 1
+   },
+   {
+    "text": "Mary Shelley",
+    "points": 2
+   },
+   {
+    "text": "Emily Brontë",
+    "points": 2
+   },
+   {
+    "text": "Walter Scott",
+    "points": 2
+   },
+   {
+    "text": "Charlotte Brontë",
+    "points": 3
+   },
+   {
+    "text": "Johann Wolfgang von Goethe",
+    "points": 3
+   },
+   {
+    "text": "James Fenimore Cooper",
+    "points": 3
+   },
+   {
+    "text": "François-René de Chateaubriand",
+    "points": 4
+   },
+   {
+    "text": "Mikhail Lermontov",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "ithopoioi-meta-1990",
+  "title": "10 great actors who played iconic characters from novels (in films from 1990 to today)",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Leonardo DiCaprio – Jay Gatsby",
+    "points": 1
+   },
+   {
+    "text": "Ian McKellen – Gandalf",
+    "points": 1
+   },
+   {
+    "text": "Liam Neeson – Jean Valjean",
+    "points": 2
+   },
+   {
+    "text": "Keira Knightley – Elizabeth Bennet",
+    "points": 2
+   },
+   {
+    "text": "Gary Oldman – Count Dracula",
+    "points": 2
+   },
+   {
+    "text": "Winona Ryder – Jo March",
+    "points": 3
+   },
+   {
+    "text": "Robert De Niro – Frankenstein's Creature",
+    "points": 3
+   },
+   {
+    "text": "Kate Winslet – Marianne Dashwood",
+    "points": 4
+   },
+   {
+    "text": "Ralph Fiennes – Heathcliff",
+    "points": 4
+   },
+   {
+    "text": "Gwyneth Paltrow – Emma Woodhouse",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "vraveio-booker",
+  "title": "10 winners of the Booker Prize",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Salman Rushdie",
+    "points": 1
+   },
+   {
+    "text": "Kazuo Ishiguro",
+    "points": 1
+   },
+   {
+    "text": "Margaret Atwood",
+    "points": 2
+   },
+   {
+    "text": "Yann Martel",
+    "points": 2
+   },
+   {
+    "text": "Arundhati Roy",
+    "points": 2
+   },
+   {
+    "text": "Ian McEwan",
+    "points": 3
+   },
+   {
+    "text": "Hilary Mantel",
+    "points": 3
+   },
+   {
+    "text": "J. M. Coetzee",
+    "points": 4
+   },
+   {
+    "text": "Michael Ondaatje",
+    "points": 4
+   },
+   {
+    "text": "Julian Barnes",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "vraveio-goncourt",
+  "title": "10 winners of the Prix Goncourt",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Marcel Proust",
+    "points": 1
+   },
+   {
+    "text": "Simone de Beauvoir",
+    "points": 2
+   },
+   {
+    "text": "Marguerite Duras",
+    "points": 2
+   },
+   {
+    "text": "Romain Gary",
+    "points": 2
+   },
+   {
+    "text": "André Malraux",
+    "points": 3
+   },
+   {
+    "text": "Michel Houellebecq",
+    "points": 3
+   },
+   {
+    "text": "Patrick Modiano",
+    "points": 3
+   },
+   {
+    "text": "Pierre Lemaitre",
+    "points": 4
+   },
+   {
+    "text": "Michel Tournier",
+    "points": 4
+   },
+   {
+    "text": "Julien Gracq",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "vraveio-poulitzer",
+  "title": "10 winners of the Pulitzer Prize (fiction)",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Ernest Hemingway",
+    "points": 1
+   },
+   {
+    "text": "Harper Lee",
+    "points": 1
+   },
+   {
+    "text": "John Steinbeck",
+    "points": 2
+   },
+   {
+    "text": "Margaret Mitchell",
+    "points": 2
+   },
+   {
+    "text": "William Faulkner",
+    "points": 3
+   },
+   {
+    "text": "Toni Morrison",
+    "points": 3
+   },
+   {
+    "text": "Cormac McCarthy",
+    "points": 3
+   },
+   {
+    "text": "Donna Tartt",
+    "points": 4
+   },
+   {
+    "text": "Anthony Doerr",
+    "points": 4
+   },
+   {
+    "text": "John Kennedy Toole",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "seires-amerikaniki-tv",
+  "title": "10 books that became famous American TV series",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "The Thorn Birds",
+    "points": 1
+   },
+   {
+    "text": "Little House on the Prairie",
+    "points": 1
+   },
+   {
+    "text": "A Game of Thrones",
+    "points": 1
+   },
+   {
+    "text": "Roots",
+    "points": 2
+   },
+   {
+    "text": "The Handmaid's Tale",
+    "points": 2
+   },
+   {
+    "text": "Rich Man, Poor Man",
+    "points": 3
+   },
+   {
+    "text": "Shōgun",
+    "points": 3
+   },
+   {
+    "text": "The Duke and I",
+    "points": 3
+   },
+   {
+    "text": "The Queen's Gambit",
+    "points": 4
+   },
+   {
+    "text": "Big Little Lies",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "seires-elliniki-tv",
+  "title": "10 books that became famous Greek TV series",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Loxandra",
+    "points": 1
+   },
+   {
+    "text": "The Island",
+    "points": 1
+   },
+   {
+    "text": "The Third Wedding Wreath",
+    "points": 1
+   },
+   {
+    "text": "Vammena kokkina mallia (Dyed Red Hair)",
+    "points": 2
+   },
+   {
+    "text": "The Great Chimera",
+    "points": 2
+   },
+   {
+    "text": "I aithousa tou thronou",
+    "points": 2
+   },
+   {
+    "text": "Christ Recrucified",
+    "points": 3
+   },
+   {
+    "text": "The Witches of Smyrna",
+    "points": 3
+   },
+   {
+    "text": "The Pantheoi",
+    "points": 4
+   },
+   {
+    "text": "Yungermann",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "seires-vretaniki-tv",
+  "title": "10 books that became famous British TV series",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Pride and Prejudice",
+    "points": 1
+   },
+   {
+    "text": "The Adventures of Sherlock Holmes",
+    "points": 1
+   },
+   {
+    "text": "Jane Eyre",
+    "points": 2
+   },
+   {
+    "text": "I, Claudius",
+    "points": 2
+   },
+   {
+    "text": "Normal People",
+    "points": 2
+   },
+   {
+    "text": "War and Peace",
+    "points": 3
+   },
+   {
+    "text": "Ross Poldark",
+    "points": 3
+   },
+   {
+    "text": "Brideshead Revisited",
+    "points": 4
+   },
+   {
+    "text": "The Forsyte Saga",
+    "points": 4
+   },
+   {
+    "text": "Bleak House",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "logokrisia-ellada",
+  "title": "10 books that were censored or banned in Greece",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Pope Joan",
+    "points": 1
+   },
+   {
+    "text": "The Last Temptation of Christ",
+    "points": 1
+   },
+   {
+    "text": "Life in the Tomb",
+    "points": 2
+   },
+   {
+    "text": "Pericles' Funeral Oration",
+    "points": 2
+   },
+   {
+    "text": "Antigone",
+    "points": 2
+   },
+   {
+    "text": "On the Origin of Species",
+    "points": 3
+   },
+   {
+    "text": "The Decameron",
+    "points": 3
+   },
+   {
+    "text": "Lysistrata",
+    "points": 3
+   },
+   {
+    "text": "Kaliarda",
+    "points": 4
+   },
+   {
+    "text": "Epitaphios (Yannis Ritsos)",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "logokrisia-essd",
+  "title": "10 books banned in the Soviet Union",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Doctor Zhivago",
+    "points": 1
+   },
+   {
+    "text": "The Gulag Archipelago",
+    "points": 1
+   },
+   {
+    "text": "The Master and Margarita",
+    "points": 1
+   },
+   {
+    "text": "Lolita",
+    "points": 2
+   },
+   {
+    "text": "Nineteen Eighty-Four",
+    "points": 2
+   },
+   {
+    "text": "Heart of a Dog",
+    "points": 3
+   },
+   {
+    "text": "We",
+    "points": 3
+   },
+   {
+    "text": "Life and Fate",
+    "points": 4
+   },
+   {
+    "text": "Requiem",
+    "points": 4
+   },
+   {
+    "text": "Cursed Days",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "logokrisia-index",
+  "title": "10 books on the Catholic Church's Index of Forbidden Books (1559–1966)",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Les Misérables",
+    "points": 1
+   },
+   {
+    "text": "Madame Bovary",
+    "points": 1
+   },
+   {
+    "text": "The Last Temptation of Christ",
+    "points": 1
+   },
+   {
+    "text": "The Hunchback of Notre-Dame",
+    "points": 2
+   },
+   {
+    "text": "Candide",
+    "points": 2
+   },
+   {
+    "text": "The Second Sex",
+    "points": 3
+   },
+   {
+    "text": "The Social Contract",
+    "points": 3
+   },
+   {
+    "text": "Critique of Pure Reason",
+    "points": 3
+   },
+   {
+    "text": "All the works of Émile Zola",
+    "points": 4
+   },
+   {
+    "text": "Persian Letters",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "logokrisia-ipa",
+  "title": "10 books banned or removed from US schools and libraries",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "To Kill a Mockingbird",
+    "points": 1
+   },
+   {
+    "text": "The Catcher in the Rye",
+    "points": 1
+   },
+   {
+    "text": "Harry Potter",
+    "points": 1
+   },
+   {
+    "text": "Adventures of Huckleberry Finn",
+    "points": 2
+   },
+   {
+    "text": "The Handmaid's Tale",
+    "points": 2
+   },
+   {
+    "text": "Ulysses",
+    "points": 3
+   },
+   {
+    "text": "The Satanic Verses",
+    "points": 3
+   },
+   {
+    "text": "Maus",
+    "points": 3
+   },
+   {
+    "text": "Tropic of Cancer",
+    "points": 4
+   },
+   {
+    "text": "Naked Lunch",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "logokrisia-nazi",
+  "title": "10 writers whose books the Nazis burned (1933)",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Thomas Mann",
+    "points": 1
+   },
+   {
+    "text": "Erich Maria Remarque",
+    "points": 1
+   },
+   {
+    "text": "Franz Kafka",
+    "points": 2
+   },
+   {
+    "text": "Stefan Zweig",
+    "points": 2
+   },
+   {
+    "text": "Émile Zola",
+    "points": 2
+   },
+   {
+    "text": "Jack London",
+    "points": 3
+   },
+   {
+    "text": "Marcel Proust",
+    "points": 3
+   },
+   {
+    "text": "Erich Kästner",
+    "points": 4
+   },
+   {
+    "text": "H. G. Wells",
+    "points": 4
+   },
+   {
+    "text": "Heinrich Mann",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "fantastikoi-topoi",
+  "title": "10 imaginary places in literature",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Middle-earth",
+    "points": 1
+   },
+   {
+    "text": "Narnia",
+    "points": 1
+   },
+   {
+    "text": "Hogwarts",
+    "points": 1
+   },
+   {
+    "text": "Westeros",
+    "points": 1
+   },
+   {
+    "text": "Neverland",
+    "points": 2
+   },
+   {
+    "text": "Lilliput",
+    "points": 2
+   },
+   {
+    "text": "Wonderland",
+    "points": 2
+   },
+   {
+    "text": "Macondo",
+    "points": 3
+   },
+   {
+    "text": "The Emerald City",
+    "points": 4
+   },
+   {
+    "text": "Laputa",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "genia-30",
+  "title": "10 writers of the Generation of the '30s",
+  "type": "movement",
+  "category": null,
+  "items": [
+   {
+    "text": "George Seferis",
+    "points": 1
+   },
+   {
+    "text": "Odysseas Elytis",
+    "points": 1
+   },
+   {
+    "text": "Yannis Ritsos",
+    "points": 2
+   },
+   {
+    "text": "M. Karagatsis",
+    "points": 2
+   },
+   {
+    "text": "Ilias Venezis",
+    "points": 2
+   },
+   {
+    "text": "Stratis Myrivilis",
+    "points": 3
+   },
+   {
+    "text": "Giorgos Theotokas",
+    "points": 3
+   },
+   {
+    "text": "Andreas Embirikos",
+    "points": 4
+   },
+   {
+    "text": "Angelos Terzakis",
+    "points": 4
+   },
+   {
+    "text": "Kosmas Politis",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "iroes-kazantzaki",
+  "title": "10 characters by Kazantzakis",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Alexis Zorba",
+    "points": 1
+   },
+   {
+    "text": "Captain Michalis",
+    "points": 1
+   },
+   {
+    "text": "Manolios",
+    "points": 2
+   },
+   {
+    "text": "Madame Hortense",
+    "points": 2
+   },
+   {
+    "text": "Nouri Bey",
+    "points": 3
+   },
+   {
+    "text": "Katerina",
+    "points": 3
+   },
+   {
+    "text": "Father Yannaros",
+    "points": 4
+   },
+   {
+    "text": "Panagiotaros",
+    "points": 4
+   },
+   {
+    "text": "Eminé",
+    "points": 4
+   },
+   {
+    "text": "Father Grigoris",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "iroes-papadiamanti",
+  "title": "10 characters by Papadiamantis",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Frangoyannou",
+    "points": 1
+   },
+   {
+    "text": "Moschoula",
+    "points": 2
+   },
+   {
+    "text": "Lialio",
+    "points": 2
+   },
+   {
+    "text": "Barba-Yannios",
+    "points": 2
+   },
+   {
+    "text": "Father Frangoulis",
+    "points": 3
+   },
+   {
+    "text": "Avgousta",
+    "points": 3
+   },
+   {
+    "text": "Marina",
+    "points": 4
+   },
+   {
+    "text": "Father Dianelos",
+    "points": 4
+   },
+   {
+    "text": "Archonto",
+    "points": 5
+   },
+   {
+    "text": "Barba-Monachakis",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "karyotakis-melopoiimena",
+  "title": "10 poems by Karyotakis that were set to music",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Preveza",
+    "points": 1
+   },
+   {
+    "text": "Andreikela (Puppets)",
+    "points": 2
+   },
+   {
+    "text": "Teleftaio taxidi",
+    "points": 2
+   },
+   {
+    "text": "Eimaste kati xecharvalomenes kitares",
+    "points": 2
+   },
+   {
+    "text": "Agapi",
+    "points": 3
+   },
+   {
+    "text": "Mono",
+    "points": 3
+   },
+   {
+    "text": "Vradi",
+    "points": 3
+   },
+   {
+    "text": "Ki an esvise san iskios",
+    "points": 4
+   },
+   {
+    "text": "To «chamogelo»",
+    "points": 4
+   },
+   {
+    "text": "Thelo na fygo pia apo do",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "logotexnika-zoa",
+  "title": "10 literary animals",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Moby Dick",
+    "points": 1
+   },
+   {
+    "text": "Hedwig (Harry's owl)",
+    "points": 1
+   },
+   {
+    "text": "White Fang",
+    "points": 2
+   },
+   {
+    "text": "Black Beauty",
+    "points": 2
+   },
+   {
+    "text": "The Cheshire Cat",
+    "points": 2
+   },
+   {
+    "text": "Baloo",
+    "points": 2
+   },
+   {
+    "text": "Argos",
+    "points": 3
+   },
+   {
+    "text": "Napoleon",
+    "points": 3
+   },
+   {
+    "text": "Mangas",
+    "points": 3
+   },
+   {
+    "text": "Jonathan Livingston",
+    "points": 4
+   }
+  ]
+ },
+ {
+  "id": "magikos-realismos",
+  "title": "10 writers associated with magical realism",
+  "type": "movement",
+  "category": null,
+  "items": [
+   {
+    "text": "Gabriel García Márquez",
+    "points": 1
+   },
+   {
+    "text": "Isabel Allende",
+    "points": 1
+   },
+   {
+    "text": "Haruki Murakami",
+    "points": 2
+   },
+   {
+    "text": "Salman Rushdie",
+    "points": 2
+   },
+   {
+    "text": "Jorge Luis Borges",
+    "points": 2
+   },
+   {
+    "text": "Laura Esquivel",
+    "points": 3
+   },
+   {
+    "text": "Toni Morrison",
+    "points": 3
+   },
+   {
+    "text": "Mikhail Bulgakov",
+    "points": 3
+   },
+   {
+    "text": "Juan Rulfo",
+    "points": 4
+   },
+   {
+    "text": "Alejo Carpentier",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "mikrasiatiki-katastrofi",
+  "title": "10 novels about the Asia Minor Catastrophe",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Farewell Anatolia (Matomena chomata)",
+    "points": 1
+   },
+   {
+    "text": "Number 31328",
+    "points": 1
+   },
+   {
+    "text": "Aeolia",
+    "points": 2
+   },
+   {
+    "text": "The Story of a Prisoner",
+    "points": 2
+   },
+   {
+    "text": "The Witches of Smyrna",
+    "points": 2
+   },
+   {
+    "text": "Mesa stis floges",
+    "points": 3
+   },
+   {
+    "text": "Stou Chatzifrangou",
+    "points": 3
+   },
+   {
+    "text": "I archontissa tis Smyrnis",
+    "points": 4
+   },
+   {
+    "text": "Oi nekroi perimenoun",
+    "points": 4
+   },
+   {
+    "text": "To Aivali, i patrida mou",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "mythologia-logotexnia",
+  "title": "10 heroes of Greek mythology in literature",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Odysseus",
+    "points": 1
+   },
+   {
+    "text": "Achilles",
+    "points": 1
+   },
+   {
+    "text": "Oedipus",
+    "points": 1
+   },
+   {
+    "text": "Antigone",
+    "points": 1
+   },
+   {
+    "text": "Penelope",
+    "points": 2
+   },
+   {
+    "text": "Medea",
+    "points": 2
+   },
+   {
+    "text": "Prometheus",
+    "points": 2
+   },
+   {
+    "text": "Electra",
+    "points": 3
+   },
+   {
+    "text": "Cassandra",
+    "points": 4
+   },
+   {
+    "text": "Phaedra",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "ntetektiv",
+  "title": "10 literary detectives",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Sherlock Holmes",
+    "points": 1
+   },
+   {
+    "text": "Hercule Poirot",
+    "points": 1
+   },
+   {
+    "text": "Miss Marple",
+    "points": 2
+   },
+   {
+    "text": "Kostas Charitos",
+    "points": 2
+   },
+   {
+    "text": "Inspector Maigret",
+    "points": 2
+   },
+   {
+    "text": "Inspector Bekas",
+    "points": 3
+   },
+   {
+    "text": "Harry Hole",
+    "points": 3
+   },
+   {
+    "text": "Kurt Wallander",
+    "points": 3
+   },
+   {
+    "text": "Mario Conde",
+    "points": 4
+   },
+   {
+    "text": "C. Auguste Dupin",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "paidika-klasika",
+  "title": "10 classic children's books",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "The Little Prince",
+    "points": 1
+   },
+   {
+    "text": "The Adventures of Pinocchio",
+    "points": 1
+   },
+   {
+    "text": "Alice's Adventures in Wonderland",
+    "points": 1
+   },
+   {
+    "text": "Heidi",
+    "points": 2
+   },
+   {
+    "text": "Peter Pan",
+    "points": 2
+   },
+   {
+    "text": "The Wonderful Wizard of Oz",
+    "points": 2
+   },
+   {
+    "text": "The Tiger in the Shop Window",
+    "points": 2
+   },
+   {
+    "text": "Ta psila vouna (The High Mountains)",
+    "points": 3
+   },
+   {
+    "text": "Treasure Island",
+    "points": 3
+   },
+   {
+    "text": "Nobody's Boy (Sans famille)",
+    "points": 4
+   }
+  ]
+ },
+ {
+  "id": "pseudonyma",
+  "title": "10 writers' names that are actually pen names",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Odysseas Elytis",
+    "points": 1
+   },
+   {
+    "text": "George Seferis",
+    "points": 1
+   },
+   {
+    "text": "George Orwell",
+    "points": 1
+   },
+   {
+    "text": "M. Karagatsis",
+    "points": 2
+   },
+   {
+    "text": "Stratis Myrivilis",
+    "points": 2
+   },
+   {
+    "text": "Mark Twain",
+    "points": 2
+   },
+   {
+    "text": "Voltaire",
+    "points": 3
+   },
+   {
+    "text": "Lewis Carroll",
+    "points": 3
+   },
+   {
+    "text": "Maxim Gorky",
+    "points": 4
+   },
+   {
+    "text": "George Eliot",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "rosoi-klasikoi",
+  "title": "10 Russian classic writers",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Leo Tolstoy",
+    "points": 1
+   },
+   {
+    "text": "Fyodor Dostoevsky",
+    "points": 1
+   },
+   {
+    "text": "Anton Chekhov",
+    "points": 1
+   },
+   {
+    "text": "Alexander Pushkin",
+    "points": 2
+   },
+   {
+    "text": "Nikolai Gogol",
+    "points": 2
+   },
+   {
+    "text": "Ivan Turgenev",
+    "points": 3
+   },
+   {
+    "text": "Maxim Gorky",
+    "points": 3
+   },
+   {
+    "text": "Mikhail Lermontov",
+    "points": 4
+   },
+   {
+    "text": "Ivan Goncharov",
+    "points": 5
+   },
+   {
+    "text": "Nikolai Leskov",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "syggrafeis-giatroi",
+  "title": "10 writers who were also doctors",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Anton Chekhov",
+    "points": 1
+   },
+   {
+    "text": "Arthur Conan Doyle",
+    "points": 1
+   },
+   {
+    "text": "Mikhail Bulgakov",
+    "points": 2
+   },
+   {
+    "text": "W. Somerset Maugham",
+    "points": 2
+   },
+   {
+    "text": "Khaled Hosseini",
+    "points": 3
+   },
+   {
+    "text": "Michael Crichton",
+    "points": 3
+   },
+   {
+    "text": "John Keats",
+    "points": 3
+   },
+   {
+    "text": "François Rabelais",
+    "points": 4
+   },
+   {
+    "text": "Louis-Ferdinand Céline",
+    "points": 4
+   },
+   {
+    "text": "Arthur Schnitzler",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "yperrealismos",
+  "title": "10 representatives of Surrealism",
+  "type": "movement",
+  "category": null,
+  "items": [
+   {
+    "text": "André Breton",
+    "points": 1
+   },
+   {
+    "text": "Andreas Embirikos",
+    "points": 1
+   },
+   {
+    "text": "Nikos Engonopoulos",
+    "points": 1
+   },
+   {
+    "text": "Paul Éluard",
+    "points": 2
+   },
+   {
+    "text": "Louis Aragon",
+    "points": 2
+   },
+   {
+    "text": "Jacques Prévert",
+    "points": 2
+   },
+   {
+    "text": "Antonin Artaud",
+    "points": 3
+   },
+   {
+    "text": "Philippe Soupault",
+    "points": 4
+   },
+   {
+    "text": "Benjamin Péret",
+    "points": 4
+   },
+   {
+    "text": "Robert Desnos",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-aliki",
+  "title": "10 characters from Alice in Wonderland",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Alice",
+    "points": 1
+   },
+   {
+    "text": "The White Rabbit",
+    "points": 1
+   },
+   {
+    "text": "The Mad Hatter",
+    "points": 1
+   },
+   {
+    "text": "The Cheshire Cat",
+    "points": 2
+   },
+   {
+    "text": "The Queen of Hearts",
+    "points": 2
+   },
+   {
+    "text": "The Caterpillar",
+    "points": 3
+   },
+   {
+    "text": "The March Hare",
+    "points": 3
+   },
+   {
+    "text": "The Duchess",
+    "points": 4
+   },
+   {
+    "text": "The Mock Turtle",
+    "points": 4
+   },
+   {
+    "text": "The Gryphon",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-arxontas",
+  "title": "10 characters from The Lord of the Rings",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Frodo Baggins",
+    "points": 1
+   },
+   {
+    "text": "Gandalf",
+    "points": 1
+   },
+   {
+    "text": "Gollum",
+    "points": 1
+   },
+   {
+    "text": "Sauron",
+    "points": 1
+   },
+   {
+    "text": "Sam Gamgee",
+    "points": 2
+   },
+   {
+    "text": "Bilbo Baggins",
+    "points": 2
+   },
+   {
+    "text": "Aragorn",
+    "points": 2
+   },
+   {
+    "text": "Galadriel",
+    "points": 3
+   },
+   {
+    "text": "Legolas",
+    "points": 3
+   },
+   {
+    "text": "Gimli",
+    "points": 4
+   }
+  ]
+ },
+ {
+  "id": "xar-athlioi",
+  "title": "10 characters from Les Misérables",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Jean Valjean",
+    "points": 1
+   },
+   {
+    "text": "Javert",
+    "points": 1
+   },
+   {
+    "text": "Cosette",
+    "points": 1
+   },
+   {
+    "text": "Fantine",
+    "points": 2
+   },
+   {
+    "text": "Gavroche",
+    "points": 2
+   },
+   {
+    "text": "Marius",
+    "points": 2
+   },
+   {
+    "text": "Éponine",
+    "points": 3
+   },
+   {
+    "text": "The Thénardiers",
+    "points": 3
+   },
+   {
+    "text": "Bishop Myriel",
+    "points": 4
+   },
+   {
+    "text": "Enjolras",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-don-kixotis",
+  "title": "10 characters from Don Quixote",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Don Quixote",
+    "points": 1
+   },
+   {
+    "text": "Sancho Panza",
+    "points": 1
+   },
+   {
+    "text": "Dulcinea",
+    "points": 2
+   },
+   {
+    "text": "Rocinante",
+    "points": 2
+   },
+   {
+    "text": "Frestón",
+    "points": 3
+   },
+   {
+    "text": "The Duke and the Duchess",
+    "points": 3
+   },
+   {
+    "text": "Teresa Panza",
+    "points": 4
+   },
+   {
+    "text": "Sansón Carrasco",
+    "points": 4
+   },
+   {
+    "text": "Cardenio",
+    "points": 5
+   },
+   {
+    "text": "Dorotea",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-ekato-xronia",
+  "title": "10 characters from One Hundred Years of Solitude",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "José Arcadio Buendía",
+    "points": 1
+   },
+   {
+    "text": "Úrsula Iguarán",
+    "points": 1
+   },
+   {
+    "text": "Colonel Aureliano Buendía",
+    "points": 1
+   },
+   {
+    "text": "Melquíades",
+    "points": 2
+   },
+   {
+    "text": "Remedios the Beauty",
+    "points": 2
+   },
+   {
+    "text": "Amaranta",
+    "points": 3
+   },
+   {
+    "text": "Rebeca",
+    "points": 3
+   },
+   {
+    "text": "Pilar Ternera",
+    "points": 4
+   },
+   {
+    "text": "Fernanda del Carpio",
+    "points": 4
+   },
+   {
+    "text": "Mauricio Babilonia",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-fotia-pagos",
+  "title": "10 characters from A Song of Ice and Fire",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Jon Snow",
+    "points": 1
+   },
+   {
+    "text": "Daenerys Targaryen",
+    "points": 1
+   },
+   {
+    "text": "Tyrion Lannister",
+    "points": 1
+   },
+   {
+    "text": "Eddard Stark",
+    "points": 2
+   },
+   {
+    "text": "Cersei Lannister",
+    "points": 2
+   },
+   {
+    "text": "Arya Stark",
+    "points": 2
+   },
+   {
+    "text": "Sansa Stark",
+    "points": 3
+   },
+   {
+    "text": "Jaime Lannister",
+    "points": 3
+   },
+   {
+    "text": "Joffrey Baratheon",
+    "points": 4
+   },
+   {
+    "text": "Bran Stark",
+    "points": 4
+   }
+  ]
+ },
+ {
+  "id": "xar-iliada",
+  "title": "10 characters from the Iliad",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Achilles",
+    "points": 1
+   },
+   {
+    "text": "Hector",
+    "points": 1
+   },
+   {
+    "text": "Agamemnon",
+    "points": 1
+   },
+   {
+    "text": "Patroclus",
+    "points": 2
+   },
+   {
+    "text": "Paris",
+    "points": 2
+   },
+   {
+    "text": "Priam",
+    "points": 2
+   },
+   {
+    "text": "Andromache",
+    "points": 3
+   },
+   {
+    "text": "Menelaus",
+    "points": 3
+   },
+   {
+    "text": "Ajax",
+    "points": 4
+   },
+   {
+    "text": "Diomedes",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-narnia",
+  "title": "10 characters from The Chronicles of Narnia",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Aslan",
+    "points": 1
+   },
+   {
+    "text": "Lucy Pevensie",
+    "points": 1
+   },
+   {
+    "text": "The White Witch",
+    "points": 1
+   },
+   {
+    "text": "Edmund Pevensie",
+    "points": 2
+   },
+   {
+    "text": "Peter Pevensie",
+    "points": 2
+   },
+   {
+    "text": "Susan Pevensie",
+    "points": 2
+   },
+   {
+    "text": "Prince Caspian",
+    "points": 3
+   },
+   {
+    "text": "Digory",
+    "points": 3
+   },
+   {
+    "text": "Eustace",
+    "points": 4
+   },
+   {
+    "text": "Reepicheep",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-odysseia",
+  "title": "10 characters from the Odyssey",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Odysseus",
+    "points": 1
+   },
+   {
+    "text": "Penelope",
+    "points": 1
+   },
+   {
+    "text": "Telemachus",
+    "points": 1
+   },
+   {
+    "text": "Polyphemus",
+    "points": 1
+   },
+   {
+    "text": "Circe",
+    "points": 2
+   },
+   {
+    "text": "Calypso",
+    "points": 2
+   },
+   {
+    "text": "Nausicaa",
+    "points": 2
+   },
+   {
+    "text": "Argos",
+    "points": 3
+   },
+   {
+    "text": "Eumaeus",
+    "points": 4
+   },
+   {
+    "text": "Eurycleia",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-perifania",
+  "title": "10 characters from Pride and Prejudice",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Elizabeth Bennet",
+    "points": 1
+   },
+   {
+    "text": "Fitzwilliam Darcy",
+    "points": 1
+   },
+   {
+    "text": "Jane Bennet",
+    "points": 2
+   },
+   {
+    "text": "Charles Bingley",
+    "points": 2
+   },
+   {
+    "text": "Mrs Bennet",
+    "points": 2
+   },
+   {
+    "text": "Lydia Bennet",
+    "points": 3
+   },
+   {
+    "text": "George Wickham",
+    "points": 3
+   },
+   {
+    "text": "Mr Bennet",
+    "points": 3
+   },
+   {
+    "text": "Mr Collins",
+    "points": 4
+   },
+   {
+    "text": "Lady Catherine de Bourgh",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-polemos-eirini",
+  "title": "10 characters from War and Peace",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Pierre Bezukhov",
+    "points": 1
+   },
+   {
+    "text": "Natasha Rostova",
+    "points": 1
+   },
+   {
+    "text": "Andrei Bolkonsky",
+    "points": 1
+   },
+   {
+    "text": "Boris Drubetskoy",
+    "points": 2
+   },
+   {
+    "text": "Nikolai Rostov",
+    "points": 2
+   },
+   {
+    "text": "General Mikhail Kutuzov",
+    "points": 3
+   },
+   {
+    "text": "Maria Bolkonskaya",
+    "points": 3
+   },
+   {
+    "text": "Hélène Vasilyevna Bezukhova",
+    "points": 4
+   },
+   {
+    "text": "Sonya Alexandrovna",
+    "points": 4
+   },
+   {
+    "text": "Osip Alexeyevich Bazdeyev",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-silmarillion",
+  "title": "10 characters from The Silmarillion",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Sauron",
+    "points": 1
+   },
+   {
+    "text": "Galadriel",
+    "points": 1
+   },
+   {
+    "text": "Morgoth",
+    "points": 2
+   },
+   {
+    "text": "Lúthien",
+    "points": 2
+   },
+   {
+    "text": "Beren",
+    "points": 2
+   },
+   {
+    "text": "Fëanor",
+    "points": 3
+   },
+   {
+    "text": "Thingol",
+    "points": 3
+   },
+   {
+    "text": "Melian",
+    "points": 4
+   },
+   {
+    "text": "Finrod",
+    "points": 4
+   },
+   {
+    "text": "Fingolfin",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-somatofylakes",
+  "title": "10 characters from The Three Musketeers",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "D'Artagnan",
+    "points": 1
+   },
+   {
+    "text": "Athos",
+    "points": 1
+   },
+   {
+    "text": "Porthos",
+    "points": 1
+   },
+   {
+    "text": "Aramis",
+    "points": 1
+   },
+   {
+    "text": "Milady",
+    "points": 2
+   },
+   {
+    "text": "Cardinal Richelieu",
+    "points": 2
+   },
+   {
+    "text": "Constance Bonacieux",
+    "points": 3
+   },
+   {
+    "text": "Comte de Rochefort",
+    "points": 3
+   },
+   {
+    "text": "The Duke of Buckingham",
+    "points": 4
+   },
+   {
+    "text": "Monsieur de Tréville",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "xar-xari-poter",
+  "title": "10 characters from Harry Potter",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Harry Potter",
+    "points": 1
+   },
+   {
+    "text": "Ron Weasley",
+    "points": 1
+   },
+   {
+    "text": "Hermione Granger",
+    "points": 1
+   },
+   {
+    "text": "Albus Dumbledore",
+    "points": 2
+   },
+   {
+    "text": "Lord Voldemort",
+    "points": 2
+   },
+   {
+    "text": "Severus Snape",
+    "points": 2
+   },
+   {
+    "text": "Rubeus Hagrid",
+    "points": 3
+   },
+   {
+    "text": "Draco Malfoy",
+    "points": 3
+   },
+   {
+    "text": "Sirius Black",
+    "points": 4
+   },
+   {
+    "text": "Dudley Dursley",
+    "points": 4
+   }
+  ]
+ },
+ {
+  "id": "xar-xompit",
+  "title": "10 characters from The Hobbit",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Bilbo Baggins",
+    "points": 1
+   },
+   {
+    "text": "Gandalf",
+    "points": 1
+   },
+   {
+    "text": "Gollum",
+    "points": 1
+   },
+   {
+    "text": "Smaug",
+    "points": 2
+   },
+   {
+    "text": "Thorin Oakenshield",
+    "points": 2
+   },
+   {
+    "text": "Elrond",
+    "points": 3
+   },
+   {
+    "text": "Balin",
+    "points": 3
+   },
+   {
+    "text": "Fili",
+    "points": 4
+   },
+   {
+    "text": "Kili",
+    "points": 4
+   },
+   {
+    "text": "Dwalin",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "arithmos",
+  "title": "10 books with a number in the title",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "1984",
+    "points": 1
+   },
+   {
+    "text": "One Hundred Years of Solitude",
+    "points": 1
+   },
+   {
+    "text": "The Three Musketeers",
+    "points": 1
+   },
+   {
+    "text": "Around the World in Eighty Days",
+    "points": 1
+   },
+   {
+    "text": "Fahrenheit 451",
+    "points": 2
+   },
+   {
+    "text": "Twenty Thousand Leagues Under the Sea",
+    "points": 2
+   },
+   {
+    "text": "One Thousand and One Nights",
+    "points": 2
+   },
+   {
+    "text": "To 10 (Karagatsis)",
+    "points": 3
+   },
+   {
+    "text": "Number 31328",
+    "points": 4
+   },
+   {
+    "text": "And Then There Were None (Ten Little…)",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "astynomiko",
+  "title": "10 crime fiction writers",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Agatha Christie",
+    "points": 1
+   },
+   {
+    "text": "Arthur Conan Doyle",
+    "points": 1
+   },
+   {
+    "text": "Petros Markaris",
+    "points": 2
+   },
+   {
+    "text": "Georges Simenon",
+    "points": 1
+   },
+   {
+    "text": "Yannis Maris",
+    "points": 2
+   },
+   {
+    "text": "Jo Nesbø",
+    "points": 1
+   },
+   {
+    "text": "Raymond Chandler",
+    "points": 4
+   },
+   {
+    "text": "Leonardo Padura",
+    "points": 3
+   },
+   {
+    "text": "Paco Ignacio Taibo II",
+    "points": 3
+   },
+   {
+    "text": "Claudia Piñeiro",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "kakoi",
+  "title": "10 literary villains",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Count Dracula",
+    "points": 1
+   },
+   {
+    "text": "Lord Voldemort",
+    "points": 1
+   },
+   {
+    "text": "Iago",
+    "points": 2
+   },
+   {
+    "text": "Professor Moriarty",
+    "points": 2
+   },
+   {
+    "text": "Captain Hook",
+    "points": 2
+   },
+   {
+    "text": "Milady",
+    "points": 3
+   },
+   {
+    "text": "Long John Silver",
+    "points": 3
+   },
+   {
+    "text": "Sauron",
+    "points": 3
+   },
+   {
+    "text": "Javert",
+    "points": 4
+   },
+   {
+    "text": "Claude Frollo",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "kriti",
+  "title": "10 novels set in Crete",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Zorba the Greek",
+    "points": 1
+   },
+   {
+    "text": "Freedom or Death (Captain Michalis)",
+    "points": 1
+   },
+   {
+    "text": "The Island",
+    "points": 1
+   },
+   {
+    "text": "The Thread (One August Night)",
+    "points": 2
+   },
+   {
+    "text": "O Kritikos",
+    "points": 2
+   },
+   {
+    "text": "The Chronicle of a Town",
+    "points": 3
+   },
+   {
+    "text": "The Life of Ismail Ferik Pasha",
+    "points": 3
+   },
+   {
+    "text": "Innocents and Guilty",
+    "points": 4
+   },
+   {
+    "text": "The Sun of Death",
+    "points": 4
+   },
+   {
+    "text": "Kriti mou",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "magoi",
+  "title": "10 literary wizards and witches",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Gandalf",
+    "points": 1
+   },
+   {
+    "text": "Albus Dumbledore",
+    "points": 1
+   },
+   {
+    "text": "Merlin",
+    "points": 1
+   },
+   {
+    "text": "Circe",
+    "points": 2
+   },
+   {
+    "text": "Lord Voldemort",
+    "points": 2
+   },
+   {
+    "text": "Prospero",
+    "points": 3
+   },
+   {
+    "text": "The White Witch",
+    "points": 3
+   },
+   {
+    "text": "Morgan le Fay",
+    "points": 3
+   },
+   {
+    "text": "The Wizard of Oz",
+    "points": 4
+   },
+   {
+    "text": "Saruman",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "nompelistries",
+  "title": "10 women Nobel laureates in Literature",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Toni Morrison",
+    "points": 1
+   },
+   {
+    "text": "Annie Ernaux",
+    "points": 1
+   },
+   {
+    "text": "Alice Munro",
+    "points": 2
+   },
+   {
+    "text": "Doris Lessing",
+    "points": 2
+   },
+   {
+    "text": "Wisława Szymborska",
+    "points": 2
+   },
+   {
+    "text": "Olga Tokarczuk",
+    "points": 3
+   },
+   {
+    "text": "Han Kang",
+    "points": 3
+   },
+   {
+    "text": "Pearl S. Buck",
+    "points": 3
+   },
+   {
+    "text": "Selma Lagerlöf",
+    "points": 4
+   },
+   {
+    "text": "Gabriela Mistral",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "paidikoi",
+  "title": "10 Greek children's authors",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Penelope Delta",
+    "points": 1
+   },
+   {
+    "text": "Alki Zei",
+    "points": 1
+   },
+   {
+    "text": "Eugene Trivizas",
+    "points": 1
+   },
+   {
+    "text": "Zorz Sari",
+    "points": 2
+   },
+   {
+    "text": "Loty Petrovits-Andritsopoulou",
+    "points": 3
+   },
+   {
+    "text": "Manos Kontoleon",
+    "points": 3
+   },
+   {
+    "text": "Karmen Rouggeri",
+    "points": 4
+   },
+   {
+    "text": "Filippos Mandilaras",
+    "points": 4
+   },
+   {
+    "text": "Galateia Grigoriadou-Soureli",
+    "points": 5
+   },
+   {
+    "text": "Maria Papayanni",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "ploia",
+  "title": "10 literary ships",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Argo",
+    "points": 1
+   },
+   {
+    "text": "Nautilus",
+    "points": 1
+   },
+   {
+    "text": "Pequod",
+    "points": 2
+   },
+   {
+    "text": "Hispaniola",
+    "points": 2
+   },
+   {
+    "text": "The Crazy Steamboat (Trelovaporo)",
+    "points": 2
+   },
+   {
+    "text": "Dawn Treader",
+    "points": 3
+   },
+   {
+    "text": "Jolly Roger",
+    "points": 3
+   },
+   {
+    "text": "Bounty",
+    "points": 3
+   },
+   {
+    "text": "Patna",
+    "points": 4
+   },
+   {
+    "text": "Narcissus",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "poiites-20",
+  "title": "10 Greek poets of the 20th century",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Constantine Cavafy",
+    "points": 1
+   },
+   {
+    "text": "George Seferis",
+    "points": 1
+   },
+   {
+    "text": "Odysseas Elytis",
+    "points": 1
+   },
+   {
+    "text": "Yannis Ritsos",
+    "points": 1
+   },
+   {
+    "text": "Kostas Karyotakis",
+    "points": 2
+   },
+   {
+    "text": "Angelos Sikelianos",
+    "points": 2
+   },
+   {
+    "text": "Nikos Kavvadias",
+    "points": 2
+   },
+   {
+    "text": "Manolis Anagnostakis",
+    "points": 3
+   },
+   {
+    "text": "Kiki Dimoula",
+    "points": 3
+   },
+   {
+    "text": "Maria Polydouri",
+    "points": 4
+   }
+  ]
+ },
+ {
+  "id": "sci-fi",
+  "title": "10 science fiction writers",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Jules Verne",
+    "points": 1
+   },
+   {
+    "text": "H. G. Wells",
+    "points": 1
+   },
+   {
+    "text": "Isaac Asimov",
+    "points": 1
+   },
+   {
+    "text": "Ray Bradbury",
+    "points": 2
+   },
+   {
+    "text": "Philip K. Dick",
+    "points": 2
+   },
+   {
+    "text": "Arthur C. Clarke",
+    "points": 2
+   },
+   {
+    "text": "Frank Herbert",
+    "points": 3
+   },
+   {
+    "text": "Ursula K. Le Guin",
+    "points": 3
+   },
+   {
+    "text": "Stanisław Lem",
+    "points": 4
+   },
+   {
+    "text": "William Gibson",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "sexpir",
+  "title": "10 Shakespeare characters",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Hamlet",
+    "points": 1
+   },
+   {
+    "text": "Romeo",
+    "points": 1
+   },
+   {
+    "text": "Juliet",
+    "points": 1
+   },
+   {
+    "text": "Othello",
+    "points": 2
+   },
+   {
+    "text": "Lady Macbeth",
+    "points": 2
+   },
+   {
+    "text": "King Lear",
+    "points": 2
+   },
+   {
+    "text": "Ophelia",
+    "points": 3
+   },
+   {
+    "text": "Shylock",
+    "points": 3
+   },
+   {
+    "text": "Falstaff",
+    "points": 4
+   },
+   {
+    "text": "Caliban",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "vern",
+  "title": "10 characters by Jules Verne",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Phileas Fogg",
+    "points": 1
+   },
+   {
+    "text": "Passepartout",
+    "points": 1
+   },
+   {
+    "text": "Captain Nemo",
+    "points": 1
+   },
+   {
+    "text": "Michael Strogoff",
+    "points": 2
+   },
+   {
+    "text": "Professor Lidenbrock",
+    "points": 3
+   },
+   {
+    "text": "Professor Aronnax",
+    "points": 3
+   },
+   {
+    "text": "Ned Land",
+    "points": 3
+   },
+   {
+    "text": "Cyrus Smith",
+    "points": 4
+   },
+   {
+    "text": "Captain Hatteras",
+    "points": 5
+   },
+   {
+    "text": "Robur",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "zevgaria",
+  "title": "10 literary couples (world literature)",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Romeo – Juliet",
+    "points": 1
+   },
+   {
+    "text": "Elizabeth Bennet – Fitzwilliam Darcy",
+    "points": 1
+   },
+   {
+    "text": "Scarlett O'Hara – Rhett Butler",
+    "points": 2
+   },
+   {
+    "text": "Heathcliff – Catherine",
+    "points": 2
+   },
+   {
+    "text": "Anna Karenina – Vronsky",
+    "points": 2
+   },
+   {
+    "text": "Jane Eyre – Rochester",
+    "points": 3
+   },
+   {
+    "text": "Tristan – Isolde",
+    "points": 3
+   },
+   {
+    "text": "Jay Gatsby – Daisy Buchanan",
+    "points": 3
+   },
+   {
+    "text": "Beren – Lúthien",
+    "points": 4
+   },
+   {
+    "text": "Florentino Ariza – Fermina Daza",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "lb03of3z7sjn4wbr0gmr",
+  "title": "10 characters by M. Karagatsis",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Vasilis Yungermann",
+    "points": 1
+   },
+   {
+    "text": "David Borisovich Liapkin",
+    "points": 1
+   },
+   {
+    "text": "Marina",
+    "points": 1
+   },
+   {
+    "text": "Voula Papadeli",
+    "points": 2
+   },
+   {
+    "text": "Michalis Karamanos",
+    "points": 3
+   },
+   {
+    "text": "Michalos Rousis",
+    "points": 3
+   },
+   {
+    "text": "Manos Tasakos",
+    "points": 3
+   },
+   {
+    "text": "Giorgos Mazis",
+    "points": 4
+   },
+   {
+    "text": "Minas",
+    "points": 4
+   },
+   {
+    "text": "Vasilis Laskos",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "j2ej9dj09arsfpb0fbmn",
+  "title": "10 words about the novel \"The Unbearable Lightness of Being\"",
+  "type": "words",
+  "category": null,
+  "items": [
+   {
+    "text": "Prague",
+    "points": 1
+   },
+   {
+    "text": "Milan Kundera",
+    "points": 1
+   },
+   {
+    "text": "Tomas",
+    "points": 1
+   },
+   {
+    "text": "Tereza",
+    "points": 1
+   },
+   {
+    "text": "Sabina",
+    "points": 2
+   },
+   {
+    "text": "Prague Spring",
+    "points": 2
+   },
+   {
+    "text": "Karenin",
+    "points": 3
+   },
+   {
+    "text": "Eternal return",
+    "points": 4
+   },
+   {
+    "text": "Parmenides",
+    "points": 4
+   },
+   {
+    "text": "Franz",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "qog7u6j9l0k1i85cgqz4",
+  "title": "10 books set during the First World War",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "All Quiet on the Western Front",
+    "points": 1
+   },
+   {
+    "text": "A Farewell to Arms",
+    "points": 1
+   },
+   {
+    "text": "Life in the Tomb",
+    "points": 1
+   },
+   {
+    "text": "The Good Soldier Švejk",
+    "points": 2
+   },
+   {
+    "text": "The Great Swindle (Au revoir là-haut)",
+    "points": 3
+   },
+   {
+    "text": "Journey to the End of the Night",
+    "points": 3
+   },
+   {
+    "text": "Johnny Got His Gun",
+    "points": 4
+   },
+   {
+    "text": "Under Fire (Le Feu)",
+    "points": 4
+   },
+   {
+    "text": "Storm of Steel",
+    "points": 5
+   },
+   {
+    "text": "Wooden Crosses",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "v4t8aguy9zy9j53xo4r2",
+  "title": "10 novels set during the Second World War",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "All the Light We Cannot See",
+    "points": 1
+   },
+   {
+    "text": "The Book Thief",
+    "points": 1
+   },
+   {
+    "text": "The Boy in the Striped Pyjamas",
+    "points": 1
+   },
+   {
+    "text": "Captain Corelli's Mandolin",
+    "points": 2
+   },
+   {
+    "text": "The English Patient",
+    "points": 2
+   },
+   {
+    "text": "Slaughterhouse-Five",
+    "points": 2
+   },
+   {
+    "text": "Catch-22",
+    "points": 3
+   },
+   {
+    "text": "Schindler's List",
+    "points": 3
+   },
+   {
+    "text": "The Nightingale",
+    "points": 4
+   },
+   {
+    "text": "The Naked and the Dead",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "zoy1kl584er23vs14vsm",
+  "title": "10 American novelists of the 20th century",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Ernest Hemingway",
+    "points": 1
+   },
+   {
+    "text": "F. Scott Fitzgerald",
+    "points": 1
+   },
+   {
+    "text": "John Steinbeck",
+    "points": 1
+   },
+   {
+    "text": "William Faulkner",
+    "points": 2
+   },
+   {
+    "text": "J. D. Salinger",
+    "points": 2
+   },
+   {
+    "text": "Harper Lee",
+    "points": 2
+   },
+   {
+    "text": "Toni Morrison",
+    "points": 3
+   },
+   {
+    "text": "Jack Kerouac",
+    "points": 3
+   },
+   {
+    "text": "Philip Roth",
+    "points": 3
+   },
+   {
+    "text": "Kurt Vonnegut",
+    "points": 4
+   }
+  ]
+ },
+ {
+  "id": "lbwtfcswvy6m4iq73s3r",
+  "title": "10 American novelists of the 21st century",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Dan Brown",
+    "points": 1
+   },
+   {
+    "text": "Jonathan Franzen",
+    "points": 2
+   },
+   {
+    "text": "Donna Tartt",
+    "points": 2
+   },
+   {
+    "text": "Colson Whitehead",
+    "points": 3
+   },
+   {
+    "text": "Jennifer Egan",
+    "points": 3
+   },
+   {
+    "text": "Anthony Doerr",
+    "points": 3
+   },
+   {
+    "text": "Jhumpa Lahiri",
+    "points": 3
+   },
+   {
+    "text": "Jonathan Safran Foer",
+    "points": 4
+   },
+   {
+    "text": "Hanya Yanagihara",
+    "points": 4
+   },
+   {
+    "text": "Jeffrey Eugenides",
+    "points": 4
+   }
+  ]
+ },
+ {
+  "id": "uca1auulbazeglnlxkki",
+  "title": "10 Latin American novelists of the 20th century",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Gabriel García Márquez",
+    "points": 1
+   },
+   {
+    "text": "Isabel Allende",
+    "points": 1
+   },
+   {
+    "text": "Jorge Luis Borges",
+    "points": 1
+   },
+   {
+    "text": "Mario Vargas Llosa",
+    "points": 2
+   },
+   {
+    "text": "Julio Cortázar",
+    "points": 2
+   },
+   {
+    "text": "Jorge Amado",
+    "points": 3
+   },
+   {
+    "text": "Carlos Fuentes",
+    "points": 3
+   },
+   {
+    "text": "Juan Rulfo",
+    "points": 4
+   },
+   {
+    "text": "Ernesto Sabato",
+    "points": 4
+   },
+   {
+    "text": "Alejo Carpentier",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "ajiv6uo8nil2idfb75pq",
+  "title": "10 Italian novelists of the 20th century",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Umberto Eco",
+    "points": 1
+   },
+   {
+    "text": "Italo Calvino",
+    "points": 1
+   },
+   {
+    "text": "Alberto Moravia",
+    "points": 2
+   },
+   {
+    "text": "Primo Levi",
+    "points": 2
+   },
+   {
+    "text": "Luigi Pirandello",
+    "points": 2
+   },
+   {
+    "text": "Cesare Pavese",
+    "points": 3
+   },
+   {
+    "text": "Giuseppe Tomasi di Lampedusa",
+    "points": 3
+   },
+   {
+    "text": "Elsa Morante",
+    "points": 4
+   },
+   {
+    "text": "Dino Buzzati",
+    "points": 4
+   },
+   {
+    "text": "Italo Svevo",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "fhtd0cgk1bhpvrh03zwl",
+  "title": "10 heroines of classic literature",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Anna Karenina",
+    "points": 1
+   },
+   {
+    "text": "Emma Bovary",
+    "points": 1
+   },
+   {
+    "text": "Elizabeth Bennet",
+    "points": 1
+   },
+   {
+    "text": "Antigone",
+    "points": 1
+   },
+   {
+    "text": "Jane Eyre",
+    "points": 2
+   },
+   {
+    "text": "Scarlett O'Hara",
+    "points": 2
+   },
+   {
+    "text": "Loxandra",
+    "points": 2
+   },
+   {
+    "text": "Natasha Rostova",
+    "points": 3
+   },
+   {
+    "text": "Hester Prynne",
+    "points": 4
+   },
+   {
+    "text": "Nora",
+    "points": 4
+   }
+  ]
+ },
+ {
+  "id": "ad47fw7450i7crvl6734",
+  "title": "10 dystopian novels of the 20th century",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "1984",
+    "points": 1
+   },
+   {
+    "text": "Brave New World",
+    "points": 1
+   },
+   {
+    "text": "Fahrenheit 451",
+    "points": 1
+   },
+   {
+    "text": "A Clockwork Orange",
+    "points": 3
+   },
+   {
+    "text": "The Handmaid's Tale",
+    "points": 2
+   },
+   {
+    "text": "Animal Farm",
+    "points": 2
+   },
+   {
+    "text": "We",
+    "points": 3
+   },
+   {
+    "text": "The Man in the High Castle",
+    "points": 4
+   },
+   {
+    "text": "Do Androids Dream of Electric Sheep?",
+    "points": 4
+   },
+   {
+    "text": "Planet of the Apes",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "jsmop6yqadzdryshme0f",
+  "title": "10 novels with a colour in the title",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "The Red and the Black",
+    "points": 1
+   },
+   {
+    "text": "The Scarlet Letter",
+    "points": 1
+   },
+   {
+    "text": "Vammena kokkina mallia (Dyed Red Hair)",
+    "points": 1
+   },
+   {
+    "text": "Black Beauty",
+    "points": 2
+   },
+   {
+    "text": "The Black Tulip",
+    "points": 2
+   },
+   {
+    "text": "A Study in Scarlet",
+    "points": 2
+   },
+   {
+    "text": "O kitrinos fakelos (The Yellow File)",
+    "points": 3
+   },
+   {
+    "text": "White Fang",
+    "points": 3
+   },
+   {
+    "text": "The Green Mile",
+    "points": 3
+   },
+   {
+    "text": "The Black Arrow",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "za2q7isiunlypuvrqqws",
+  "title": "10 novels with the main character's name in the title",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Anna Karenina",
+    "points": 1
+   },
+   {
+    "text": "Madame Bovary",
+    "points": 1
+   },
+   {
+    "text": "Don Quixote",
+    "points": 1
+   },
+   {
+    "text": "Loxandra",
+    "points": 1
+   },
+   {
+    "text": "Jane Eyre",
+    "points": 2
+   },
+   {
+    "text": "The Great Gatsby",
+    "points": 2
+   },
+   {
+    "text": "Robinson Crusoe",
+    "points": 2
+   },
+   {
+    "text": "Oliver Twist",
+    "points": 3
+   },
+   {
+    "text": "Zorba the Greek",
+    "points": 2
+   },
+   {
+    "text": "Yungermann",
+    "points": 4
+   }
+  ]
+ },
+ {
+  "id": "7hycx6yc1pp97ls9f9ia",
+  "title": "10 novels with a title and subtitle or a double title",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Moby-Dick; or, The Whale",
+    "points": 1
+   },
+   {
+    "text": "Frankenstein; or, The Modern Prometheus",
+    "points": 2
+   },
+   {
+    "text": "Candide, or Optimism",
+    "points": 2
+   },
+   {
+    "text": "Life in the Tomb – The Papers of Sergeant Antonis Kostoulas",
+    "points": 2
+   },
+   {
+    "text": "Madame Bovary – Provincial Manners",
+    "points": 3
+   },
+   {
+    "text": "The Red and the Black – A Chronicle of 1830",
+    "points": 3
+   },
+   {
+    "text": "Uncle Tom's Cabin; or, Life Among the Lowly",
+    "points": 3
+   },
+   {
+    "text": "Pope Joan – A Medieval Study",
+    "points": 4
+   },
+   {
+    "text": "Slaughterhouse-Five, or The Children's Crusade",
+    "points": 4
+   },
+   {
+    "text": "Justine, or The Misfortunes of Virtue",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "zevgaria-ellinika",
+  "title": "10 literary couples (Greek literature)",
+  "type": "heroes",
+  "category": null,
+  "items": [
+   {
+    "text": "Odysseus – Penelope",
+    "points": 1
+   },
+   {
+    "text": "Erotokritos – Aretousa",
+    "points": 1
+   },
+   {
+    "text": "Paris – Helen of Troy",
+    "points": 1
+   },
+   {
+    "text": "Daphnis – Chloe",
+    "points": 2
+   },
+   {
+    "text": "Hector – Andromache",
+    "points": 2
+   },
+   {
+    "text": "Jason – Medea",
+    "points": 2
+   },
+   {
+    "text": "Erofili – Panaretos",
+    "points": 3
+   },
+   {
+    "text": "Alexis Zorba – Madame Hortense",
+    "points": 3
+   },
+   {
+    "text": "Lialio – Mathios",
+    "points": 4
+   },
+   {
+    "text": "Rini – Andreas",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "kic2v5bu1vc566928l0b",
+  "title": "10 writers whose first name starts with K",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Konstantinos Kavafis",
+    "points": 1
+   },
+   {
+    "text": "Kostis Palamas",
+    "points": 1
+   },
+   {
+    "text": "Karolos Ntikens",
+    "points": 1
+   },
+   {
+    "text": "Kostas Karyotakis",
+    "points": 2
+   },
+   {
+    "text": "Kiki Dimoula",
+    "points": 2
+   },
+   {
+    "text": "Kostas Varnalis",
+    "points": 2
+   },
+   {
+    "text": "Kostas Tachtsis",
+    "points": 3
+   },
+   {
+    "text": "Kosmas Politis",
+    "points": 4
+   },
+   {
+    "text": "Karen Blixen",
+    "points": 4
+   },
+   {
+    "text": "Kormak MakKarthi",
+    "points": 5
+   }
+  ],
+  "en_exclude": true
+ },
+ {
+  "id": "w5w196h64m0w0e3e9zmn",
+  "title": "10 writers whose first name starts with M",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Miguel de Cervantes",
+    "points": 1
+   },
+   {
+    "text": "Mark Twain",
+    "points": 1
+   },
+   {
+    "text": "Maria Polydouri",
+    "points": 2
+   },
+   {
+    "text": "Maria Iordanidou",
+    "points": 2
+   },
+   {
+    "text": "Marcel Proust",
+    "points": 2
+   },
+   {
+    "text": "Mikhail Bulgakov",
+    "points": 3
+   },
+   {
+    "text": "Margaret Atwood",
+    "points": 3
+   },
+   {
+    "text": "Miltos Sachtouris",
+    "points": 4
+   },
+   {
+    "text": "Menis Koumandareas",
+    "points": 4
+   },
+   {
+    "text": "Maro Douka",
+    "points": 5
+   }
+  ],
+  "en_exclude": true
+ },
+ {
+  "id": "ub8yh5ms6xc2vavdoyfv",
+  "title": "10 writers whose first name starts with L",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Leo Tolstoy",
+    "points": 1
+   },
+   {
+    "text": "Lewis Carroll",
+    "points": 2
+   },
+   {
+    "text": "Lawrence Durrell",
+    "points": 3
+   },
+   {
+    "text": "Luis Sepúlveda",
+    "points": 3
+   },
+   {
+    "text": "Louisa May Alcott",
+    "points": 3
+   },
+   {
+    "text": "Luigi Pirandello",
+    "points": 3
+   },
+   {
+    "text": "Lorentzos Mavilis",
+    "points": 3
+   },
+   {
+    "text": "Louis Aragon",
+    "points": 4
+   },
+   {
+    "text": "Lili Zografou",
+    "points": 4
+   },
+   {
+    "text": "Lambros Porfyras",
+    "points": 5
+   }
+  ],
+  "en_exclude": true
+ },
+ {
+  "id": "454n16ffvu761yavlhlu",
+  "title": "10 writers whose first name starts with N",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Nikos Kazantzakis",
+    "points": 1
+   },
+   {
+    "text": "Nikos Kavvadias",
+    "points": 1
+   },
+   {
+    "text": "Nikolai Gogol",
+    "points": 2
+   },
+   {
+    "text": "Nikos Gatsos",
+    "points": 2
+   },
+   {
+    "text": "Nathaniel Hawthorne",
+    "points": 3
+   },
+   {
+    "text": "Nikiforos Vrettakos",
+    "points": 3
+   },
+   {
+    "text": "Neil Gaiman",
+    "points": 3
+   },
+   {
+    "text": "Naguib Mahfouz",
+    "points": 4
+   },
+   {
+    "text": "Nikos Engonopoulos",
+    "points": 4
+   },
+   {
+    "text": "Napoleon Lapathiotis",
+    "points": 5
+   }
+  ],
+  "en_exclude": true
+ },
+ {
+  "id": "xwolr97ynwu6u4axmeh3",
+  "title": "10 writers whose first name starts with F",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Fyodor Dostoevsky",
+    "points": 1
+   },
+   {
+    "text": "Franz Kafka",
+    "points": 1
+   },
+   {
+    "text": "Federico García Lorca",
+    "points": 2
+   },
+   {
+    "text": "Fotis Kontoglou",
+    "points": 2
+   },
+   {
+    "text": "Françoise Sagan",
+    "points": 3
+   },
+   {
+    "text": "Fernando Pessoa",
+    "points": 3
+   },
+   {
+    "text": "Philip Roth",
+    "points": 3
+   },
+   {
+    "text": "Friedrich Schiller",
+    "points": 4
+   },
+   {
+    "text": "Frank Herbert",
+    "points": 4
+   },
+   {
+    "text": "Flannery O'Connor",
+    "points": 5
+   }
+  ],
+  "en_exclude": true
+ },
+ {
+  "id": "g3l90pbqtmze36koxnjp",
+  "title": "10 African novelists of the 20th century",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "Chinua Achebe",
+    "points": 1
+   },
+   {
+    "text": "Naguib Mahfouz",
+    "points": 1
+   },
+   {
+    "text": "Wole Soyinka",
+    "points": 2
+   },
+   {
+    "text": "J. M. Coetzee",
+    "points": 2
+   },
+   {
+    "text": "Nadine Gordimer",
+    "points": 2
+   },
+   {
+    "text": "Ngũgĩ wa Thiong'o",
+    "points": 3
+   },
+   {
+    "text": "Ben Okri",
+    "points": 3
+   },
+   {
+    "text": "Alan Paton",
+    "points": 3
+   },
+   {
+    "text": "Tayeb Salih",
+    "points": 4
+   },
+   {
+    "text": "Mariama Bâ",
+    "points": 5
+   }
+  ]
+ },
+ {
+  "id": "1efofpme56cyk9ot1k7e",
+  "title": "10 classic European playwrights",
+  "type": "other",
+  "category": null,
+  "items": [
+   {
+    "text": "William Shakespeare",
+    "points": 1
+   },
+   {
+    "text": "Molière",
+    "points": 1
+   },
+   {
+    "text": "Henrik Ibsen",
+    "points": 2
+   },
+   {
+    "text": "Anton Chekhov",
+    "points": 2
+   },
+   {
+    "text": "Oscar Wilde",
+    "points": 2
+   },
+   {
+    "text": "Johann Wolfgang von Goethe",
+    "points": 3
+   },
+   {
+    "text": "August Strindberg",
+    "points": 3
+   },
+   {
+    "text": "Friedrich Schiller",
+    "points": 3
+   },
+   {
+    "text": "Jean Racine",
+    "points": 4
+   },
+   {
+    "text": "Pedro Calderón de la Barca",
+    "points": 5
+   }
+  ]
+ }
+]
