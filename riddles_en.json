@@ -355,5 +355,22 @@
     "clue_5": "In 2005 it was adapted for the cinema, with Isabella Rossellini as Urania Cabral.",
     "clue_6": "\"The Goat\" was one of the nicknames of Rafael Trujillo, who ruled the Dominican Republic with an iron fist for 31 years.",
     "clue_7": "It was written by the Peruvian Mario Vargas Llosa, winner of the Nobel Prize in Literature in 2010."
+  },
+  {
+    "week_id": "22",
+    "week_number": "47",
+    "active_from": "2026-11-16",
+    "target_type": "novel",
+    "prompt": "a novel",
+    "answer": "Melmoth the Wanderer",
+    "accepted_answers": "Melmoth the Wanderer; Melmoth; Μέλμοθ ο Περιπλανώμενος; Μελμοθ ο Περιπλανωμενος; Μέλμοθ; Μελμοθ",
+    "clue_0": "Published in 1820, it is considered the last of the classic Gothic novels of English-language literature.",
+    "clue_1": "Its narrative is built as \"tales within tales\": manuscripts and confessions are nested one inside the other.",
+    "clue_2": "An Englishman is locked in a madhouse although he is sane, and is offered his freedom in exchange for his soul; he refuses.",
+    "clue_3": "A young Spaniard, forced into a monastery against his will, ends up in the prisons of the Inquisition and escapes when they catch fire.",
+    "clue_4": "Its central character sold his soul for 150 extra years of life and wanders in search of someone to take his place in the bargain.",
+    "clue_5": "Charles Baudelaire greatly admired it, while Honoré de Balzac wrote an ironic sequel to it in 1835.",
+    "clue_6": "Oscar Wilde, a relative of the author, chose as his pseudonym after leaving prison the name \"Sebastian\" together with the surname of the title character.",
+    "clue_7": "It is the best-known novel of the Irish clergyman Charles Robert Maturin, whose hero is an \"Irish Faust\" reminiscent of the Wandering Jew."
   }
 ]

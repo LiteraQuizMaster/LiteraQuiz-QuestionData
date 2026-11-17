@@ -18898,5 +18898,1985 @@
     "option_3": "Honoré",
     "option_4": "Émile",
     "correct_index": "Émile"
+  },
+  {
+    "id": 3179,
+    "question": "Which author wrote the novel \"Fall of Giants\" (2010), the first part of a trilogy about the 20th century?",
+    "option_1": "Stephen King",
+    "option_2": "Dan Brown",
+    "option_3": "Ken Follett",
+    "option_4": "John Grisham",
+    "correct_index": "Ken Follett"
+  },
+  {
+    "id": 3180,
+    "question": "Which actor played Thomas Cromwell in the BBC series \"Wolf Hall\" (2015), based on Hilary Mantel's novels?",
+    "option_1": "Damian Lewis",
+    "option_2": "Mark Rylance",
+    "option_3": "Colin Firth",
+    "option_4": "Benedict Cumberbatch",
+    "correct_index": "Mark Rylance"
+  },
+  {
+    "id": 3181,
+    "question": "Which war is at the center of Ken Follett's novel \"Fall of Giants\"?",
+    "option_1": "The Vietnam War",
+    "option_2": "World War I",
+    "option_3": "The Trojan War",
+    "option_4": "The Korean War",
+    "correct_index": "World War I"
+  },
+  {
+    "id": 3182,
+    "question": "In which country, under German occupation, do the sisters Vianne and Isabelle live in Kristin Hannah's novel \"The Nightingale\" (2015)?",
+    "option_1": "France",
+    "option_2": "Japan",
+    "option_3": "Brazil",
+    "option_4": "Australia",
+    "correct_index": "France"
+  },
+  {
+    "id": 3183,
+    "question": "Which mountain range does Isabelle cross, guiding downed Allied airmen to Spain, in Kristin Hannah's novel \"The Nightingale\"?",
+    "option_1": "The Alps",
+    "option_2": "The Carpathians",
+    "option_3": "The Pyrenees",
+    "option_4": "The Apennines",
+    "correct_index": "The Pyrenees"
+  },
+  {
+    "id": 3184,
+    "question": "What job does Lale Sokolov take on in the camp, in Heather Morris's novel \"The Tattooist of Auschwitz\" (2018)?",
+    "option_1": "He drives the camp trains",
+    "option_2": "He tattoos the numbers on the prisoners' arms",
+    "option_3": "He cooks for the guards",
+    "option_4": "He plays violin in the orchestra",
+    "correct_index": "He tattoos the numbers on the prisoners' arms"
+  },
+  {
+    "id": 3185,
+    "question": "Which country did Lale and Gita Sokolov, the real people behind Heather Morris's novel \"The Tattooist of Auschwitz\", come from?",
+    "option_1": "The Netherlands",
+    "option_2": "Norway",
+    "option_3": "Ireland",
+    "option_4": "Slovakia",
+    "correct_index": "Slovakia"
+  },
+  {
+    "id": 3186,
+    "question": "Which actress won the 2026 Academy Award for Best Actress for playing Agnes in Chloé Zhao's film \"Hamnet\", based on Maggie O'Farrell's novel \"Hamnet\"?",
+    "option_1": "Jessie Buckley",
+    "option_2": "Emily Watson",
+    "option_3": "Kate Winslet",
+    "option_4": "Carey Mulligan",
+    "correct_index": "Jessie Buckley"
+  },
+  {
+    "id": 3187,
+    "question": "To which country does the young heroine of Min Jin Lee's novel \"Pachinko\" (2017) emigrate from Korea, starting a family saga of four generations?",
+    "option_1": "Canada",
+    "option_2": "Japan",
+    "option_3": "Argentina",
+    "option_4": "Italy",
+    "correct_index": "Japan"
+  },
+  {
+    "id": 3188,
+    "question": "Which American author wrote the novel \"Blood Meridian\", set on the violent US–Mexico border of the 19th century?",
+    "option_1": "Cormac McCarthy",
+    "option_2": "Jane Austen",
+    "option_3": "Leo Tolstoy",
+    "option_4": "Nikos Kazantzakis",
+    "correct_index": "Cormac McCarthy"
+  },
+  {
+    "id": 3189,
+    "question": "Which author wrote the novel \"All the Pretty Horses\", the first book of the \"Border Trilogy\"?",
+    "option_1": "Cormac McCarthy",
+    "option_2": "Agatha Christie",
+    "option_3": "Victor Hugo",
+    "option_4": "Alexandros Papadiamantis",
+    "correct_index": "Cormac McCarthy"
+  },
+  {
+    "id": 3190,
+    "question": "What is the name of the young Texan who rides into Mexico, the protagonist of Cormac McCarthy's novel \"All the Pretty Horses\"?",
+    "option_1": "John Grady Cole",
+    "option_2": "Billy Parham",
+    "option_3": "Llewelyn Moss",
+    "option_4": "Lester Ballard",
+    "correct_index": "John Grady Cole"
+  },
+  {
+    "id": 3191,
+    "question": "What is the name of the former physicist working as a salvage diver in New Orleans, hero of Cormac McCarthy's novel \"The Passenger\" (2022)?",
+    "option_1": "Bobby Western",
+    "option_2": "Jack Gladney",
+    "option_3": "Richard Papen",
+    "option_4": "Nathan Zuckerman",
+    "correct_index": "Bobby Western"
+  },
+  {
+    "id": 3192,
+    "question": "What is the name of the cold-blooded hitman who hunts Llewelyn Moss in Cormac McCarthy's novel \"No Country for Old Men\"?",
+    "option_1": "Anton Chigurh",
+    "option_2": "Patrick Bateman",
+    "option_3": "Tyler Durden",
+    "option_4": "Lester Ballard",
+    "correct_index": "Anton Chigurh"
+  },
+  {
+    "id": 3193,
+    "question": "Which American author wrote the novel \"White Noise\", a satire of consumer society and the fear of death?",
+    "option_1": "Don DeLillo",
+    "option_2": "Jules Verne",
+    "option_3": "Leo Tolstoy",
+    "option_4": "Victor Hugo",
+    "correct_index": "Don DeLillo"
+  },
+  {
+    "id": 3194,
+    "question": "What is the name of the professor of \"Hitler studies\" who narrates Don DeLillo's novel \"White Noise\"?",
+    "option_1": "Jack Gladney",
+    "option_2": "Richard Papen",
+    "option_3": "Harry Angstrom",
+    "option_4": "Bobby Western",
+    "correct_index": "Jack Gladney"
+  },
+  {
+    "id": 3195,
+    "question": "What is the name of the heroine of Thomas Pynchon's novel \"The Crying of Lot 49\", who becomes executor of a former lover's will?",
+    "option_1": "Oedipa Maas",
+    "option_2": "Enid Lambert",
+    "option_3": "Alicia Western",
+    "option_4": "Pecola Breedlove",
+    "correct_index": "Oedipa Maas"
+  },
+  {
+    "id": 3196,
+    "question": "Which author wrote the novel \"Portnoy's Complaint\" (1969), the confession of a young Jewish man to his psychoanalyst?",
+    "option_1": "Philip Roth",
+    "option_2": "Fyodor Dostoevsky",
+    "option_3": "Charles Dickens",
+    "option_4": "J. K. Rowling",
+    "correct_index": "Philip Roth"
+  },
+  {
+    "id": 3197,
+    "question": "What nickname does Seymour Levov, the protagonist of Philip Roth's novel \"American Pastoral\", have?",
+    "option_1": "The Swede",
+    "option_2": "Rabbit",
+    "option_3": "The Judge",
+    "option_4": "The Passenger",
+    "correct_index": "The Swede"
+  },
+  {
+    "id": 3198,
+    "question": "Which fictional writer, who appears in many of Philip Roth's novels, is considered his literary alter ego?",
+    "option_1": "Nathan Zuckerman",
+    "option_2": "Holden Caulfield",
+    "option_3": "Jack Gladney",
+    "option_4": "Archie Ferguson",
+    "correct_index": "Nathan Zuckerman"
+  },
+  {
+    "id": 3199,
+    "question": "What is the name of the little Black girl who longs for blue eyes, heroine of Toni Morrison's novel \"The Bluest Eye\"?",
+    "option_1": "Pecola",
+    "option_2": "Sethe",
+    "option_3": "Oedipa",
+    "option_4": "Scout",
+    "correct_index": "Pecola"
+  },
+  {
+    "id": 3200,
+    "question": "Which author wrote \"The New York Trilogy\", which includes the novels \"City of Glass\", \"Ghosts\" and \"The Locked Room\"?",
+    "option_1": "Paul Auster",
+    "option_2": "William Shakespeare",
+    "option_3": "Miguel de Cervantes",
+    "option_4": "Georgios Vizyinos",
+    "correct_index": "Paul Auster"
+  },
+  {
+    "id": 3201,
+    "question": "What is the name of the hero of Paul Auster's novel \"4 3 2 1\", whose life is told in four parallel versions?",
+    "option_1": "Archie Ferguson",
+    "option_2": "Nathan Zuckerman",
+    "option_3": "John Grady Cole",
+    "option_4": "Theo Decker",
+    "correct_index": "Archie Ferguson"
+  },
+  {
+    "id": 3202,
+    "question": "Which American author wrote the novel \"The World According to Garp\"?",
+    "option_1": "John Irving",
+    "option_2": "Charles Dickens",
+    "option_3": "Jane Austen",
+    "option_4": "Fyodor Dostoevsky",
+    "correct_index": "John Irving"
+  },
+  {
+    "id": 3203,
+    "question": "What is the surname of the family at the center of Jonathan Franzen's novel \"The Corrections\"?",
+    "option_1": "Lambert",
+    "option_2": "Lisbon",
+    "option_3": "Levov",
+    "option_4": "Gladney",
+    "correct_index": "Lambert"
+  },
+  {
+    "id": 3204,
+    "question": "Which author wrote the novel \"Rabbit, Run\", featuring Harry \"Rabbit\" Angstrom?",
+    "option_1": "John Updike",
+    "option_2": "Lewis Carroll",
+    "option_3": "Alexander Pushkin",
+    "option_4": "Andreas Kalvos",
+    "correct_index": "John Updike"
+  },
+  {
+    "id": 3205,
+    "question": "What is the name of the charismatic, anarchic founder of the secret fight club in Chuck Palahniuk's novel \"Fight Club\"?",
+    "option_1": "Tyler Durden",
+    "option_2": "Sherlock Holmes",
+    "option_3": "Odysseus",
+    "option_4": "Don Quixote",
+    "correct_index": "Tyler Durden"
+  },
+  {
+    "id": 3206,
+    "question": "What is the name of the young Wall Street banker and serial killer who narrates Bret Easton Ellis's novel \"American Psycho\"?",
+    "option_1": "Patrick Bateman",
+    "option_2": "Tom Sawyer",
+    "option_3": "Harry Potter",
+    "option_4": "Alexis Zorbas",
+    "correct_index": "Patrick Bateman"
+  },
+  {
+    "id": 3207,
+    "question": "Which American author wrote the novel \"The Secret History\" (1992), about a group of Classics students at a Vermont college?",
+    "option_1": "Donna Tartt",
+    "option_2": "Joyce Carol Oates",
+    "option_3": "Toni Morrison",
+    "option_4": "Jennifer Egan",
+    "correct_index": "Donna Tartt"
+  },
+  {
+    "id": 3208,
+    "question": "Which American author of Greek descent wrote the novel \"The Virgin Suicides\", about the five Lisbon sisters?",
+    "option_1": "Jeffrey Eugenides",
+    "option_2": "Jonathan Franzen",
+    "option_3": "Michael Chabon",
+    "option_4": "John Irving",
+    "correct_index": "Jeffrey Eugenides"
+  },
+  {
+    "id": 3209,
+    "question": "Which author wrote the anti-war satirical novel \"Catch-22\", whose title became a byword for a no-win absurdity?",
+    "option_1": "Joseph Heller",
+    "option_2": "Edgar Allan Poe",
+    "option_3": "Hans Christian Andersen",
+    "option_4": "Kostas Chardavellas",
+    "correct_index": "Joseph Heller"
+  },
+  {
+    "id": 3210,
+    "question": "What is the name of the protagonist (a bombardier captain) desperately trying to avoid flying more missions in Joseph Heller's novel \"Catch-22\"?",
+    "option_1": "Yossarian",
+    "option_2": "Billy Pilgrim",
+    "option_3": "McMurphy",
+    "option_4": "Garp",
+    "correct_index": "Yossarian"
+  },
+  {
+    "id": 3211,
+    "question": "Which author won the Pulitzer Prize for the novel \"The Amazing Adventures of Kavalier & Clay\", about two cousins who create comics?",
+    "option_1": "Michael Chabon",
+    "option_2": "Jonathan Franzen",
+    "option_3": "Paul Auster",
+    "option_4": "Jeffrey Eugenides",
+    "correct_index": "Michael Chabon"
+  },
+  {
+    "id": 3214,
+    "question": "Which of the following prose forms is usually the longest?",
+    "option_1": "Novel",
+    "option_2": "Novella",
+    "option_3": "Short story",
+    "option_4": "Flash fiction",
+    "correct_index": "Novel"
+  },
+  {
+    "id": 3215,
+    "question": "Which of the following prose forms is usually the shortest?",
+    "option_1": "Novel",
+    "option_2": "Short story",
+    "option_3": "Novella",
+    "option_4": "Flash fiction",
+    "correct_index": "Flash fiction"
+  },
+  {
+    "id": 3216,
+    "question": "Which of the following is NOT a prose text but a poem?",
+    "option_1": "Novella",
+    "option_2": "Short story",
+    "option_3": "Sonnet",
+    "option_4": "Novel",
+    "correct_index": "Sonnet"
+  },
+  {
+    "id": 3217,
+    "question": "Which country does the haiku, the short three-line poem, come from?",
+    "option_1": "China",
+    "option_2": "Japan",
+    "option_3": "Korea",
+    "option_4": "India",
+    "correct_index": "Japan"
+  },
+  {
+    "id": 3218,
+    "question": "What is the typical meter of the Greek folk song?",
+    "option_1": "The fifteen-syllable verse",
+    "option_2": "The eleven-syllable verse",
+    "option_3": "Free verse",
+    "option_4": "The ten-syllable verse",
+    "correct_index": "The fifteen-syllable verse"
+  },
+  {
+    "id": 3219,
+    "question": "What do we call a book in which the author tells the story of their own life?",
+    "option_1": "Chronicle",
+    "option_2": "Biography",
+    "option_3": "Novel",
+    "option_4": "Autobiography",
+    "correct_index": "Autobiography"
+  },
+  {
+    "id": 3220,
+    "question": "What do we call a short story featuring animals that ends with a moral lesson?",
+    "option_1": "Epigram",
+    "option_2": "Ode",
+    "option_3": "Fable",
+    "option_4": "Elegy",
+    "correct_index": "Fable"
+  },
+  {
+    "id": 3221,
+    "question": "What do we call a writer who writes works for the theatre?",
+    "option_1": "Essayist",
+    "option_2": "Playwright",
+    "option_3": "Chronicler",
+    "option_4": "Lyricist",
+    "correct_index": "Playwright"
+  },
+  {
+    "id": 3222,
+    "question": "What do we call the sound similarity at the end of two or more lines (e.g. \"heart – apart\")?",
+    "option_1": "Rhyme",
+    "option_2": "Metaphor",
+    "option_3": "Simile",
+    "option_4": "Allegory",
+    "correct_index": "Rhyme"
+  },
+  {
+    "id": 3223,
+    "question": "What do we call a group of lines forming a unit within a poem?",
+    "option_1": "Act",
+    "option_2": "Paragraph",
+    "option_3": "Chapter",
+    "option_4": "Stanza",
+    "correct_index": "Stanza"
+  },
+  {
+    "id": 3224,
+    "question": "What do we call the central character of a literary work?",
+    "option_1": "Narrator",
+    "option_2": "Antagonist",
+    "option_3": "Protagonist",
+    "option_4": "Extra",
+    "correct_index": "Protagonist"
+  },
+  {
+    "id": 3225,
+    "question": "What is the narrative technique in which the narrator takes part in the events and tells them in the first person?",
+    "option_1": "Third-person",
+    "option_2": "First-person",
+    "option_3": "Second-person",
+    "option_4": "Impersonal",
+    "correct_index": "First-person"
+  },
+  {
+    "id": 3226,
+    "question": "What do we call a book containing poems by one poet, published together?",
+    "option_1": "Poetry collection",
+    "option_2": "Anthology",
+    "option_3": "Diary",
+    "option_4": "Letters",
+    "correct_index": "Poetry collection"
+  },
+  {
+    "id": 3227,
+    "question": "What do we call a set of three connected works?",
+    "option_1": "Tic-tac-toe",
+    "option_2": "Triptych",
+    "option_3": "Triad",
+    "option_4": "Trilogy",
+    "correct_index": "Trilogy"
+  },
+  {
+    "id": 3230,
+    "question": "Which work is considered by many critics to be the first modern novel?",
+    "option_1": "The Divine Comedy",
+    "option_2": "Robinson Crusoe",
+    "option_3": "Madame Bovary",
+    "option_4": "Don Quixote",
+    "correct_index": "Don Quixote"
+  },
+  {
+    "id": 3231,
+    "question": "Which author is considered the creator of the essay as a literary genre, with his \"Essays\" (1580)?",
+    "option_1": "Voltaire",
+    "option_2": "Francis Bacon",
+    "option_3": "Michel de Montaigne",
+    "option_4": "Jean-Jacques Rousseau",
+    "correct_index": "Michel de Montaigne"
+  },
+  {
+    "id": 3232,
+    "question": "Which is often considered the oldest surviving great literary work (epic) of humanity?",
+    "option_1": "The Iliad",
+    "option_2": "The Epic of Gilgamesh",
+    "option_3": "The Aeneid",
+    "option_4": "The Mahabharata",
+    "correct_index": "The Epic of Gilgamesh"
+  },
+  {
+    "id": 3233,
+    "question": "What do we call the narrator who knows everything about the story, even the thoughts and feelings of all the characters?",
+    "option_1": "Eyewitness",
+    "option_2": "First-person",
+    "option_3": "Omniscient",
+    "option_4": "Unreliable",
+    "correct_index": "Omniscient"
+  },
+  {
+    "id": 3234,
+    "question": "What is the narrative technique in which the story breaks off to return to past events?",
+    "option_1": "Flash-forward",
+    "option_2": "Flashback",
+    "option_3": "Frame story",
+    "option_4": "Epilogue",
+    "correct_index": "Flashback"
+  },
+  {
+    "id": 3235,
+    "question": "Which figure of speech compares two things using words such as \"like\" or \"as\"?",
+    "option_1": "Simile",
+    "option_2": "Metaphor",
+    "option_3": "Personification",
+    "option_4": "Hyperbole",
+    "correct_index": "Simile"
+  },
+  {
+    "id": 3236,
+    "question": "What is the figure of speech in which animals, objects or abstract ideas speak, think or feel like humans?",
+    "option_1": "Repetition",
+    "option_2": "Simile",
+    "option_3": "Antithesis",
+    "option_4": "Personification",
+    "correct_index": "Personification"
+  },
+  {
+    "id": 3237,
+    "question": "What do we call verse that follows no fixed meter or rhyme?",
+    "option_1": "Iambic verse",
+    "option_2": "Fifteen-syllable verse",
+    "option_3": "Free verse",
+    "option_4": "Sonnet",
+    "correct_index": "Free verse"
+  },
+  {
+    "id": 3238,
+    "question": "Which of the following is NOT a theatrical genre?",
+    "option_1": "Tragedy",
+    "option_2": "Novella",
+    "option_3": "Comedy",
+    "option_4": "Farce",
+    "correct_index": "Novella"
+  },
+  {
+    "id": 3239,
+    "question": "What do we call the literary genre that depicts an imaginary, oppressive society, as in George Orwell's \"1984\"?",
+    "option_1": "Dystopian",
+    "option_2": "Utopian",
+    "option_3": "Realist",
+    "option_4": "Romantic",
+    "correct_index": "Dystopian"
+  },
+  {
+    "id": 3240,
+    "question": "What do we call the long narrative poem that recounts the deeds of heroes, like Homer's \"Odyssey\"?",
+    "option_1": "Epigram",
+    "option_2": "Ode",
+    "option_3": "Elegy",
+    "option_4": "Epic",
+    "correct_index": "Epic"
+  },
+  {
+    "id": 3241,
+    "question": "What do we call a novel written entirely in the form of letters between the characters?",
+    "option_1": "Psychological novel",
+    "option_2": "Historical novel",
+    "option_3": "Epistolary novel",
+    "option_4": "Detective novel",
+    "correct_index": "Epistolary novel"
+  },
+  {
+    "id": 3242,
+    "question": "What do we call a text in which someone records, with dates, the events and thoughts of their daily life?",
+    "option_1": "Chronicle",
+    "option_2": "Diary",
+    "option_3": "Essay",
+    "option_4": "Epigram",
+    "correct_index": "Diary"
+  },
+  {
+    "id": 3244,
+    "question": "What do we call a writer who writes a book on behalf of someone else, who then signs it as their own?",
+    "option_1": "Censor",
+    "option_2": "Editor",
+    "option_3": "Translator",
+    "option_4": "Ghostwriter",
+    "correct_index": "Ghostwriter"
+  },
+  {
+    "id": 3246,
+    "question": "According to the prevailing view, which words does the Greek word \"tragedy\" (tragodia) come from?",
+    "option_1": "tragic + road",
+    "option_2": "goat + song",
+    "option_3": "rough + song",
+    "option_4": "sweet + song",
+    "correct_index": "goat + song"
+  },
+  {
+    "id": 3247,
+    "question": "What do we call the closing text at the end of a book, after the main narrative?",
+    "option_1": "Epilogue",
+    "option_2": "Prologue",
+    "option_3": "Dedication",
+    "option_4": "Table of contents",
+    "correct_index": "Epilogue"
+  },
+  {
+    "id": 3248,
+    "question": "In which novel does Lord Henry say \"Nowadays people know the price of everything and the value of nothing\"?",
+    "option_1": "Pride and Prejudice",
+    "option_2": "The Picture of Dorian Gray",
+    "option_3": "Great Expectations",
+    "option_4": "Mrs Dalloway",
+    "correct_index": "The Picture of Dorian Gray"
+  },
+  {
+    "id": 3249,
+    "question": "Which author wrote the line \"Heaven knows we need never be ashamed of our tears\"?",
+    "option_1": "Charles Dickens",
+    "option_2": "Victor Hugo",
+    "option_3": "Leo Tolstoy",
+    "option_4": "Thomas Hardy",
+    "correct_index": "Charles Dickens"
+  },
+  {
+    "id": 3250,
+    "question": "In which novel do we find the line \"Nothing is so painful to the human mind as a great and sudden change\"?",
+    "option_1": "Jane Eyre",
+    "option_2": "Dracula",
+    "option_3": "Wuthering Heights",
+    "option_4": "Frankenstein",
+    "correct_index": "Frankenstein"
+  },
+  {
+    "id": 3251,
+    "question": "In which novel does the second mate Stubb say \"I know not all that may be coming, but be it what it will, I'll go to it laughing\"?",
+    "option_1": "Twenty Thousand Leagues Under the Seas",
+    "option_2": "Treasure Island",
+    "option_3": "Moby-Dick",
+    "option_4": "The Old Man and the Sea",
+    "correct_index": "Moby-Dick"
+  },
+  {
+    "id": 3252,
+    "question": "Which author wrote the line \"It doesn't matter who you are or what you look like, so long as somebody loves you\"?",
+    "option_1": "A. A. Milne",
+    "option_2": "Roald Dahl",
+    "option_3": "Lewis Carroll",
+    "option_4": "Enid Blyton",
+    "correct_index": "Roald Dahl"
+  },
+  {
+    "id": 3253,
+    "question": "Which author wrote the novella in which Red says \"Some birds are not meant to be caged, that's all\" — the novella that became the film \"The Shawshank Redemption\"?",
+    "option_1": "Stephen King",
+    "option_2": "John Grisham",
+    "option_3": "Dean Koontz",
+    "option_4": "Michael Crichton",
+    "correct_index": "Stephen King"
+  },
+  {
+    "id": 3254,
+    "question": "In which novel does Slim say \"Maybe ever'body in the whole damn world is scared of each other\"?",
+    "option_1": "The Great Gatsby",
+    "option_2": "The Grapes of Wrath",
+    "option_3": "The Catcher in the Rye",
+    "option_4": "Of Mice and Men",
+    "correct_index": "Of Mice and Men"
+  },
+  {
+    "id": 3255,
+    "question": "In which novel does the narrator Lockwood, seeing a ghost at the window in his dream, confess: \"Terror made me cruel\"?",
+    "option_1": "Frankenstein",
+    "option_2": "Jane Eyre",
+    "option_3": "Wuthering Heights",
+    "option_4": "Rebecca",
+    "correct_index": "Wuthering Heights"
+  },
+  {
+    "id": 3256,
+    "question": "In which novel does Stephen Dedalus say: \"History is a nightmare from which I am trying to awake\"?",
+    "option_1": "The Picture of Dorian Gray",
+    "option_2": "Ulysses",
+    "option_3": "Mrs Dalloway",
+    "option_4": "The Stranger",
+    "correct_index": "Ulysses"
+  },
+  {
+    "id": 3257,
+    "question": "Which author wrote the line \"You forget what you want to remember, and you remember what you want to forget\"?",
+    "option_1": "Cormac McCarthy",
+    "option_2": "Paul Auster",
+    "option_3": "Don DeLillo",
+    "option_4": "Philip Roth",
+    "correct_index": "Cormac McCarthy"
+  },
+  {
+    "id": 3258,
+    "question": "In which novel do we find the line \"Memories warm you up from the inside. But they also tear you apart\"?",
+    "option_1": "The Trial",
+    "option_2": "Norwegian Wood",
+    "option_3": "1Q84",
+    "option_4": "Kafka on the Shore",
+    "correct_index": "Kafka on the Shore"
+  },
+  {
+    "id": 3259,
+    "question": "Which author wrote the line \"The only people for me are the mad ones, the ones who are mad to live…\"?",
+    "option_1": "William S. Burroughs",
+    "option_2": "Allen Ginsberg",
+    "option_3": "Jack Kerouac",
+    "option_4": "Charles Bukowski",
+    "correct_index": "Jack Kerouac"
+  },
+  {
+    "id": 3260,
+    "question": "In which novel does Paul D tell Sethe, at the end of the book, \"You your best thing\"?",
+    "option_1": "The Bluest Eye",
+    "option_2": "Beloved",
+    "option_3": "The Color Purple",
+    "option_4": "Their Eyes Were Watching God",
+    "correct_index": "Beloved"
+  },
+  {
+    "id": 3261,
+    "question": "Which novel opens with the line \"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife\"?",
+    "option_1": "Great Expectations",
+    "option_2": "Jane Eyre",
+    "option_3": "Pride and Prejudice",
+    "option_4": "Wuthering Heights",
+    "correct_index": "Pride and Prejudice"
+  },
+  {
+    "id": 3262,
+    "question": "In which Shakespeare play is the soliloquy \"To be, or not to be: that is the question\" spoken?",
+    "option_1": "Macbeth",
+    "option_2": "Hamlet",
+    "option_3": "King Lear",
+    "option_4": "Othello",
+    "correct_index": "Hamlet"
+  },
+  {
+    "id": 3263,
+    "question": "In which novel do the heroes have the motto \"All for one, one for all\"?",
+    "option_1": "The Three Musketeers",
+    "option_2": "The Count of Monte Cristo",
+    "option_3": "Les Misérables",
+    "option_4": "The Hunchback of Notre-Dame",
+    "correct_index": "The Three Musketeers"
+  },
+  {
+    "id": 3264,
+    "question": "Which novel ends with Scarlett O'Hara's line \"After all, tomorrow is another day\"?",
+    "option_1": "Little Women",
+    "option_2": "Uncle Tom's Cabin",
+    "option_3": "Gone with the Wind",
+    "option_4": "Wuthering Heights",
+    "correct_index": "Gone with the Wind"
+  },
+  {
+    "id": 3265,
+    "question": "In which Dostoevsky novel is the phrase \"Beauty will save the world\" heard?",
+    "option_1": "Crime and Punishment",
+    "option_2": "The Idiot",
+    "option_3": "The Brothers Karamazov",
+    "option_4": "Demons",
+    "correct_index": "The Idiot"
+  },
+  {
+    "id": 3266,
+    "question": "In which work does the taste of a madeleine dipped in tea suddenly awaken the narrator's childhood memories?",
+    "option_1": "In Search of Lost Time",
+    "option_2": "Madame Bovary",
+    "option_3": "The Stranger",
+    "option_4": "The Red and the Black",
+    "correct_index": "In Search of Lost Time"
+  },
+  {
+    "id": 3267,
+    "question": "Which novel ends with the line \"So we beat on, boats against the current, borne back ceaselessly into the past\"?",
+    "option_1": "The Grapes of Wrath",
+    "option_2": "The Catcher in the Rye",
+    "option_3": "The Old Man and the Sea",
+    "option_4": "The Great Gatsby",
+    "correct_index": "The Great Gatsby"
+  },
+  {
+    "id": 3268,
+    "question": "Which novel opens with the line \"Many years later, as he faced the firing squad, Colonel Aureliano Buendía was to remember…\"?",
+    "option_1": "Pedro Páramo",
+    "option_2": "Love in the Time of Cholera",
+    "option_3": "One Hundred Years of Solitude",
+    "option_4": "The House of the Spirits",
+    "correct_index": "One Hundred Years of Solitude"
+  },
+  {
+    "id": 3269,
+    "question": "In which play by Jean-Paul Sartre is the line \"Hell is other people\" spoken?",
+    "option_1": "The Flies",
+    "option_2": "No Exit",
+    "option_3": "Nausea",
+    "option_4": "Dirty Hands",
+    "correct_index": "No Exit"
+  },
+  {
+    "id": 3272,
+    "question": "Which work by Albert Camus ends with the line \"One must imagine Sisyphus happy\"?",
+    "option_1": "The Plague",
+    "option_2": "The Stranger",
+    "option_3": "The Myth of Sisyphus",
+    "option_4": "The Fall",
+    "correct_index": "The Myth of Sisyphus"
+  },
+  {
+    "id": 3273,
+    "question": "In which book does the hero say \"A man can be destroyed but not defeated\"?",
+    "option_1": "For Whom the Bell Tolls",
+    "option_2": "The Old Man and the Sea",
+    "option_3": "Moby-Dick",
+    "option_4": "The Stranger",
+    "correct_index": "The Old Man and the Sea"
+  },
+  {
+    "id": 3274,
+    "question": "What is the field of Robert Langdon, Harvard professor and hero of Dan Brown's novels?",
+    "option_1": "Archaeology",
+    "option_2": "Symbology",
+    "option_3": "Cryptography",
+    "option_4": "Forensic medicine",
+    "correct_index": "Symbology"
+  },
+  {
+    "id": 3275,
+    "question": "In which museum is the curator Jacques Saunière found murdered at the start of Dan Brown's \"The Da Vinci Code\"?",
+    "option_1": "The British Museum",
+    "option_2": "The Prado",
+    "option_3": "The Louvre",
+    "option_4": "The Uffizi",
+    "correct_index": "The Louvre"
+  },
+  {
+    "id": 3276,
+    "question": "Which Catholic organization does the albino monk Silas belong to in Dan Brown's \"The Da Vinci Code\"?",
+    "option_1": "The Jesuits",
+    "option_2": "Opus Dei",
+    "option_3": "The Knights Templar",
+    "option_4": "The Franciscans",
+    "correct_index": "Opus Dei"
+  },
+  {
+    "id": 3277,
+    "question": "What is stolen from CERN in Dan Brown's novel \"Angels & Demons\", threatening to destroy the Vatican?",
+    "option_1": "A sample of antimatter",
+    "option_2": "A nuclear warhead",
+    "option_3": "A deadly virus",
+    "option_4": "A manuscript by Galileo",
+    "correct_index": "A sample of antimatter"
+  },
+  {
+    "id": 3278,
+    "question": "Which classic work does the title of Dan Brown's novel \"Inferno\" (2013) refer to?",
+    "option_1": "Milton's \"Paradise Lost\"",
+    "option_2": "Goethe's \"Faust\"",
+    "option_3": "Dante's \"Divine Comedy\"",
+    "option_4": "Boccaccio's \"Decameron\"",
+    "correct_index": "Dante's \"Divine Comedy\""
+  },
+  {
+    "id": 3279,
+    "question": "Around which secret brotherhood does the plot of Dan Brown's novel \"The Lost Symbol\" (2009), set in Washington, revolve?",
+    "option_1": "The Freemasons",
+    "option_2": "The Rosicrucians",
+    "option_3": "The Priory of Sion",
+    "option_4": "The Illuminati",
+    "correct_index": "The Freemasons"
+  },
+  {
+    "id": 3280,
+    "question": "Which author wrote \"Digital Fortress\" (1998), in which an NSA cryptographer battles an \"unbreakable\" code?",
+    "option_1": "Michael Crichton",
+    "option_2": "John Grisham",
+    "option_3": "Tom Clancy",
+    "option_4": "Dan Brown",
+    "correct_index": "Dan Brown"
+  },
+  {
+    "id": 3281,
+    "question": "In which country is Dan Brown's novel \"Origin\" (2017) set, which opens at the Guggenheim Museum in Bilbao?",
+    "option_1": "Italy",
+    "option_2": "Spain",
+    "option_3": "France",
+    "option_4": "Portugal",
+    "correct_index": "Spain"
+  },
+  {
+    "id": 3282,
+    "question": "In which city is \"The Secret of Secrets\" (2025), Dan Brown's sixth Robert Langdon novel, set?",
+    "option_1": "Vienna",
+    "option_2": "Budapest",
+    "option_3": "Prague",
+    "option_4": "Kraków",
+    "correct_index": "Prague"
+  },
+  {
+    "id": 3283,
+    "question": "Which author wrote the novel \"Gates of Fire\" (1998), about the Battle of Thermopylae?",
+    "option_1": "Steven Pressfield",
+    "option_2": "Bernard Cornwell",
+    "option_3": "Robert Harris",
+    "option_4": "Conn Iggulden",
+    "correct_index": "Steven Pressfield"
+  },
+  {
+    "id": 3284,
+    "question": "To whom does the wounded captive survivor tell the story of the battle in Steven Pressfield's novel \"Gates of Fire\"?",
+    "option_1": "Herodotus",
+    "option_2": "Themistocles",
+    "option_3": "Xerxes",
+    "option_4": "Darius",
+    "correct_index": "Xerxes"
+  },
+  {
+    "id": 3285,
+    "question": "In his book \"The War of Art\" (2002), what does Steven Pressfield call the inner force that stops every creator from sitting down to work?",
+    "option_1": "Fear",
+    "option_2": "Shadow",
+    "option_3": "Resistance",
+    "option_4": "Fatigue",
+    "correct_index": "Resistance"
+  },
+  {
+    "id": 3286,
+    "question": "Which Italian archaeologist and author wrote the \"Alexander\" trilogy, which begins with \"Child of a Dream\"?",
+    "option_1": "Umberto Eco",
+    "option_2": "Valerio Massimo Manfredi",
+    "option_3": "Alessandro Baricco",
+    "option_4": "Andrea Camilleri",
+    "correct_index": "Valerio Massimo Manfredi"
+  },
+  {
+    "id": 3287,
+    "question": "Which legend does Valerio Massimo Manfredi's novel \"The Last Legion\" (2002) connect with the fall of the Roman Empire?",
+    "option_1": "The legend of King Arthur",
+    "option_2": "The legend of Robin Hood",
+    "option_3": "The legend of Atlantis",
+    "option_4": "The legend of the Nibelungs",
+    "correct_index": "The legend of King Arthur"
+  },
+  {
+    "id": 3288,
+    "question": "Which historical event does Valerio Massimo Manfredi's novel \"The Lost Army\" (2007) recount?",
+    "option_1": "The Sicilian Expedition",
+    "option_2": "The March of the Ten Thousand",
+    "option_3": "The fall of Troy",
+    "option_4": "Alexander's campaign in India",
+    "correct_index": "The March of the Ten Thousand"
+  },
+  {
+    "id": 3289,
+    "question": "Which hero of Greek mythology stars in Valerio Massimo Manfredi's series \"My Name Is No One\"?",
+    "option_1": "Achilles",
+    "option_2": "Heracles",
+    "option_3": "Odysseus",
+    "option_4": "Jason",
+    "correct_index": "Odysseus"
+  },
+  {
+    "id": 3290,
+    "question": "What does Tom the Builder try to build in the fictional town of Kingsbridge, in Ken Follett's novel \"The Pillars of the Earth\" (1989)?",
+    "option_1": "A castle",
+    "option_2": "A bridge",
+    "option_3": "A cathedral",
+    "option_4": "A harbour",
+    "correct_index": "A cathedral"
+  },
+  {
+    "id": 3291,
+    "question": "Which Roman orator's life is told in Robert Harris's novels \"Imperium\" and \"Lustrum\"?",
+    "option_1": "Cicero",
+    "option_2": "Cato",
+    "option_3": "Seneca",
+    "option_4": "Catiline",
+    "correct_index": "Cicero"
+  },
+  {
+    "id": 3292,
+    "question": "Which French Egyptologist wrote the five-volume novel series \"Ramses\" about the life of Pharaoh Ramesses II?",
+    "option_1": "Christian Jacq",
+    "option_2": "Maurice Druon",
+    "option_3": "Amin Maalouf",
+    "option_4": "Jean-Christophe Rufin",
+    "correct_index": "Christian Jacq"
+  },
+  {
+    "id": 3293,
+    "question": "What profession does the hero of Mika Waltari's novel \"The Egyptian\" (1945) practise?",
+    "option_1": "Scribe",
+    "option_2": "Physician",
+    "option_3": "Priest of Amun",
+    "option_4": "Architect",
+    "correct_index": "Physician"
+  },
+  {
+    "id": 3294,
+    "question": "Which museum do four horsemen dressed as Knights Templar storm at the start of Raymond Khoury's novel \"The Last Templar\" (2005)?",
+    "option_1": "The Metropolitan Museum of Art in New York",
+    "option_2": "The Louvre",
+    "option_3": "The British Museum",
+    "option_4": "The Vatican Museums",
+    "correct_index": "The Metropolitan Museum of Art in New York"
+  },
+  {
+    "id": 3295,
+    "question": "Which author wrote the novel \"The Last Templar\" (2005), about a secret of the Knights Templar that threatens the Vatican?",
+    "option_1": "Dan Brown",
+    "option_2": "Raymond Khoury",
+    "option_3": "Steve Berry",
+    "option_4": "Javier Sierra",
+    "correct_index": "Raymond Khoury"
+  },
+  {
+    "id": 3296,
+    "question": "What other well-known job does the Portuguese José Rodrigues dos Santos, author of the novel \"The Einstein Enigma\", do?",
+    "option_1": "He is a theology professor",
+    "option_2": "He is a judge",
+    "option_3": "He is a TV news anchor",
+    "option_4": "He is an astrophysicist",
+    "correct_index": "He is a TV news anchor"
+  },
+  {
+    "id": 3297,
+    "question": "Around which lost manuscript does the plot of José Rodrigues dos Santos's novel \"The Einstein Enigma\" revolve?",
+    "option_1": "A manuscript by Newton",
+    "option_2": "A manuscript by Galileo",
+    "option_3": "A manuscript by Leonardo da Vinci",
+    "option_4": "A manuscript by Einstein",
+    "correct_index": "A manuscript by Einstein"
+  },
+  {
+    "id": 3298,
+    "question": "Which director made the film \"The Ninth Gate\" (1999), starring Johnny Depp, based on Arturo Pérez-Reverte's novel \"The Club Dumas\"?",
+    "option_1": "Roman Polanski",
+    "option_2": "Ridley Scott",
+    "option_3": "Pedro Almodóvar",
+    "option_4": "David Fincher",
+    "correct_index": "Roman Polanski"
+  },
+  {
+    "id": 3299,
+    "question": "Which game is hidden in the 15th-century painting at the heart of Arturo Pérez-Reverte's novel \"The Flanders Panel\" (1990)?",
+    "option_1": "A tarot deck",
+    "option_2": "A game of chess",
+    "option_3": "A die",
+    "option_4": "A backgammon board",
+    "correct_index": "A game of chess"
+  },
+  {
+    "id": 3300,
+    "question": "What profession did the Spaniard Arturo Pérez-Reverte pursue for 21 years before devoting himself to literature?",
+    "option_1": "Archaeologist",
+    "option_2": "Naval officer",
+    "option_3": "War correspondent",
+    "option_4": "Bookseller",
+    "correct_index": "War correspondent"
+  },
+  {
+    "id": 3301,
+    "question": "In which city is Javier Sierra's novel \"The Secret Supper\" set, as Leonardo da Vinci paints the famous mural?",
+    "option_1": "Florence",
+    "option_2": "Rome",
+    "option_3": "Venice",
+    "option_4": "Milan",
+    "correct_index": "Milan"
+  },
+  {
+    "id": 3302,
+    "question": "In which city does Cotton Malone, former agent and hero of Steve Berry's thrillers, run his antiquarian bookshop?",
+    "option_1": "Amsterdam",
+    "option_2": "Copenhagen",
+    "option_3": "Dublin",
+    "option_4": "Stockholm",
+    "correct_index": "Copenhagen"
+  },
+  {
+    "id": 3303,
+    "question": "The title of Steve Berry's novel \"The Third Secret\" (2005) refers to the third of the secrets that, according to tradition, the Virgin Mary revealed to three children in 1917. Where did these apparitions take place?",
+    "option_1": "Lourdes",
+    "option_2": "Guadalupe",
+    "option_3": "Fátima",
+    "option_4": "Medjugorje",
+    "correct_index": "Fátima"
+  },
+  {
+    "id": 3304,
+    "question": "At which American university is the novel \"The Rule of Four\" (2004) set, around an enigmatic Renaissance book?",
+    "option_1": "Princeton",
+    "option_2": "Harvard",
+    "option_3": "Yale",
+    "option_4": "Columbia",
+    "correct_index": "Princeton"
+  },
+  {
+    "id": 3305,
+    "question": "Who co-wrote the novel \"The Rule of Four\" (2004)?",
+    "option_1": "Douglas Preston and Lincoln Child",
+    "option_2": "Ian Caldwell and Dustin Thomason",
+    "option_3": "James Patterson and Bill Clinton",
+    "option_4": "Nicci Gerrard and Sean French",
+    "correct_index": "Ian Caldwell and Dustin Thomason"
+  },
+  {
+    "id": 3306,
+    "question": "What do the manuscripts of the secret medieval library record in Glenn Cooper's novel \"Library of the Dead\"?",
+    "option_1": "The locations of hidden treasures",
+    "option_2": "The names of all the saints",
+    "option_3": "People's dates of birth and death",
+    "option_4": "The prophecies of Nostradamus",
+    "correct_index": "People's dates of birth and death"
+  },
+  {
+    "id": 3307,
+    "question": "What profession did Glenn Cooper, author of the novel \"Library of the Dead\", have before turning to writing?",
+    "option_1": "He was a doctor and biotech executive",
+    "option_2": "He was an FBI agent",
+    "option_3": "He was a priest",
+    "option_4": "He was a pilot",
+    "correct_index": "He was a doctor and biotech executive"
+  },
+  {
+    "id": 3308,
+    "question": "Daniel discovers that a mysterious man is burning every copy of a certain author's books, in Carlos Ruiz Zafón's novel \"The Shadow of the Wind\". Who is that author?",
+    "option_1": "Julián Carax",
+    "option_2": "Fermín Romero de Torres",
+    "option_3": "Gustavo Barceló",
+    "option_4": "Francisco Javier Fumero",
+    "correct_index": "Julián Carax"
+  },
+  {
+    "id": 3309,
+    "question": "Which subject did Dan Brown teach at Phillips Exeter Academy before becoming a writer?",
+    "option_1": "Art history",
+    "option_2": "English",
+    "option_3": "Mathematics",
+    "option_4": "Latin",
+    "correct_index": "English"
+  },
+  {
+    "id": 3310,
+    "question": "Which actor played Robert Langdon in the film adaptations of Dan Brown's novels?",
+    "option_1": "George Clooney",
+    "option_2": "Russell Crowe",
+    "option_3": "Tom Hanks",
+    "option_4": "Brad Pitt",
+    "correct_index": "Tom Hanks"
+  },
+  {
+    "id": 3311,
+    "question": "Which director made all three Robert Langdon films based on Dan Brown's novels?",
+    "option_1": "Steven Spielberg",
+    "option_2": "Ron Howard",
+    "option_3": "Ridley Scott",
+    "option_4": "Christopher Nolan",
+    "correct_index": "Ron Howard"
+  },
+  {
+    "id": 3312,
+    "question": "Which legendary object are Robert Langdon and Sophie Neveu searching for in Dan Brown's novel \"The Da Vinci Code\"?",
+    "option_1": "The Ark of the Covenant",
+    "option_2": "The Holy Grail",
+    "option_3": "The Spear of Longinus",
+    "option_4": "The Shroud of Turin",
+    "correct_index": "The Holy Grail"
+  },
+  {
+    "id": 3313,
+    "question": "What supernatural ability does the teenage heroine of Stephen King's novel \"Carrie\" (1974) have?",
+    "option_1": "She reads other people's minds",
+    "option_2": "She moves objects with her mind (telekinesis)",
+    "option_3": "She sees the future",
+    "option_4": "She becomes invisible",
+    "correct_index": "She moves objects with her mind (telekinesis)"
+  },
+  {
+    "id": 3314,
+    "question": "What do the seven children who face Pennywise the clown call themselves in Stephen King's novel \"It\" (1986)?",
+    "option_1": "The Guardians of Derry",
+    "option_2": "The Losers' Club",
+    "option_3": "The Knights of the Sewer",
+    "option_4": "The River Gang",
+    "correct_index": "The Losers' Club"
+  },
+  {
+    "id": 3315,
+    "question": "Which actor played Pennywise the clown in the 2017 film adaptation of Stephen King's novel \"It\"?",
+    "option_1": "Bill Skarsgård",
+    "option_2": "Joaquin Phoenix",
+    "option_3": "Tim Curry",
+    "option_4": "Heath Ledger",
+    "correct_index": "Bill Skarsgård"
+  },
+  {
+    "id": 3316,
+    "question": "The original title of Stephen King's novel \"Pet Sematary\" (1983) is misspelled. Why?",
+    "option_1": "It was a publisher's typo",
+    "option_2": "That is how children spelled it on the cemetery sign",
+    "option_3": "It is the old Maine spelling of the word",
+    "option_4": "It was a pun on a character's name",
+    "correct_index": "That is how children spelled it on the cemetery sign"
+  },
+  {
+    "id": 3317,
+    "question": "What is Hannibal Lecter's profession in Thomas Harris's novel \"The Silence of the Lambs\" (1988)?",
+    "option_1": "Surgeon",
+    "option_2": "Medical examiner",
+    "option_3": "Psychiatrist",
+    "option_4": "Art history professor",
+    "correct_index": "Psychiatrist"
+  },
+  {
+    "id": 3318,
+    "question": "Which actor won the Academy Award for Best Actor as Hannibal Lecter in \"The Silence of the Lambs\" (1991), the adaptation of Thomas Harris's novel?",
+    "option_1": "Anthony Hopkins",
+    "option_2": "Jack Nicholson",
+    "option_3": "Robert De Niro",
+    "option_4": "Gary Oldman",
+    "correct_index": "Anthony Hopkins"
+  },
+  {
+    "id": 3319,
+    "question": "Who is Clarice Starling in Thomas Harris's novel \"The Silence of the Lambs\"?",
+    "option_1": "A journalist",
+    "option_2": "An FBI trainee",
+    "option_3": "The institution's psychiatrist",
+    "option_4": "A victim's daughter",
+    "correct_index": "An FBI trainee"
+  },
+  {
+    "id": 3320,
+    "question": "What does Lestat become when he wakes up in the 1980s, in Anne Rice's novel \"The Vampire Lestat\" (1985)?",
+    "option_1": "A rock star",
+    "option_2": "A priest",
+    "option_3": "A police officer",
+    "option_4": "A surgeon",
+    "correct_index": "A rock star"
+  },
+  {
+    "id": 3321,
+    "question": "What is the name of the ancient demon that possesses little Regan in William Peter Blatty's novel \"The Exorcist\" (1971)?",
+    "option_1": "Beelzebub",
+    "option_2": "Asmodeus",
+    "option_3": "Pazuzu",
+    "option_4": "Moloch",
+    "correct_index": "Pazuzu"
+  },
+  {
+    "id": 3322,
+    "question": "Which real case did William Peter Blatty draw on to write \"The Exorcist\" (1971)?",
+    "option_1": "The Salem witch trials",
+    "option_2": "An exorcism of a boy in the US in 1949",
+    "option_3": "The life of Rasputin",
+    "option_4": "A curse on Tutankhamun's tomb",
+    "correct_index": "An exorcism of a boy in the US in 1949"
+  },
+  {
+    "id": 3323,
+    "question": "Which director made the film \"Rosemary's Baby\" (1968), the adaptation of Ira Levin's novel?",
+    "option_1": "Alfred Hitchcock",
+    "option_2": "Roman Polanski",
+    "option_3": "William Friedkin",
+    "option_4": "Stanley Kubrick",
+    "correct_index": "Roman Polanski"
+  },
+  {
+    "id": 3324,
+    "question": "For which TV series did Richard Matheson write the famous episode \"Nightmare at 20,000 Feet\" (1963), in which a passenger sees a creature on the airplane's wing?",
+    "option_1": "Alfred Hitchcock Presents",
+    "option_2": "Star Trek",
+    "option_3": "The Twilight Zone",
+    "option_4": "The Outer Limits",
+    "correct_index": "The Twilight Zone"
+  },
+  {
+    "id": 3325,
+    "question": "Which author wrote the six-volume horror story collection \"Books of Blood\" (1984–1985)?",
+    "option_1": "Stephen King",
+    "option_2": "Clive Barker",
+    "option_3": "James Herbert",
+    "option_4": "Robert McCammon",
+    "correct_index": "Clive Barker"
+  },
+  {
+    "id": 3326,
+    "question": "Which author said in 1984 \"I have seen the future of horror and its name is Clive Barker\"?",
+    "option_1": "Stephen King",
+    "option_2": "Ray Bradbury",
+    "option_3": "Anne Rice",
+    "option_4": "Peter Straub",
+    "correct_index": "Stephen King"
+  },
+  {
+    "id": 3327,
+    "question": "Which author wrote the novel \"We Have Always Lived in the Castle\" (1962), about two sisters living in isolation after their family's death?",
+    "option_1": "Daphne du Maurier",
+    "option_2": "Susan Hill",
+    "option_3": "Shirley Jackson",
+    "option_4": "Anne Rice",
+    "correct_index": "Shirley Jackson"
+  },
+  {
+    "id": 3328,
+    "question": "In Shirley Jackson's novel \"We Have Always Lived in the Castle\", how was the Blackwood family poisoned six years earlier?",
+    "option_1": "With arsenic in the sugar",
+    "option_2": "With mushrooms in the soup",
+    "option_3": "With hemlock in the wine",
+    "option_4": "With a gas leak",
+    "correct_index": "With arsenic in the sugar"
+  },
+  {
+    "id": 3329,
+    "question": "Which actor starred in the 2012 film adaptation of Susan Hill's novel \"The Woman in Black\"?",
+    "option_1": "Rupert Grint",
+    "option_2": "Daniel Radcliffe",
+    "option_3": "Eddie Redmayne",
+    "option_4": "Tom Hiddleston",
+    "correct_index": "Daniel Radcliffe"
+  },
+  {
+    "id": 3330,
+    "question": "What is the profession of Arthur Kipps, who travels to the isolated Eel Marsh House in Susan Hill's novel \"The Woman in Black\" (1983)?",
+    "option_1": "Doctor",
+    "option_2": "Solicitor",
+    "option_3": "Priest",
+    "option_4": "Architect",
+    "correct_index": "Solicitor"
+  },
+  {
+    "id": 3331,
+    "question": "Which author wrote the novel \"Ghost Story\" (1979), about four elderly friends who tell each other horror stories?",
+    "option_1": "Peter Straub",
+    "option_2": "Dean Koontz",
+    "option_3": "James Herbert",
+    "option_4": "Richard Matheson",
+    "correct_index": "Peter Straub"
+  },
+  {
+    "id": 3332,
+    "question": "Dean Koontz used many pseudonyms early in his career. Which of the following is one of them?",
+    "option_1": "Richard Bachman",
+    "option_2": "Leigh Nichols",
+    "option_3": "Robert Galbraith",
+    "option_4": "Victoria Lucas",
+    "correct_index": "Leigh Nichols"
+  },
+  {
+    "id": 3333,
+    "question": "What does the narrator hear beating under the floor until he confesses the murder, in Edgar Allan Poe's story \"The Tell-Tale Heart\" (1843)?",
+    "option_1": "A clock",
+    "option_2": "The victim's heart",
+    "option_3": "Footsteps",
+    "option_4": "The raven",
+    "correct_index": "The victim's heart"
+  },
+  {
+    "id": 3334,
+    "question": "What makes the narrator want to kill the old man in Edgar Allan Poe's story \"The Tell-Tale Heart\"?",
+    "option_1": "His money",
+    "option_2": "His eye, which looks like a vulture's eye",
+    "option_3": "His cough",
+    "option_4": "An old insult",
+    "correct_index": "His eye, which looks like a vulture's eye"
+  },
+  {
+    "id": 3335,
+    "question": "With what bait does Montresor lure Fortunato into the catacombs in Edgar Allan Poe's story \"The Cask of Amontillado\" (1846)?",
+    "option_1": "A rare wine",
+    "option_2": "A treasure map",
+    "option_3": "An ancient manuscript",
+    "option_4": "A secret meeting with a woman",
+    "correct_index": "A rare wine"
+  },
+  {
+    "id": 3336,
+    "question": "What is the name of the black cat in Edgar Allan Poe's story \"The Black Cat\" (1843)?",
+    "option_1": "Lucifer",
+    "option_2": "Pluto",
+    "option_3": "Erebus",
+    "option_4": "Hades",
+    "correct_index": "Pluto"
+  },
+  {
+    "id": 3337,
+    "question": "Who holds the narrator captive in Edgar Allan Poe's story \"The Pit and the Pendulum\" (1842)?",
+    "option_1": "The Spanish Inquisition",
+    "option_2": "Pirates",
+    "option_3": "A mad scientist",
+    "option_4": "The Turks",
+    "correct_index": "The Spanish Inquisition"
+  },
+  {
+    "id": 3338,
+    "question": "Whose treasure do the heroes find by solving a cryptogram in Edgar Allan Poe's story \"The Gold-Bug\" (1843)?",
+    "option_1": "Blackbeard's",
+    "option_2": "Captain Kidd's",
+    "option_3": "Henry Morgan's",
+    "option_4": "Francis Drake's",
+    "correct_index": "Captain Kidd's"
+  },
+  {
+    "id": 3339,
+    "question": "Which poem by Edgar Allan Poe, the last complete one he wrote, speaks of a beloved who lived \"in a kingdom by the sea\"?",
+    "option_1": "Lenore",
+    "option_2": "Ulalume",
+    "option_3": "Annabel Lee",
+    "option_4": "The Bells",
+    "correct_index": "Annabel Lee"
+  },
+  {
+    "id": 3340,
+    "question": "On which statue does the raven perch, above the chamber door, in Edgar Allan Poe's poem \"The Raven\"?",
+    "option_1": "A bust of Pallas Athena",
+    "option_2": "A statue of Apollo",
+    "option_3": "A cross",
+    "option_4": "A bust of Homer",
+    "correct_index": "A bust of Pallas Athena"
+  },
+  {
+    "id": 3341,
+    "question": "Where does Edgar Allan Poe's middle name \"Allan\" come from?",
+    "option_1": "From his grandfather",
+    "option_2": "From John Allan, the merchant who raised him",
+    "option_3": "From a hero of Walter Scott",
+    "option_4": "He chose it himself as a pen name",
+    "correct_index": "From John Allan, the merchant who raised him"
+  },
+  {
+    "id": 3342,
+    "question": "In which city was Edgar Allan Poe born, in 1809?",
+    "option_1": "Baltimore",
+    "option_2": "Richmond",
+    "option_3": "Boston",
+    "option_4": "Philadelphia",
+    "correct_index": "Boston"
+  },
+  {
+    "id": 3343,
+    "question": "From which military academy was Edgar Allan Poe expelled in 1831?",
+    "option_1": "West Point",
+    "option_2": "Annapolis",
+    "option_3": "Sandhurst",
+    "option_4": "Saint-Cyr",
+    "correct_index": "West Point"
+  },
+  {
+    "id": 3344,
+    "question": "Which major US mystery-writing awards are named after Edgar Allan Poe?",
+    "option_1": "The Edgar Awards",
+    "option_2": "The Dagger Awards",
+    "option_3": "The Agatha Awards",
+    "option_4": "The Anthony Awards",
+    "correct_index": "The Edgar Awards"
+  },
+  {
+    "id": 3345,
+    "question": "Which woman, his teenage sweetheart, was Edgar Allan Poe engaged to again shortly before his death in 1849?",
+    "option_1": "Sarah Helen Whitman",
+    "option_2": "Elmira Royster Shelton",
+    "option_3": "Frances Osgood",
+    "option_4": "Annie Richmond",
+    "correct_index": "Elmira Royster Shelton"
+  },
+  {
+    "id": 3346,
+    "question": "In which sunken city does Cthulhu sleep, in H. P. Lovecraft's story \"The Call of Cthulhu\" (1928)?",
+    "option_1": "Atlantis",
+    "option_2": "R'lyeh",
+    "option_3": "Innsmouth",
+    "option_4": "Kadath",
+    "correct_index": "R'lyeh"
+  },
+  {
+    "id": 3347,
+    "question": "How is the form of Cthulhu, the cosmic entity created by H. P. Lovecraft, usually described?",
+    "option_1": "As a giant three-headed wolf",
+    "option_2": "As a creature with an octopus head, dragon wings and a humanoid body",
+    "option_3": "As a formless shadow",
+    "option_4": "As a snake with a human face",
+    "correct_index": "As a creature with an octopus head, dragon wings and a humanoid body"
+  },
+  {
+    "id": 3348,
+    "question": "With what have the townspeople interbred in H. P. Lovecraft's novella \"The Shadow over Innsmouth\" (1936)?",
+    "option_1": "Vampires",
+    "option_2": "Sea creatures, the \"Deep Ones\"",
+    "option_3": "Werewolves",
+    "option_4": "Martians",
+    "correct_index": "Sea creatures, the \"Deep Ones\""
+  },
+  {
+    "id": 3349,
+    "question": "Who is the father of Wilbur Whateley and his invisible twin brother in H. P. Lovecraft's novella \"The Dunwich Horror\" (1929)?",
+    "option_1": "Cthulhu",
+    "option_2": "Yog-Sothoth",
+    "option_3": "Nyarlathotep",
+    "option_4": "Azathoth",
+    "correct_index": "Yog-Sothoth"
+  },
+  {
+    "id": 3350,
+    "question": "Where is the scientific expedition heading that discovers an ancient, non-human city in H. P. Lovecraft's \"At the Mountains of Madness\" (1936)?",
+    "option_1": "The Himalayas",
+    "option_2": "Antarctica",
+    "option_3": "The Sahara",
+    "option_4": "The Amazon",
+    "correct_index": "Antarctica"
+  },
+  {
+    "id": 3351,
+    "question": "What falls on a farm near Arkham and poisons the land in H. P. Lovecraft's story \"The Colour Out of Space\" (1927)?",
+    "option_1": "A meteorite",
+    "option_2": "An airplane",
+    "option_3": "A lightning bolt",
+    "option_4": "A spaceship",
+    "correct_index": "A meteorite"
+  },
+  {
+    "id": 3352,
+    "question": "Which instrument does the mysterious old musician play in H. P. Lovecraft's story \"The Music of Erich Zann\" (1922)?",
+    "option_1": "Piano",
+    "option_2": "Viol",
+    "option_3": "Flute",
+    "option_4": "Church organ",
+    "correct_index": "Viol"
+  },
+  {
+    "id": 3353,
+    "question": "Which woman did H. P. Lovecraft marry in 1924, moving with her to New York?",
+    "option_1": "Sonia Greene",
+    "option_2": "Zealia Bishop",
+    "option_3": "C. L. Moore",
+    "option_4": "Lillian Clark",
+    "correct_index": "Sonia Greene"
+  },
+  {
+    "id": 3354,
+    "question": "Which author founded the publishing house Arkham House to publish H. P. Lovecraft's works after his death?",
+    "option_1": "Robert E. Howard",
+    "option_2": "August Derleth",
+    "option_3": "Clark Ashton Smith",
+    "option_4": "Robert Bloch",
+    "correct_index": "August Derleth"
+  },
+  {
+    "id": 3355,
+    "question": "What change was made in 2015 to the World Fantasy Award, regarding H. P. Lovecraft?",
+    "option_1": "It was renamed the \"Lovecraft Award\"",
+    "option_2": "It stopped being a bust of Lovecraft",
+    "option_3": "It was awarded posthumously to Lovecraft",
+    "option_4": "The cosmic horror category was abolished",
+    "correct_index": "It stopped being a bust of Lovecraft"
+  },
+  {
+    "id": 3356,
+    "question": "Which creator of \"Conan the Barbarian\" was a close pen friend of H. P. Lovecraft?",
+    "option_1": "Robert E. Howard",
+    "option_2": "Edgar Rice Burroughs",
+    "option_3": "J. R. R. Tolkien",
+    "option_4": "Fritz Leiber",
+    "correct_index": "Robert E. Howard"
+  },
+  {
+    "id": 3357,
+    "question": "Besides his fiction, what aspect of his life is H. P. Lovecraft known for?",
+    "option_1": "He wrote tens of thousands of letters",
+    "option_2": "He travelled to every continent",
+    "option_3": "He was a professional astronomer",
+    "option_4": "He wrote mostly under a pen name",
+    "correct_index": "He wrote tens of thousands of letters"
+  },
+  {
+    "id": 3358,
+    "question": "What is the name of the devoted butler who narrates Kazuo Ishiguro's novel \"The Remains of the Day\"?",
+    "option_1": "Stevens",
+    "option_2": "Jeeves",
+    "option_3": "Carson",
+    "option_4": "Hudson",
+    "correct_index": "Stevens"
+  },
+  {
+    "id": 3359,
+    "question": "With which novel did Kazuo Ishiguro win the Booker Prize in 1989?",
+    "option_1": "The Remains of the Day",
+    "option_2": "Never Let Me Go",
+    "option_3": "The Buried Giant",
+    "option_4": "Klara and the Sun",
+    "correct_index": "The Remains of the Day"
+  },
+  {
+    "id": 3360,
+    "question": "Which British author won the Booker Prize in 1998 with the novel \"Amsterdam\", about two friends who meet at the funeral of a woman they both loved?",
+    "option_1": "Ian McEwan",
+    "option_2": "Julian Barnes",
+    "option_3": "Martin Amis",
+    "option_4": "Graham Swift",
+    "correct_index": "Ian McEwan"
+  },
+  {
+    "id": 3361,
+    "question": "Which historical adviser of Henry VIII is the central character of Hilary Mantel's novel \"Wolf Hall\"?",
+    "option_1": "Thomas Cromwell",
+    "option_2": "Napoleon Bonaparte",
+    "option_3": "Alexander the Great",
+    "option_4": "Julius Caesar",
+    "correct_index": "Thomas Cromwell"
+  },
+  {
+    "id": 3362,
+    "question": "Which British author became the first woman to win the Booker Prize twice, with two novels of the same trilogy about Thomas Cromwell?",
+    "option_1": "Hilary Mantel",
+    "option_2": "Iris Murdoch",
+    "option_3": "Sarah Waters",
+    "option_4": "Bernardine Evaristo",
+    "correct_index": "Hilary Mantel"
+  },
+  {
+    "id": 3363,
+    "question": "Which author won the Booker Prize in 2011 with the short novel \"The Sense of an Ending\"?",
+    "option_1": "Julian Barnes",
+    "option_2": "Ian McEwan",
+    "option_3": "Colm Tóibín",
+    "option_4": "David Mitchell",
+    "correct_index": "Julian Barnes"
+  },
+  {
+    "id": 3364,
+    "question": "Which Irish author wrote the novel \"Beautiful World, Where Are You\"?",
+    "option_1": "Sally Rooney",
+    "option_2": "Agatha Christie",
+    "option_3": "Simone de Beauvoir",
+    "option_4": "Jane Austen",
+    "correct_index": "Sally Rooney"
+  },
+  {
+    "id": 3365,
+    "question": "What is the name of the young Irish woman who emigrates to New York in the 1950s, heroine of Colm Tóibín's novel \"Brooklyn\"?",
+    "option_1": "Eilis Lacey",
+    "option_2": "Marianne Sheridan",
+    "option_3": "Veronica Hegarty",
+    "option_4": "Molly Lane",
+    "correct_index": "Eilis Lacey"
+  },
+  {
+    "id": 3366,
+    "question": "Which German Nobel laureate is the central character of Colm Tóibín's novel \"The Magician\"?",
+    "option_1": "Thomas Mann",
+    "option_2": "Hermann Hesse",
+    "option_3": "Günter Grass",
+    "option_4": "Heinrich Böll",
+    "correct_index": "Thomas Mann"
+  },
+  {
+    "id": 3367,
+    "question": "Which author wrote the novel \"Midnight's Children\", which begins at the moment of India's independence?",
+    "option_1": "Salman Rushdie",
+    "option_2": "Charles Dickens",
+    "option_3": "Umberto Eco",
+    "option_4": "Leo Tolstoy",
+    "correct_index": "Salman Rushdie"
+  },
+  {
+    "id": 3368,
+    "question": "What is the name of the narrator of Salman Rushdie's novel \"Midnight's Children\", born at midnight on 15 August 1947?",
+    "option_1": "Saleem Sinai",
+    "option_2": "Shiva",
+    "option_3": "Rahel Ipe",
+    "option_4": "Gibreel Farishta",
+    "correct_index": "Saleem Sinai"
+  },
+  {
+    "id": 3369,
+    "question": "Which novel was named the \"Booker of Bookers\" in 1993, the best book to have won the prize in its first 25 years?",
+    "option_1": "Midnight's Children",
+    "option_2": "The Remains of the Day",
+    "option_3": "The English Patient",
+    "option_4": "The Sea",
+    "correct_index": "Midnight's Children"
+  },
+  {
+    "id": 3370,
+    "question": "Which Irish author won the Booker Prize in 2007 with the novel \"The Gathering\", about a large family brought together by a death?",
+    "option_1": "Anne Enright",
+    "option_2": "Sally Rooney",
+    "option_3": "Claire Keegan",
+    "option_4": "Edna O'Brien",
+    "correct_index": "Anne Enright"
+  },
+  {
+    "id": 3371,
+    "question": "Which Irish author won the Booker Prize in 2005 with the novel \"The Sea\"?",
+    "option_1": "John Banville",
+    "option_2": "Colm Tóibín",
+    "option_3": "Roddy Doyle",
+    "option_4": "Sebastian Barry",
+    "correct_index": "John Banville"
+  },
+  {
+    "id": 3372,
+    "question": "In 2019 the Booker Prize was shared between Margaret Atwood and a British author, the first Black woman to win the prize. Who was she?",
+    "option_1": "Bernardine Evaristo",
+    "option_2": "Zadie Smith",
+    "option_3": "Andrea Levy",
+    "option_4": "Chimamanda Ngozi Adichie",
+    "correct_index": "Bernardine Evaristo"
+  },
+  {
+    "id": 3373,
+    "question": "Where was Abdulrazak Gurnah born, the UK-based author awarded the Nobel Prize in Literature in 2021?",
+    "option_1": "Zanzibar",
+    "option_2": "Nairobi",
+    "option_3": "Lagos",
+    "option_4": "Mombasa",
+    "correct_index": "Zanzibar"
+  },
+  {
+    "id": 3374,
+    "question": "The British novelist Martin Amis, author of the novel \"Money\", was the son of which other famous writer?",
+    "option_1": "Kingsley Amis",
+    "option_2": "Evelyn Waugh",
+    "option_3": "Graham Greene",
+    "option_4": "Anthony Burgess",
+    "correct_index": "Kingsley Amis"
+  },
+  {
+    "id": 3375,
+    "question": "Which Scottish author wrote the novel \"Trainspotting\", about a group of young addicts in Edinburgh?",
+    "option_1": "Irvine Welsh",
+    "option_2": "Jane Austen",
+    "option_3": "Marcel Proust",
+    "option_4": "Yannis Ritsos",
+    "correct_index": "Irvine Welsh"
+  },
+  {
+    "id": 3376,
+    "question": "What is the name of the main character and narrator of Irvine Welsh's novel \"Trainspotting\"?",
+    "option_1": "Mark Renton",
+    "option_2": "Robin Hood",
+    "option_3": "Count Dracula",
+    "option_4": "Pinocchio",
+    "correct_index": "Mark Renton"
+  },
+  {
+    "id": 3377,
+    "question": "Which football club's passionate love does Nick Hornby recount in his autobiographical book \"Fever Pitch\"?",
+    "option_1": "Arsenal",
+    "option_2": "Panathinaikos",
+    "option_3": "The Chicago Bulls",
+    "option_4": "Boca Juniors",
+    "correct_index": "Arsenal"
+  },
+  {
+    "id": 3378,
+    "question": "Which British author wrote the novel \"About a Boy\", adapted for the screen in 2002 with Hugh Grant?",
+    "option_1": "Nick Hornby",
+    "option_2": "Ian McEwan",
+    "option_3": "Julian Barnes",
+    "option_4": "Irvine Welsh",
+    "correct_index": "Nick Hornby"
+  },
+  {
+    "id": 3379,
+    "question": "Which British author wrote the novel \"Cloud Atlas\", with six interlinked stories set in different eras?",
+    "option_1": "David Mitchell",
+    "option_2": "Jules Verne",
+    "option_3": "Leo Tolstoy",
+    "option_4": "Victor Hugo",
+    "correct_index": "David Mitchell"
+  },
+  {
+    "id": 3380,
+    "question": "Who was the father of Hamnet, the boy who gives his name to Maggie O'Farrell's novel \"Hamnet\"?",
+    "option_1": "William Shakespeare",
+    "option_2": "Charles Darwin",
+    "option_3": "Isaac Newton",
+    "option_4": "Winston Churchill",
+    "correct_index": "William Shakespeare"
+  },
+  {
+    "id": 3381,
+    "question": "Which British prize did Maggie O'Farrell's novel \"Hamnet\" win in 2020?",
+    "option_1": "The Women's Prize for Fiction",
+    "option_2": "The Booker Prize",
+    "option_3": "The Costa Award",
+    "option_4": "The Arthur C. Clarke Award",
+    "correct_index": "The Women's Prize for Fiction"
+  },
+  {
+    "id": 3382,
+    "question": "Which Scottish author won the Booker Prize in 2020 with his first novel, \"Shuggie Bain\", set in Glasgow?",
+    "option_1": "Douglas Stuart",
+    "option_2": "Irvine Welsh",
+    "option_3": "Ian Rankin",
+    "option_4": "Graham Swift",
+    "correct_index": "Douglas Stuart"
+  },
+  {
+    "id": 3383,
+    "question": "Which actor plays the father crossing a ruined America with his son in the film \"The Road\" (2009), adapted from Cormac McCarthy's novel?",
+    "option_1": "Viggo Mortensen",
+    "option_2": "Josh Brolin",
+    "option_3": "Tommy Lee Jones",
+    "option_4": "Matthew McConaughey",
+    "correct_index": "Viggo Mortensen"
+  },
+  {
+    "id": 3384,
+    "question": "Which actor played John Grady Cole in the film \"All the Pretty Horses\" (2000), adapted from Cormac McCarthy's novel?",
+    "option_1": "Matt Damon",
+    "option_2": "Ben Affleck",
+    "option_3": "Heath Ledger",
+    "option_4": "Brad Pitt",
+    "correct_index": "Matt Damon"
+  },
+  {
+    "id": 3385,
+    "question": "Which Ridley Scott film (2013) was made from the first original screenplay written by Cormac McCarthy?",
+    "option_1": "The Counselor",
+    "option_2": "Gladiator",
+    "option_3": "The Road",
+    "option_4": "No Country for Old Men",
+    "correct_index": "The Counselor"
+  },
+  {
+    "id": 3386,
+    "question": "Which actor directed and starred in the film \"American Pastoral\" (2016), adapted from Philip Roth's novel, in his directorial debut?",
+    "option_1": "Ewan McGregor",
+    "option_2": "George Clooney",
+    "option_3": "Ben Affleck",
+    "option_4": "Bradley Cooper",
+    "correct_index": "Ewan McGregor"
+  },
+  {
+    "id": 3387,
+    "question": "Whose novel is the basis of David Simon's HBO miniseries \"The Plot Against America\" (2020)?",
+    "option_1": "Philip Roth",
+    "option_2": "Jonathan Franzen",
+    "option_3": "Paul Auster",
+    "option_4": "Don DeLillo",
+    "correct_index": "Philip Roth"
+  },
+  {
+    "id": 3388,
+    "question": "Which author won the Academy Award for Best Adapted Screenplay for the film of his own novel \"The Cider House Rules\"?",
+    "option_1": "John Irving",
+    "option_2": "Nick Hornby",
+    "option_3": "Kazuo Ishiguro",
+    "option_4": "Michael Cunningham",
+    "correct_index": "John Irving"
+  },
+  {
+    "id": 3389,
+    "question": "Which famous actor directed episodes of, produced and appeared in the miniseries \"Catch-22\" (2019), based on Joseph Heller's novel?",
+    "option_1": "George Clooney",
+    "option_2": "Tom Hanks",
+    "option_3": "Brad Pitt",
+    "option_4": "Clint Eastwood",
+    "correct_index": "George Clooney"
+  },
+  {
+    "id": 3390,
+    "question": "Which author wrote the screenplay of Wayne Wang's film \"Smoke\" (1995), starring Harvey Keitel and William Hurt?",
+    "option_1": "Paul Auster",
+    "option_2": "Don DeLillo",
+    "option_3": "Raymond Carver",
+    "option_4": "John Irving",
+    "correct_index": "Paul Auster"
+  },
+  {
+    "id": 3391,
+    "question": "Which famous American talk-show host starred in the film adaptation (1998) of Toni Morrison's novel \"Beloved\"?",
+    "option_1": "Oprah Winfrey",
+    "option_2": "Whoopi Goldberg",
+    "option_3": "Ellen DeGeneres",
+    "option_4": "Tyra Banks",
+    "correct_index": "Oprah Winfrey"
+  },
+  {
+    "id": 3392,
+    "question": "Which director adapted Don DeLillo's novel \"Cosmopolis\" for the screen (2012), starring Robert Pattinson?",
+    "option_1": "David Cronenberg",
+    "option_2": "David Lynch",
+    "option_3": "David Fincher",
+    "option_4": "Darren Aronofsky",
+    "correct_index": "David Cronenberg"
+  },
+  {
+    "id": 3393,
+    "question": "Which director made the film \"Inherent Vice\" (2014), the first screen adaptation of a book by Thomas Pynchon?",
+    "option_1": "Paul Thomas Anderson",
+    "option_2": "Wes Anderson",
+    "option_3": "Quentin Tarantino",
+    "option_4": "Ethan Coen",
+    "correct_index": "Paul Thomas Anderson"
+  },
+  {
+    "id": 3394,
+    "question": "For which film, a remake of Akira Kurosawa's \"Ikiru\", was Kazuo Ishiguro nominated for the Academy Award for Best Adapted Screenplay?",
+    "option_1": "Living",
+    "option_2": "The Remains of the Day",
+    "option_3": "Never Let Me Go",
+    "option_4": "Klara and the Sun",
+    "correct_index": "Living"
+  },
+  {
+    "id": 3395,
+    "question": "Which author wrote the novel \"On Chesil Beach\", adapted for the screen in 2017 starring Saoirse Ronan?",
+    "option_1": "Ian McEwan",
+    "option_2": "Julian Barnes",
+    "option_3": "Colm Tóibín",
+    "option_4": "Kazuo Ishiguro",
+    "correct_index": "Ian McEwan"
+  },
+  {
+    "id": 3396,
+    "question": "Which Iranian religious leader issued a fatwa in 1989 calling for the death of Salman Rushdie over the novel \"The Satanic Verses\"?",
+    "option_1": "Ayatollah Khomeini",
+    "option_2": "Pope John Paul II",
+    "option_3": "The Dalai Lama",
+    "option_4": "Muammar Gaddafi",
+    "correct_index": "Ayatollah Khomeini"
+  },
+  {
+    "id": 3397,
+    "question": "On which novel by Irvine Welsh, the sequel to \"Trainspotting\", is Danny Boyle's film \"T2 Trainspotting\" (2017) loosely based?",
+    "option_1": "Porno",
+    "option_2": "Money",
+    "option_3": "Rabbit, Run",
+    "option_4": "Shuggie Bain",
+    "correct_index": "Porno"
+  },
+  {
+    "id": 3398,
+    "question": "Which British author wrote the screenplay of the film \"Brooklyn\" (2015), adapted from Colm Tóibín's novel, earning an Oscar nomination?",
+    "option_1": "Nick Hornby",
+    "option_2": "Ian McEwan",
+    "option_3": "Kazuo Ishiguro",
+    "option_4": "Irvine Welsh",
+    "correct_index": "Nick Hornby"
+  },
+  {
+    "id": 3399,
+    "question": "Which director adapted Maggie O'Farrell's novel \"Hamnet\" for the screen, starring Jessie Buckley and Paul Mescal?",
+    "option_1": "Chloé Zhao",
+    "option_2": "Greta Gerwig",
+    "option_3": "Sofia Coppola",
+    "option_4": "Jane Campion",
+    "correct_index": "Chloé Zhao"
+  },
+  {
+    "id": 3400,
+    "question": "Under which pen name did the Irish author John Banville sign his crime novels for years?",
+    "option_1": "Benjamin Black",
+    "option_2": "Robert Galbraith",
+    "option_3": "Richard Bachman",
+    "option_4": "Barbara Vine",
+    "correct_index": "Benjamin Black"
+  },
+  {
+    "id": 3401,
+    "question": "Whose novel is the basis of Jonathan Glazer's film \"The Zone of Interest\" (2023), about the family of the Auschwitz commandant?",
+    "option_1": "Martin Amis",
+    "option_2": "Ian McEwan",
+    "option_3": "Kazuo Ishiguro",
+    "option_4": "Julian Barnes",
+    "correct_index": "Martin Amis"
+  },
+  {
+    "id": 3402,
+    "question": "Which director adapted Bret Easton Ellis's novel \"American Psycho\" for the screen (2000)?",
+    "option_1": "Mary Harron",
+    "option_2": "Kathryn Bigelow",
+    "option_3": "Sofia Coppola",
+    "option_4": "Jane Campion",
+    "correct_index": "Mary Harron"
+  },
+  {
+    "id": 3403,
+    "question": "Which actress played the housekeeper, Miss Kenton, in the film \"The Remains of the Day\" (1993), adapted from Kazuo Ishiguro's novel?",
+    "option_1": "Emma Thompson",
+    "option_2": "Meryl Streep",
+    "option_3": "Judi Dench",
+    "option_4": "Helen Mirren",
+    "correct_index": "Emma Thompson"
+  },
+  {
+    "id": 3404,
+    "question": "Which actress played Marianne in the series \"Normal People\" (2020), adapted from Sally Rooney's novel?",
+    "option_1": "Daisy Edgar-Jones",
+    "option_2": "Saoirse Ronan",
+    "option_3": "Florence Pugh",
+    "option_4": "Jessie Buckley",
+    "correct_index": "Daisy Edgar-Jones"
+  },
+  {
+    "id": 3405,
+    "question": "Who wrote the screenplay of, and narrated, Deepa Mehta's film \"Midnight's Children\" (2012)?",
+    "option_1": "Salman Rushdie himself",
+    "option_2": "Vikram Seth",
+    "option_3": "Arundhati Roy",
+    "option_4": "V. S. Naipaul",
+    "correct_index": "Salman Rushdie himself"
+  },
+  {
+    "id": 3406,
+    "question": "Which actress played Kathy, the narrator, in the film \"Never Let Me Go\" (2010), adapted from Kazuo Ishiguro's novel?",
+    "option_1": "Carey Mulligan",
+    "option_2": "Keira Knightley",
+    "option_3": "Emma Watson",
+    "option_4": "Felicity Jones",
+    "correct_index": "Carey Mulligan"
   }
 ]
